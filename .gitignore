@@ -3,3 +3,4 @@ SC2Overlay.exe
 overlay_data.json
 config.json
 __pycache__/
+LLM-PySC2/llm_log/

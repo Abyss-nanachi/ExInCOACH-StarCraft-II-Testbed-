@@ -1,3 +1,5 @@
 *.pyc
 *_pb2.py
 llm_log/
+.git_backup/
+__pycache__/
