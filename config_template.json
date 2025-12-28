@@ -1,0 +1,25 @@
+{
+  "decision_llm": {
+    "api_key": "",
+    "api_base": "",
+    "model_name": "",
+    "temperature": 0.1
+  },
+  "decision_vlm": {
+    "api_key": "",
+    "api_base": "",
+    "model_name": "",
+    "temperature": 0.1
+  },
+  "chat_llm": {
+    "api_key": "",
+    "api_base": "",
+    "model_name": "",
+    "temperature": 0.1
+  },
+  "overlay": {
+    "MinimapScale": 0.25,
+    "MinimapOffsetX": 0.015,
+    "MinimapOffsetY": -0.01
+  }
+}

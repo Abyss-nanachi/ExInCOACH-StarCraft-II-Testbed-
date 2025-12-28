@@ -1,0 +1,42 @@
+# Generated requirements.txt for AlphaStar project
+
+# Core dependencies
+torch>=1.7.0
+numpy>=1.10
+
+# LLM-PySC2 Dependencies (Local package requirements)
+absl-py>=0.1.0
+deepdiff
+dm_env
+enum34; python_version < "3.4"
+mock
+mpyq
+portpicker>=1.2.0
+protobuf==3.20.0
+openai==0.28
+pygame
+requests
+s2clientprotocol>=4.10.1.75800.0
+s2protocol
+sk-video
+websocket-client
+loguru
+pillow
+zhipuai
+psutil
+
+# mini-AlphaStar Dependencies
+# Note: PySC2 is provided by the local LLM-PySC2 package, so we exclude the PyPI version
+# PySC2==3.0.0
+matplotlib==3.3.2
+scikit-learn==0.23.2
+scipy==1.5.3
+seaborn==0.11.0
+tqdm==4.51.0
+dataclasses==0.6; python_version < "3.7"
+python-Levenshtein-wheels==0.13.2
+tensorboardX==2.2
+tensorboard==2.5.0
+
+# Install local LLM-PySC2 package in editable mode
+-e ./LLM-PySC2

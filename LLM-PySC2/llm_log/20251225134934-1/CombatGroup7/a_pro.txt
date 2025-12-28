@@ -1,0 +1,87 @@
+{"0": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([64, 66])>\n\t\t<Move_Minimap([52, 32])>\n\t\t<Ability_AdeptPhaseShift_Screen([64, 61])>\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([64, 66])>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"2": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Ability_AdeptPhaseShift_Screen([71, 55])>\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<No_Operation()>\n\t\t<Move_Minimap([52, 32])>"}
+{"5": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"6": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"7": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"8": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Hold_Position()>\n\t\t<Move_Minimap([52, 32])>"}
+{"9": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"10": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"11": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"12": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"13": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"14": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1014c0001)>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"15": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"16": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"17": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Hold_Position()>\n\t\t<Move_Minimap([52, 32])>"}
+{"18": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Hold_Position()>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Hold_Position()>"}
+{"19": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Hold_Position()>"}
+{"20": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Attack_Unit(0x101440001)>"}
+{"21": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\t\t<Move_Minimap([52, 32])>\n\t\t<Attack_Unit(0x101440001)>"}
+{"22": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Attack_Unit(0x1014c0001)>"}
+{"23": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1013c0001)>\n\t\t<Attack_Unit(0x101240001)>\n\t\t<Attack_Unit(0x101280001)>"}
+{"24": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"25": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101440001)>\n\t\t<Move_Screen([69, 58])>\n\t\t<No_Operation()>"}
+{"26": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<Move_Minimap([52, 32])>\n\t\t<Hold_Position()>"}
+{"27": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Attack_Unit(0x101480001)>"}
+{"28": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([47, 29])>\n\t\t<Attack_Unit(0x101480001)>"}
+{"29": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101480001)>\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"30": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"31": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Attack_Unit(0x1012c0001)>"}
+{"32": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([65, 89])>\n\t\t<No_Operation()>"}
+{"33": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"34": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Attack_Unit(0x1011c0001)>"}
+{"35": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"36": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101380001)>\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"37": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"38": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"39": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1011c0001)>\n\t\t<Move_Screen([67, 96])>\n\t\t<No_Operation()>"}
+{"40": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1011c0001)>\n\t\t<Move_Screen([75, 65])>"}
+{"41": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<Move_Minimap([55, 35])>\n\t\t<Attack_Unit(0x1013c0001)>"}
+{"42": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1013c0001)>\n\t\t<Move_Minimap([55, 35])>"}
+{"43": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101400001)>\n\t\t<Attack_Unit(0x101280001)>"}
+{"44": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101280001)>\n\t\t<Move_Screen([70, 70])>"}
+{"45": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101480001)>\n\t\t<Move_Screen([70, 70])>"}
+{"46": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([61, 79])>\n\t\t<Attack_Unit(0x101340001)>\n\t\t<Move_Screen([75, 75])>"}
+{"47": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([61, 79])>\n\t\t<Attack_Unit(0x101300001)>\n\t\t<Move_Screen([75, 75])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"48": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([61, 79])>\n\t\t<Attack_Unit(0x101300001)>\n\t\t<Move_Screen([75, 75])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Move_Screen([75, 75])>\n\t\t<Attack_Unit(0x1012c0001)>"}
+{"49": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([61, 79])>\n\t\t<Attack_Unit(0x101300001)>\n\t\t<Move_Screen([75, 75])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Move_Screen([75, 75])>\n\t\t<Attack_Unit(0x1012c0001)>"}
+{"50": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\tTeam AdeptPhase-1:\n\t\t<No_Operation()>"}
+{"51": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101300001)>\n\t\t<Move_Screen([70, 63])>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x101200001)>\n\t\t<Move_Screen([72, 68])>"}
+{"52": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Move_Screen([70, 63])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([50, 31])>\n\t\t<Move_Screen([72, 68])>"}
+{"53": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<Move_Screen([74, 64])>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Move_Screen([63, 61])>"}
+{"54": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([74, 64])>\n\t\t<Attack_Unit(0x101240001)>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x1012c0001)>"}
+{"55": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101240001)>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([71, 62])>\n\t\t<Attack_Unit(0x1012c0001)>"}
+{"56": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101240001)>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([71, 62])>\n\t\t<Attack_Unit(0x1012c0001)>"}
+{"57": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\tTeam AdeptPhase-1:\n\t\t<No_Operation()>"}
+{"58": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101440001)>\n\t\t<Move_Screen([66, 78])>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x101340001)>\n\t\t<Move_Screen([67, 58])>"}
+{"59": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([66, 78])>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x101340001)>\n\t\t<Move_Screen([67, 58])>"}
+{"60": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101440001)>\n\t\t<Move_Screen([68, 80])>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x101280001)>\n\t\t<Move_Screen([70, 72])>"}
+{"61": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101440001)>\n\t\t<Move_Screen([68, 80])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([70, 72])>\n\t\t<Attack_Unit(0x101280001)>\n\t\t<Hold_Position()>"}
+{"62": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([68, 80])>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x101280001)>\n\t\t<Hold_Position()>"}
+{"63": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([68, 80])>\n\tTeam AdeptPhase-1:\n\t\t<No_Operation()>"}
+{"64": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\tTeam AdeptPhase-1:\n\t\t<No_Operation()>"}
+{"65": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Move_Screen([80, 65])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([69, 70])>"}
+{"66": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([50, 40])>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x101380001)>"}
+{"67": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([50, 40])>\n\tTeam AdeptPhase-1:\n\t\t<Attack_Unit(0x101380001)>"}
+{"68": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101380001)>\n\t\t<Move_Screen([66, 58])>\n\t\t<No_Operation()>"}
+{"69": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<Move_Minimap([40, 30])>\n\t\t<No_Operation()>"}
+{"70": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([65, 100])>\n\t\t<No_Operation()>"}
+{"71": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([70, 70])>\n\t\t<No_Operation()>"}
+{"72": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([51, 34])>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"73": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"74": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"75": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([80, 60])>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"76": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101400001)>\n\t\t<Move_Screen([80, 60])>\n\t\t<No_Operation()>"}
+{"77": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([80, 60])>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"78": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([80, 60])>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"79": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"80": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([30, 70])>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"81": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([40, 40])>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"82": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101400001)>\n\t\t<Move_Screen([63, 70])>\n\t\t<No_Operation()>"}
+{"83": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\t\t<No_Operation()>"}
+{"84": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([67, 61])>\n\t\t<No_Operation()>"}
+{"85": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"86": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}

@@ -1,0 +1,424 @@
+20251225152354
+2025-12-25 15:23:55.242 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Airborne DefaultTranslatorA initialized
+2025-12-25 15:23:55.242 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Airborne CombatGroupTranslatorO initialized
+2025-12-25 15:23:55.242 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Airborne DefaultCommunicator initialized
+2025-12-25 15:23:55.528 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Airborne glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:55.529 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Airborne successfully initialized!
+2025-12-25 15:23:55.531 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Builder DefaultTranslatorA initialized
+2025-12-25 15:23:55.531 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Builder CombatGroupTranslatorO initialized
+2025-12-25 15:23:55.532 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Builder DefaultCommunicator initialized
+2025-12-25 15:23:55.747 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Builder glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:55.747 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Builder successfully initialized!
+2025-12-25 15:23:55.748 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Commander DefaultTranslatorA initialized
+2025-12-25 15:23:55.748 | INFO     | llm_pysc2.lib.llm_observation:__init__:794 - [ID 1] Commander CommanderTranslatorO initialized
+2025-12-25 15:23:55.748 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Commander DefaultCommunicator initialized
+2025-12-25 15:23:55.965 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Commander glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:55.966 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Commander successfully initialized!
+2025-12-25 15:23:55.966 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Developer DefaultTranslatorA initialized
+2025-12-25 15:23:55.966 | INFO     | llm_pysc2.lib.llm_observation:__init__:830 - [ID 1] Developer DeveloperTranslatorO initialized
+2025-12-25 15:23:55.966 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Developer DefaultCommunicator initialized
+2025-12-25 15:23:56.199 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Developer glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:56.199 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Developer successfully initialized!
+2025-12-25 15:23:56.199 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Defender DefaultTranslatorA initialized
+2025-12-25 15:23:56.199 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Defender CombatGroupTranslatorO initialized
+2025-12-25 15:23:56.201 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Defender DefaultCommunicator initialized
+2025-12-25 15:23:56.484 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Defender glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:56.484 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Defender successfully initialized!
+2025-12-25 15:23:56.486 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup0 DefaultTranslatorA initialized
+2025-12-25 15:23:56.487 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup0 CombatGroupTranslatorO initialized
+2025-12-25 15:23:56.487 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup0 DefaultCommunicator initialized
+2025-12-25 15:23:56.694 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup0 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:56.694 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup0 successfully initialized!
+2025-12-25 15:23:56.694 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup1 DefaultTranslatorA initialized
+2025-12-25 15:23:56.696 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup1 CombatGroupTranslatorO initialized
+2025-12-25 15:23:56.696 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup1 DefaultCommunicator initialized
+2025-12-25 15:23:56.903 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup1 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:56.905 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup1 successfully initialized!
+2025-12-25 15:23:56.905 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup2 DefaultTranslatorA initialized
+2025-12-25 15:23:56.905 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup2 CombatGroupTranslatorO initialized
+2025-12-25 15:23:56.905 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup2 DefaultCommunicator initialized
+2025-12-25 15:23:57.145 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup2 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:57.145 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup2 successfully initialized!
+2025-12-25 15:23:57.145 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup3 DefaultTranslatorA initialized
+2025-12-25 15:23:57.145 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup3 CombatGroupTranslatorO initialized
+2025-12-25 15:23:57.145 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup3 DefaultCommunicator initialized
+2025-12-25 15:23:57.368 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup3 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:57.369 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup3 successfully initialized!
+2025-12-25 15:23:57.369 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup4 DefaultTranslatorA initialized
+2025-12-25 15:23:57.370 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup4 CombatGroupTranslatorO initialized
+2025-12-25 15:23:57.370 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup4 DefaultCommunicator initialized
+2025-12-25 15:23:57.613 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup4 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:57.615 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup4 successfully initialized!
+2025-12-25 15:23:57.615 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup5 DefaultTranslatorA initialized
+2025-12-25 15:23:57.615 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup5 CombatGroupTranslatorO initialized
+2025-12-25 15:23:57.615 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup5 DefaultCommunicator initialized
+2025-12-25 15:23:57.860 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup5 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:57.861 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup5 successfully initialized!
+2025-12-25 15:23:57.862 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup6 DefaultTranslatorA initialized
+2025-12-25 15:23:57.862 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup6 CombatGroupTranslatorO initialized
+2025-12-25 15:23:57.862 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup6 DefaultCommunicator initialized
+2025-12-25 15:23:58.088 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup6 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:58.088 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup6 successfully initialized!
+2025-12-25 15:23:58.088 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup7 DefaultTranslatorA initialized
+2025-12-25 15:23:58.090 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup7 CombatGroupTranslatorO initialized
+2025-12-25 15:23:58.090 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup7 DefaultCommunicator initialized
+2025-12-25 15:23:58.337 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup7 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:58.339 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup7 successfully initialized!
+2025-12-25 15:23:58.339 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup8 DefaultTranslatorA initialized
+2025-12-25 15:23:58.339 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup8 CombatGroupTranslatorO initialized
+2025-12-25 15:23:58.340 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup8 DefaultCommunicator initialized
+2025-12-25 15:23:58.587 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup8 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:58.589 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup8 successfully initialized!
+2025-12-25 15:23:58.589 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup9 DefaultTranslatorA initialized
+2025-12-25 15:23:58.589 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup9 CombatGroupTranslatorO initialized
+2025-12-25 15:23:58.590 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup9 DefaultCommunicator initialized
+2025-12-25 15:23:58.803 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup9 glm-4-flash-250414 GlmClient initialized
+2025-12-25 15:23:58.803 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup9 successfully initialized!
+2025-12-25 15:23:58.803 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:__init__:59 - [ID 1] Main Agent successfully initialized!
+2025-12-25 15:23:58.817 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 1 -------------------------------------------------- ----------
+2025-12-25 15:23:58.820 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:222 - [ID 1] 2.1 正在确定xy世界坐标范围：64 
+2025-12-25 15:23:58.820 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量0
+2025-12-25 15:23:58.821 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=76 unit_f.y=65
+2025-12-25 15:23:58.821 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:58.821 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2025-12-25 15:23:58.821 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2025-12-25 15:23:59.850 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 2 -------------------------------------------------- ----------
+2025-12-25 15:23:59.850 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量0
+2025-12-25 15:23:59.850 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=14.5 minimap_camera_y_predict=30.5
+2025-12-25 15:23:59.852 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=16.45 minimap_unit_y_predict=31.05
+2025-12-25 15:23:59.852 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.852 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2025-12-25 15:23:59.852 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2025-12-25 15:23:59.863 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 3 -------------------------------------------------- ----------
+2025-12-25 15:23:59.863 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量7.225
+2025-12-25 15:23:59.863 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2025-12-25 15:23:59.864 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=16.45 minimap_unit_y_predict=31.05
+2025-12-25 15:23:59.864 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.864 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 24.225]])
+2025-12-25 15:23:59.864 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 24.225]])
+2025-12-25 15:23:59.872 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 4 -------------------------------------------------- ----------
+2025-12-25 15:23:59.873 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量14.45
+2025-12-25 15:23:59.873 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2025-12-25 15:23:59.873 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=16.45 minimap_unit_y_predict=31.05
+2025-12-25 15:23:59.873 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.873 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 31.45]])
+2025-12-25 15:23:59.873 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 31.45]])
+2025-12-25 15:23:59.882 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 5 -------------------------------------------------- ----------
+2025-12-25 15:23:59.887 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量21.674999999999997
+2025-12-25 15:23:59.889 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2025-12-25 15:23:59.889 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=16.45 minimap_unit_y_predict=31.05
+2025-12-25 15:23:59.889 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.889 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 38.675]])
+2025-12-25 15:23:59.889 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 38.675]])
+2025-12-25 15:23:59.922 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 6 -------------------------------------------------- ----------
+2025-12-25 15:23:59.922 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量26.081249999999997
+2025-12-25 15:23:59.922 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=-30
+2025-12-25 15:23:59.922 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.922 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 43.08125]])
+2025-12-25 15:23:59.923 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 43.08125]])
+2025-12-25 15:23:59.931 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 7 -------------------------------------------------- ----------
+2025-12-25 15:23:59.933 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量28.706249999999997
+2025-12-25 15:23:59.933 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=8
+2025-12-25 15:23:59.933 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.933 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 45.70625]])
+2025-12-25 15:23:59.933 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 45.70625]])
+2025-12-25 15:23:59.943 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 8 -------------------------------------------------- ----------
+2025-12-25 15:23:59.943 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量30.112499999999997
+2025-12-25 15:23:59.945 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=34
+2025-12-25 15:23:59.945 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.945 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 47.1125]])
+2025-12-25 15:23:59.945 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 47.1125]])
+2025-12-25 15:23:59.954 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 9 -------------------------------------------------- ----------
+2025-12-25 15:23:59.956 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量31.003124999999997
+2025-12-25 15:23:59.956 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=45
+2025-12-25 15:23:59.956 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.956 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.003125]])
+2025-12-25 15:23:59.957 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.003125]])
+2025-12-25 15:23:59.966 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 10 -------------------------------------------------- ----------
+2025-12-25 15:23:59.967 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量31.503124999999997
+2025-12-25 15:23:59.967 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=56
+2025-12-25 15:23:59.967 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.967 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.503125]])
+2025-12-25 15:23:59.967 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.503125]])
+2025-12-25 15:23:59.992 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 11 -------------------------------------------------- ----------
+2025-12-25 15:23:59.992 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成True x偏移量0.5625 y偏移量31.503124999999997
+2025-12-25 15:23:59.993 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=61
+2025-12-25 15:23:59.993 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309123073
+2025-12-25 15:23:59.993 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.503125]])
+2025-12-25 15:23:59.993 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:229 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.503125]])
+2025-12-25 15:24:00.004 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 12 -------------------------------------------------- ----------
+2025-12-25 15:24:00.004 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4311482369, 4310433793, 4310958081, 4309385217, 4310695937, 4312006657, 4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.006 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100fc0001
+2025-12-25 15:24:00.006 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4311482369
+2025-12-25 15:24:00.007 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4310433793, 4310958081, 4309385217, 4310695937, 4312006657, 4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.007 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100ec0001
+2025-12-25 15:24:00.009 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4310433793
+2025-12-25 15:24:00.010 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4310958081, 4309385217, 4310695937, 4312006657, 4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.010 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100f40001
+2025-12-25 15:24:00.010 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4310958081
+2025-12-25 15:24:00.011 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4309385217, 4310695937, 4312006657, 4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.012 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100dc0001
+2025-12-25 15:24:00.012 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4309385217
+2025-12-25 15:24:00.013 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4310695937, 4312006657, 4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.013 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100f00001
+2025-12-25 15:24:00.013 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4310695937
+2025-12-25 15:24:00.014 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4312006657, 4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.014 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101040001
+2025-12-25 15:24:00.016 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4312006657
+2025-12-25 15:24:00.017 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.017 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:00.017 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Adept 4300210177
+2025-12-25 15:24:00.018 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:86 - [ID 1] get_camera_func_smart(): unit_f Protoss.Adept 0x100500001 not near screen center, 106 66
+2025-12-25 15:24:00.018 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:424 - [ID 1] 3.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[33.5625, 47.503125]])
+2025-12-25 15:24:00.018 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[33.5625, 47.503125]])
+2025-12-25 15:24:00.032 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 13 -------------------------------------------------- ----------
+2025-12-25 15:24:00.033 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.034 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:00.034 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Adept 4300210177
+2025-12-25 15:24:00.035 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:86 - [ID 1] get_camera_func_smart(): unit_f Protoss.Adept 0x100500001 not near screen center, 106 66
+2025-12-25 15:24:00.035 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:424 - [ID 1] 3.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[33.5625, 47.503125]])
+2025-12-25 15:24:00.035 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[33.5625, 47.503125]])
+2025-12-25 15:24:00.052 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 14 -------------------------------------------------- ----------
+2025-12-25 15:24:00.054 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.054 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:00.054 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Adept 4300210177
+2025-12-25 15:24:00.057 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 61]])
+2025-12-25 15:24:00.057 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 61]])
+2025-12-25 15:24:00.076 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 15 -------------------------------------------------- ----------
+2025-12-25 15:24:00.078 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4300210177, 4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.079 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:00.080 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Adept 4300210177
+2025-12-25 15:24:00.080 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Adept 4300210177
+2025-12-25 15:24:00.080 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:541 - [ID 1] 3.7.2 Func Call: FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 61]])
+2025-12-25 15:24:00.080 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 61]])
+2025-12-25 15:24:00.100 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 16 -------------------------------------------------- ----------
+2025-12-25 15:24:00.100 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4311744513, 4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.101 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101000001
+2025-12-25 15:24:00.102 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4311744513
+2025-12-25 15:24:00.102 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4311220225, 4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.102 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100f80001
+2025-12-25 15:24:00.104 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4311220225
+2025-12-25 15:24:00.104 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.104 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:00.105 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Adept 4297326593
+2025-12-25 15:24:00.105 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 56]])
+2025-12-25 15:24:00.105 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 56]])
+2025-12-25 15:24:00.148 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 17 -------------------------------------------------- ----------
+2025-12-25 15:24:00.148 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4297326593, 4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.149 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:00.149 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Adept 4297326593
+2025-12-25 15:24:00.151 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Adept 4297326593
+2025-12-25 15:24:00.151 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:541 - [ID 1] 3.7.2 Func Call: FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 61]])
+2025-12-25 15:24:00.151 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 61]])
+2025-12-25 15:24:00.164 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 18 -------------------------------------------------- ----------
+2025-12-25 15:24:00.166 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4309647361, 4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.168 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100e00001
+2025-12-25 15:24:00.168 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4309647361
+2025-12-25 15:24:00.168 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4309909505, 4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.170 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100e40001
+2025-12-25 15:24:00.170 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4309909505
+2025-12-25 15:24:00.170 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4309123073, 4310171649, 4312268801]
+2025-12-25 15:24:00.171 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Nexus(59) 0x100d80001
+2025-12-25 15:24:00.171 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Nexus 4309123073
+2025-12-25 15:24:00.171 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4310171649, 4312268801]
+2025-12-25 15:24:00.173 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100e80001
+2025-12-25 15:24:00.173 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4310171649
+2025-12-25 15:24:00.174 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4312268801]
+2025-12-25 15:24:00.175 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101080001
+2025-12-25 15:24:00.175 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4312268801
+2025-12-25 15:24:00.191 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:00 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2025-12-25 15:24:00.191 | SUCCESS  | llm_pysc2.lib.llm_communicate:communication_info_transmission:72 - [ID 1] 7.0 All LLMAgent skip communication stage
+2025-12-25 15:24:00.191 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:302 - [ID 1] 7.0 Main Loop Lock! Ignore outer-loop actions. 
+2025-12-25 15:24:00.391 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:00.392 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:407 - [ID 1] 7.1.5.1 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select_all_type: 2>], [64, 61]])
+2025-12-25 15:24:00.413 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 19 -------------------------------------------------- ----------
+2025-12-25 15:24:00.422 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:00 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2025-12-25 15:24:00.437 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:00.438 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:435 - [ID 1] 7.1.6 Agent CombatGroup7: collect obs for team Adept-1
+2025-12-25 15:24:00.453 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:00.453 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:340 - [ID 1] 7.1.2 Agent CombatGroup7: Obs prepared, try calling LLM api
+2025-12-25 15:24:00.454 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:308 - [ID 1] LLMAgent CombatGroup7: Start waiting for response
+2025-12-25 15:24:00.454 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:350 - [ID 1] 7.2 All Agent waiting for response
+2025-12-25 15:24:00.460 | SUCCESS  | llm_pysc2.lib.llm_client:query:185 - [ID 1] CombatGroup7 Start calling llm api!
+2025-12-25 15:24:07.006 | SUCCESS  | llm_pysc2.lib.llm_client:query:210 - [ID 1] CombatGroup7 Get llm response!
+2025-12-25 15:24:07.008 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:358 - [ID 1] LLMAgent CombatGroup7: Get response 
+2025-12-25 15:24:07.022 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:07.023 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:561 - [ID 1] LLMAgent CombatGroup7, get_func(): func avaliable, func 547/Effect_AdeptPhaseShift_minimap (3/queued [2]; 1/minimap [0, 0]) pysc2_args ['now', (52.0, 32.0)]
+2025-12-25 15:24:07.024 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 547, FunctionCall(function=<_Functions.Effect_AdeptPhaseShift_minimap: 547>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:07.024 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.Effect_AdeptPhaseShift_minimap: 547>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:07.026 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:616 - [ID 1] 7.4 Agent CombatGroup7 Func Call: FunctionCall(function=<_Functions.Effect_AdeptPhaseShift_minimap: 547>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:07.074 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 20 -------------------------------------------------- ----------
+2025-12-25 15:24:07.087 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:00 Loop0 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:07.101 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:07.103 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:561 - [ID 1] LLMAgent CombatGroup7, get_func(): func avaliable, func 332/Move_minimap (3/queued [2]; 1/minimap [0, 0]) pysc2_args ['queued', (52.0, 32.0)]
+2025-12-25 15:24:07.103 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 332, FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.queued: 1>], [52.0, 32.0]])
+2025-12-25 15:24:07.103 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.queued: 1>], [52.0, 32.0]])
+2025-12-25 15:24:07.105 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:616 - [ID 1] 7.4 Agent CombatGroup7 Func Call: FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.queued: 1>], [52.0, 32.0]])
+2025-12-25 15:24:07.115 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 21 -------------------------------------------------- ----------
+2025-12-25 15:24:07.125 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:00 Loop0 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:07.132 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:07.134 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 0, FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:07.134 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:07.147 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:460 - [ID 1] 7.3.0 Agent CombatGroup7: finished executing!
+2025-12-25 15:24:07.382 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:606 - [ID 1] 7.3.5 Agent CombatGroup7: One loop finished, release self.main_loop_lock
+2025-12-25 15:24:07.391 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:222 - [ID 1] ========== ================================================== Loop 1 ================================================== ==========
+2025-12-25 15:24:07.391 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 22 -------------------------------------------------- ----------
+2025-12-25 15:24:07.393 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4317249537, 4316987393]
+2025-12-25 15:24:07.394 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:402 - [ID 1] 3.1 Protoss.AdeptPhaseShift 4317249537 re-appear
+2025-12-25 15:24:07.394 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:07.394 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.AdeptPhaseShift 4317249537
+2025-12-25 15:24:07.395 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [68, 61]])
+2025-12-25 15:24:07.395 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [68, 61]])
+2025-12-25 15:24:07.404 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 23 -------------------------------------------------- ----------
+2025-12-25 15:24:07.406 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4317249537, 4316987393]
+2025-12-25 15:24:07.407 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:402 - [ID 1] 3.1 Protoss.AdeptPhaseShift 4317249537 re-appear
+2025-12-25 15:24:07.408 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:07.408 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.AdeptPhaseShift 4317249537
+2025-12-25 15:24:07.409 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.AdeptPhaseShift 4317249537
+2025-12-25 15:24:07.409 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4316987393]
+2025-12-25 15:24:07.410 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:402 - [ID 1] 3.1 Protoss.AdeptPhaseShift 4316987393 re-appear
+2025-12-25 15:24:07.411 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:07.411 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.AdeptPhaseShift 4316987393
+2025-12-25 15:24:07.412 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_rect: 3>, arguments=[[<SelectAdd.select: 0>], [68, 55], [70, 57]])
+2025-12-25 15:24:07.412 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_rect: 3>, arguments=[[<SelectAdd.select: 0>], [68, 55], [70, 57]])
+2025-12-25 15:24:07.430 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 24 -------------------------------------------------- ----------
+2025-12-25 15:24:07.431 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4316987393]
+2025-12-25 15:24:07.433 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:402 - [ID 1] 3.1 Protoss.AdeptPhaseShift 4316987393 re-appear
+2025-12-25 15:24:07.433 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup7
+2025-12-25 15:24:07.433 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.AdeptPhaseShift 4316987393
+2025-12-25 15:24:07.434 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.AdeptPhaseShift 4316987393
+2025-12-25 15:24:07.436 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:235 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:07.445 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 25 -------------------------------------------------- ----------
+2025-12-25 15:24:07.453 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2025-12-25 15:24:07.454 | SUCCESS  | llm_pysc2.lib.llm_communicate:communication_info_transmission:72 - [ID 1] 7.0 All LLMAgent skip communication stage
+2025-12-25 15:24:07.454 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:302 - [ID 1] 7.0 Main Loop Lock! Ignore outer-loop actions. 
+2025-12-25 15:24:07.460 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:07.460 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:407 - [ID 1] 7.1.5.1 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.select_rect: 3>, arguments=[[<SelectAdd.select: 0>], [64, 57], [72, 65]])
+2025-12-25 15:24:07.470 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 26 -------------------------------------------------- ----------
+2025-12-25 15:24:07.474 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2025-12-25 15:24:07.491 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:07.491 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:435 - [ID 1] 7.1.6 Agent CombatGroup7: collect obs for team Adept-1
+2025-12-25 15:24:07.506 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:07.506 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:435 - [ID 1] 7.1.6 Agent CombatGroup7: collect obs for team AdeptPhase-1
+2025-12-25 15:24:07.523 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:07.523 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:340 - [ID 1] 7.1.2 Agent CombatGroup7: Obs prepared, try calling LLM api
+2025-12-25 15:24:07.523 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:308 - [ID 1] LLMAgent CombatGroup7: Start waiting for response
+2025-12-25 15:24:07.524 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:350 - [ID 1] 7.2 All Agent waiting for response
+2025-12-25 15:24:07.529 | SUCCESS  | llm_pysc2.lib.llm_client:query:185 - [ID 1] CombatGroup7 Start calling llm api!
+2025-12-25 15:24:13.223 | SUCCESS  | llm_pysc2.lib.llm_client:query:210 - [ID 1] CombatGroup7 Get llm response!
+2025-12-25 15:24:13.225 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:358 - [ID 1] LLMAgent CombatGroup7: Get response 
+2025-12-25 15:24:13.239 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:13.240 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:67 - [ID 1] CombatGroup7 Adept-1: use obs position (34.5625, 47.503125) for unit Protoss.Adept 0x100500001
+2025-12-25 15:24:13.240 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:521 - [ID 1] 7.3.2.0 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[34.5625, 47.503125]])
+2025-12-25 15:24:13.251 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 27 -------------------------------------------------- ----------
+2025-12-25 15:24:13.257 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:13.269 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:13.271 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:67 - [ID 1] CombatGroup7 Adept-1: use obs position (34.5625, 47.503125) for unit Protoss.Adept 0x100500001
+2025-12-25 15:24:13.271 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:521 - [ID 1] 7.3.2.0 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[34.5625, 47.503125]])
+2025-12-25 15:24:13.281 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 28 -------------------------------------------------- ----------
+2025-12-25 15:24:13.292 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:13.301 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:13.301 | WARNING  | llm_pysc2.agents.llm_pysc2_agent:get_func:582 - [ID 1] LLMAgent CombatGroup7 get_func() Error type 3: Func invalid: 547/Effect_AdeptPhaseShift_minimap (3/queued [2]; 1/minimap [0, 0])! Replace with no_op()
+2025-12-25 15:24:13.303 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 0, FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:13.303 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:13.316 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:13.318 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:561 - [ID 1] LLMAgent CombatGroup7, get_func(): func avaliable, func 332/Move_minimap (3/queued [2]; 1/minimap [0, 0]) pysc2_args ['now', (52.0, 32.0)]
+2025-12-25 15:24:13.320 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 332, FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:13.320 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:13.320 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:616 - [ID 1] 7.4 Agent CombatGroup7 Func Call: FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:13.334 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 29 -------------------------------------------------- ----------
+2025-12-25 15:24:13.345 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:13.348 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:13.349 | WARNING  | llm_pysc2.agents.llm_pysc2_agent:get_func:582 - [ID 1] LLMAgent CombatGroup7 get_func() Error type 3: Func invalid: 547/Effect_AdeptPhaseShift_minimap (3/queued [2]; 1/minimap [0, 0])! Replace with no_op()
+2025-12-25 15:24:13.350 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 0, FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:13.350 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:13.364 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:13.367 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:561 - [ID 1] LLMAgent CombatGroup7, get_func(): func avaliable, func 332/Move_minimap (3/queued [2]; 1/minimap [0, 0]) pysc2_args ['now', (52.0, 32.0)]
+2025-12-25 15:24:13.367 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 332, FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:13.368 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:13.368 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:616 - [ID 1] 7.4 Agent CombatGroup7 Func Call: FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:13.380 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 30 -------------------------------------------------- ----------
+2025-12-25 15:24:13.388 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2025-12-25 15:24:13.396 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:460 - [ID 1] 7.3.0 Agent CombatGroup7: finished executing!
+2025-12-25 15:24:13.630 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:606 - [ID 1] 7.3.5 Agent CombatGroup7: One loop finished, release self.main_loop_lock
+2025-12-25 15:24:13.640 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:222 - [ID 1] ========== ================================================== Loop 2 ================================================== ==========
+2025-12-25 15:24:13.640 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 31 -------------------------------------------------- ----------
+2025-12-25 15:24:13.649 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop2 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2025-12-25 15:24:13.649 | SUCCESS  | llm_pysc2.lib.llm_communicate:communication_info_transmission:72 - [ID 1] 7.0 All LLMAgent skip communication stage
+2025-12-25 15:24:13.649 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:302 - [ID 1] 7.0 Main Loop Lock! Ignore outer-loop actions. 
+2025-12-25 15:24:13.661 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:13.662 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:435 - [ID 1] 7.1.6 Agent CombatGroup7: collect obs for team Adept-1
+2025-12-25 15:24:13.677 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:13.679 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:435 - [ID 1] 7.1.6 Agent CombatGroup7: collect obs for team AdeptPhase-1
+2025-12-25 15:24:13.693 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:13.693 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:340 - [ID 1] 7.1.2 Agent CombatGroup7: Obs prepared, try calling LLM api
+2025-12-25 15:24:13.693 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:308 - [ID 1] LLMAgent CombatGroup7: Start waiting for response
+2025-12-25 15:24:13.693 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:350 - [ID 1] 7.2 All Agent waiting for response
+2025-12-25 15:24:13.699 | SUCCESS  | llm_pysc2.lib.llm_client:query:185 - [ID 1] CombatGroup7 Start calling llm api!
+2025-12-25 15:24:21.248 | SUCCESS  | llm_pysc2.lib.llm_client:query:210 - [ID 1] CombatGroup7 Get llm response!
+2025-12-25 15:24:21.251 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:358 - [ID 1] LLMAgent CombatGroup7: Get response 
+2025-12-25 15:24:21.264 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:21.265 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 0, FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:21.265 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:21.279 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:21.281 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:561 - [ID 1] LLMAgent CombatGroup7, get_func(): func avaliable, func 332/Move_minimap (3/queued [2]; 1/minimap [0, 0]) pysc2_args ['now', (52.0, 32.0)]
+2025-12-25 15:24:21.281 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 332, FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:21.281 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:21.283 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:616 - [ID 1] 7.4 Agent CombatGroup7 Func Call: FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:21.293 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 32 -------------------------------------------------- ----------
+2025-12-25 15:24:21.301 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop2 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:21.311 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:21.313 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:67 - [ID 1] CombatGroup7 AdeptPhase-1: use obs position (36.5625, 47.503125) for unit Protoss.AdeptPhaseShift 0x101540001
+2025-12-25 15:24:21.313 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:521 - [ID 1] 7.3.2.0 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[36.5625, 47.503125]])
+2025-12-25 15:24:21.326 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 33 -------------------------------------------------- ----------
+2025-12-25 15:24:21.341 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop2 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:21.342 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:21.342 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:67 - [ID 1] CombatGroup7 AdeptPhase-1: use obs position (36.5625, 47.503125) for unit Protoss.AdeptPhaseShift 0x101540001
+2025-12-25 15:24:21.344 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:521 - [ID 1] 7.3.2.0 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[36.5625, 47.503125]])
+2025-12-25 15:24:21.355 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 34 -------------------------------------------------- ----------
+2025-12-25 15:24:21.366 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop2 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:21.373 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:21.373 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 0, FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:21.375 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 15:24:21.388 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:21.389 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:561 - [ID 1] LLMAgent CombatGroup7, get_func(): func avaliable, func 332/Move_minimap (3/queued [2]; 1/minimap [0, 0]) pysc2_args ['now', (52.0, 32.0)]
+2025-12-25 15:24:21.390 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 332, FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:21.390 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:21.391 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:616 - [ID 1] 7.4 Agent CombatGroup7 Func Call: FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2025-12-25 15:24:21.403 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 35 -------------------------------------------------- ----------
+2025-12-25 15:24:21.415 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop2 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2025-12-25 15:24:21.420 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:460 - [ID 1] 7.3.0 Agent CombatGroup7: finished executing!
+2025-12-25 15:24:21.655 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:606 - [ID 1] 7.3.5 Agent CombatGroup7: One loop finished, release self.main_loop_lock
+2025-12-25 15:24:21.662 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:222 - [ID 1] ========== ================================================== Loop 3 ================================================== ==========
+2025-12-25 15:24:21.662 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 36 -------------------------------------------------- ----------
+2025-12-25 15:24:21.673 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop3 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2025-12-25 15:24:21.675 | SUCCESS  | llm_pysc2.lib.llm_communicate:communication_info_transmission:72 - [ID 1] 7.0 All LLMAgent skip communication stage
+2025-12-25 15:24:21.675 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:302 - [ID 1] 7.0 Main Loop Lock! Ignore outer-loop actions. 
+2025-12-25 15:24:21.686 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:21.688 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:435 - [ID 1] 7.1.6 Agent CombatGroup7: collect obs for team Adept-1
+2025-12-25 15:24:21.701 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:21.702 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:435 - [ID 1] 7.1.6 Agent CombatGroup7: collect obs for team AdeptPhase-1
+2025-12-25 15:24:21.717 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:330 - [ID 1] 7.1 Agent CombatGroup7: query status
+2025-12-25 15:24:21.717 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:340 - [ID 1] 7.1.2 Agent CombatGroup7: Obs prepared, try calling LLM api
+2025-12-25 15:24:21.717 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:308 - [ID 1] LLMAgent CombatGroup7: Start waiting for response
+2025-12-25 15:24:21.717 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:350 - [ID 1] 7.2 All Agent waiting for response
+2025-12-25 15:24:21.721 | SUCCESS  | llm_pysc2.lib.llm_client:query:185 - [ID 1] CombatGroup7 Start calling llm api!
+2025-12-25 15:24:27.279 | SUCCESS  | llm_pysc2.lib.llm_client:query:210 - [ID 1] CombatGroup7 Get llm response!
+2025-12-25 15:24:27.280 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:358 - [ID 1] LLMAgent CombatGroup7: Get response 
+2025-12-25 15:24:27.295 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:27.295 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:67 - [ID 1] CombatGroup7 Adept-1: use obs position (35.5625, 47.503125) for unit Protoss.Adept 0x100500001
+2025-12-25 15:24:27.295 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:521 - [ID 1] 7.3.2.0 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[35.5625, 47.503125]])
+2025-12-25 15:24:27.303 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 37 -------------------------------------------------- ----------
+2025-12-25 15:24:27.309 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop3 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:27.326 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:27.326 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:67 - [ID 1] CombatGroup7 Adept-1: use obs position (35.5625, 47.503125) for unit Protoss.Adept 0x100500001
+2025-12-25 15:24:27.326 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:521 - [ID 1] 7.3.2.0 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[35.5625, 47.503125]])
+2025-12-25 15:24:27.337 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 38 -------------------------------------------------- ----------
+2025-12-25 15:24:27.344 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop3 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2025-12-25 15:24:27.358 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:473 - [ID 1] 7.3.1 Agent CombatGroup7: executing status
+2025-12-25 15:24:27.358 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:561 - [ID 1] LLMAgent CombatGroup7, get_func(): func avaliable, func 274/HoldPosition_quick (3/queued [2]) pysc2_args ['now']
+2025-12-25 15:24:27.359 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:593 - [ID 1] LLMAgent CombatGroup7 get_func(): Get Func 274, FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.now: 0>]])
+2025-12-25 15:24:27.359 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:595 - [ID 1] 7.3.4 Agent CombatGroup7: agent.get_func(obs): get FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.now: 0>]])
+2025-12-25 15:24:27.359 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:616 - [ID 1] 7.4 Agent CombatGroup7 Func Call: FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.now: 0>]])
+2025-12-25 15:24:27.368 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:223 - [ID 1] ---------- -------------------------------------------------- Step 39 -------------------------------------------------- ----------
+2025-12-25 15:24:27.376 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop3 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 

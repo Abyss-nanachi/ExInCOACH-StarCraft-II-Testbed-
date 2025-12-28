@@ -1,0 +1,12 @@
+20251228143110
+2025-12-28 14:31:11.814 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Airborne successfully initialized!
+2025-12-28 14:31:12.295 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Builder successfully initialized!
+2025-12-28 14:31:12.744 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Commander successfully initialized!
+2025-12-28 14:31:13.217 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Developer successfully initialized!
+2025-12-28 14:31:13.693 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Defender successfully initialized!
+2025-12-28 14:31:14.249 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup0 successfully initialized!
+2025-12-28 14:31:14.726 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup1 successfully initialized!
+2025-12-28 14:31:15.239 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup2 successfully initialized!
+2025-12-28 14:31:15.706 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup3 successfully initialized!
+2025-12-28 14:31:16.146 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup4 successfully initialized!
+2025-12-28 14:31:16.620 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup5 successfully initialized!

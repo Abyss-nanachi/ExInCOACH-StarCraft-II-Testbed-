@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+14962165d4f65fb2e8ab4c487e287eaca0525188 refs/remotes/origin/develop-v0.2
+551c863475c0c4a96a181080974d24b59589e9f3 refs/remotes/origin/master
+4c9f43ed2136635aa287a1b6320b5e3cc5973b72 refs/remotes/origin/pysc2-cargo-unit

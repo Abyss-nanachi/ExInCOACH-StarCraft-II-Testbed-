@@ -1,0 +1,5512 @@
+{
+  "no_op": {
+    "id": 0,
+    "en": "no op",
+    "zh": "no op"
+  },
+  "no op": {
+    "id": 0,
+    "en": "no op",
+    "zh": "no op"
+  },
+  "move_camera": {
+    "id": 1,
+    "en": "move camera",
+    "zh": "移动摄像头"
+  },
+  "move camera": {
+    "id": 1,
+    "en": "move camera",
+    "zh": "移动摄像头"
+  },
+  "select_point": {
+    "id": 2,
+    "en": "select point",
+    "zh": "点选"
+  },
+  "select point": {
+    "id": 2,
+    "en": "select point",
+    "zh": "点选"
+  },
+  "select_rect": {
+    "id": 3,
+    "en": "select rect",
+    "zh": "框选"
+  },
+  "select rect": {
+    "id": 3,
+    "en": "select rect",
+    "zh": "框选"
+  },
+  "select_control_group": {
+    "id": 4,
+    "en": "select control group",
+    "zh": "选择控制组"
+  },
+  "select control group": {
+    "id": 4,
+    "en": "select control group",
+    "zh": "选择控制组"
+  },
+  "select_unit": {
+    "id": 5,
+    "en": "select",
+    "zh": "选择"
+  },
+  "select": {
+    "id": 5,
+    "en": "select",
+    "zh": "选择"
+  },
+  "select_idle_worker": {
+    "id": 6,
+    "en": "select idle worker",
+    "zh": "选择空闲农民"
+  },
+  "select idle worker": {
+    "id": 6,
+    "en": "select idle worker",
+    "zh": "选择空闲农民"
+  },
+  "select_army": {
+    "id": 7,
+    "en": "select army",
+    "zh": "选择部队"
+  },
+  "select army": {
+    "id": 7,
+    "en": "select army",
+    "zh": "选择部队"
+  },
+  "select_warp_gates": {
+    "id": 8,
+    "en": "select warp gates",
+    "zh": "选择折跃门"
+  },
+  "select warp gates": {
+    "id": 8,
+    "en": "select warp gates",
+    "zh": "选择折跃门"
+  },
+  "select_larva": {
+    "id": 9,
+    "en": "select larva",
+    "zh": "选择幼虫"
+  },
+  "select larva": {
+    "id": 9,
+    "en": "select larva",
+    "zh": "选择幼虫"
+  },
+  "unload": {
+    "id": 10,
+    "en": "unload",
+    "zh": "unload"
+  },
+  "build_queue": {
+    "id": 11,
+    "en": "build queue",
+    "zh": "建造队列"
+  },
+  "build queue": {
+    "id": 11,
+    "en": "build queue",
+    "zh": "建造队列"
+  },
+  "Attack_screen": {
+    "id": 12,
+    "en": "Attack",
+    "zh": "攻击"
+  },
+  "Attack": {
+    "id": 12,
+    "en": "Attack",
+    "zh": "攻击"
+  },
+  "Attack_minimap": {
+    "id": 13,
+    "en": "Attack",
+    "zh": "攻击"
+  },
+  "Attack_Attack_screen": {
+    "id": 14,
+    "en": "Attack Attack",
+    "zh": "攻击"
+  },
+  "Attack Attack": {
+    "id": 14,
+    "en": "Attack Attack",
+    "zh": "攻击"
+  },
+  "Attack_Attack_minimap": {
+    "id": 15,
+    "en": "Attack Attack",
+    "zh": "攻击"
+  },
+  "Attack_AttackBuilding_screen": {
+    "id": 16,
+    "en": "Attack Attack Building",
+    "zh": "攻击建筑"
+  },
+  "Attack AttackBuilding": {
+    "id": 16,
+    "en": "Attack Attack Building",
+    "zh": "攻击建筑"
+  },
+  "Attack_AttackBuilding_minimap": {
+    "id": 17,
+    "en": "Attack Attack Building",
+    "zh": "攻击建筑"
+  },
+  "Attack_Redirect_screen": {
+    "id": 18,
+    "en": "Attack Redirect",
+    "zh": "重定向攻击"
+  },
+  "Attack Redirect": {
+    "id": 18,
+    "en": "Attack Redirect",
+    "zh": "重定向攻击"
+  },
+  "Scan_Move_screen": {
+    "id": 19,
+    "en": "Scan Move",
+    "zh": "扫描_移动"
+  },
+  "Scan Move": {
+    "id": 19,
+    "en": "Scan Move",
+    "zh": "扫描_移动"
+  },
+  "Scan_Move_minimap": {
+    "id": 20,
+    "en": "Scan Move",
+    "zh": "扫描_移动"
+  },
+  "Behavior_BuildingAttackOff_quick": {
+    "id": 21,
+    "en": "Behavior Building Attack Off",
+    "zh": "关闭建筑攻击"
+  },
+  "Behavior BuildingAttackOff": {
+    "id": 21,
+    "en": "Behavior Building Attack Off",
+    "zh": "关闭建筑攻击"
+  },
+  "Behavior_BuildingAttackOn_quick": {
+    "id": 22,
+    "en": "Behavior Building Attack On",
+    "zh": "开启建筑攻击"
+  },
+  "Behavior BuildingAttackOn": {
+    "id": 22,
+    "en": "Behavior Building Attack On",
+    "zh": "开启建筑攻击"
+  },
+  "Behavior_CloakOff_quick": {
+    "id": 23,
+    "en": "Behavior Cloak Off",
+    "zh": "关闭隐形"
+  },
+  "Behavior CloakOff": {
+    "id": 23,
+    "en": "Behavior Cloak Off",
+    "zh": "关闭隐形"
+  },
+  "Behavior_CloakOff_Banshee_quick": {
+    "id": 24,
+    "en": "Behavior Cloak Off Banshee",
+    "zh": "关闭隐形"
+  },
+  "Behavior CloakOff Banshee": {
+    "id": 24,
+    "en": "Behavior Cloak Off Banshee",
+    "zh": "关闭隐形"
+  },
+  "Behavior_CloakOff_Ghost_quick": {
+    "id": 25,
+    "en": "Behavior Cloak Off Ghost",
+    "zh": "关闭隐形"
+  },
+  "Behavior CloakOff Ghost": {
+    "id": 25,
+    "en": "Behavior Cloak Off Ghost",
+    "zh": "关闭隐形"
+  },
+  "Behavior_CloakOn_quick": {
+    "id": 26,
+    "en": "Behavior Cloak On",
+    "zh": "开启隐形"
+  },
+  "Behavior CloakOn": {
+    "id": 26,
+    "en": "Behavior Cloak On",
+    "zh": "开启隐形"
+  },
+  "Behavior_CloakOn_Banshee_quick": {
+    "id": 27,
+    "en": "Behavior Cloak On Banshee",
+    "zh": "开启隐形"
+  },
+  "Behavior CloakOn Banshee": {
+    "id": 27,
+    "en": "Behavior Cloak On Banshee",
+    "zh": "开启隐形"
+  },
+  "Behavior_CloakOn_Ghost_quick": {
+    "id": 28,
+    "en": "Behavior Cloak On Ghost",
+    "zh": "开启隐形"
+  },
+  "Behavior CloakOn Ghost": {
+    "id": 28,
+    "en": "Behavior Cloak On Ghost",
+    "zh": "开启隐形"
+  },
+  "Behavior_GenerateCreepOff_quick": {
+    "id": 29,
+    "en": "Behavior Generate Creep Off",
+    "zh": "关闭生成菌毯"
+  },
+  "Behavior GenerateCreepOff": {
+    "id": 29,
+    "en": "Behavior Generate Creep Off",
+    "zh": "关闭生成菌毯"
+  },
+  "Behavior_GenerateCreepOn_quick": {
+    "id": 30,
+    "en": "Behavior Generate Creep On",
+    "zh": "开启生成菌毯"
+  },
+  "Behavior GenerateCreepOn": {
+    "id": 30,
+    "en": "Behavior Generate Creep On",
+    "zh": "开启生成菌毯"
+  },
+  "Behavior_HoldFireOff_quick": {
+    "id": 31,
+    "en": "Behavior Hold Fire Off",
+    "zh": "取消停火"
+  },
+  "Behavior HoldFireOff": {
+    "id": 31,
+    "en": "Behavior Hold Fire Off",
+    "zh": "取消停火"
+  },
+  "Behavior_HoldFireOff_Ghost_quick": {
+    "id": 32,
+    "en": "Behavior Hold Fire Off Ghost",
+    "zh": "取消停火"
+  },
+  "Behavior HoldFireOff Ghost": {
+    "id": 32,
+    "en": "Behavior Hold Fire Off Ghost",
+    "zh": "取消停火"
+  },
+  "Behavior_HoldFireOff_Lurker_quick": {
+    "id": 33,
+    "en": "Behavior Hold Fire Off Lurker",
+    "zh": "取消停火"
+  },
+  "Behavior HoldFireOff Lurker": {
+    "id": 33,
+    "en": "Behavior Hold Fire Off Lurker",
+    "zh": "取消停火"
+  },
+  "Behavior_HoldFireOn_quick": {
+    "id": 34,
+    "en": "Behavior Hold Fire On",
+    "zh": "停火"
+  },
+  "Behavior HoldFireOn": {
+    "id": 34,
+    "en": "Behavior Hold Fire On",
+    "zh": "停火"
+  },
+  "Behavior_HoldFireOn_Ghost_quick": {
+    "id": 35,
+    "en": "Behavior Hold Fire On Ghost",
+    "zh": "停火"
+  },
+  "Behavior HoldFireOn Ghost": {
+    "id": 35,
+    "en": "Behavior Hold Fire On Ghost",
+    "zh": "停火"
+  },
+  "Behavior_HoldFireOn_Lurker_quick": {
+    "id": 36,
+    "en": "Behavior Hold Fire On Lurker",
+    "zh": "行为_潜伏者停止开火"
+  },
+  "Behavior HoldFireOn Lurker": {
+    "id": 36,
+    "en": "Behavior Hold Fire On Lurker",
+    "zh": "行为_潜伏者停止开火"
+  },
+  "Behavior_PulsarBeamOff_quick": {
+    "id": 37,
+    "en": "Behavior Pulsar Beam Off",
+    "zh": "行为_脉冲光束关闭"
+  },
+  "Behavior PulsarBeamOff": {
+    "id": 37,
+    "en": "Behavior Pulsar Beam Off",
+    "zh": "行为_脉冲光束关闭"
+  },
+  "Behavior_PulsarBeamOn_quick": {
+    "id": 38,
+    "en": "Behavior Pulsar Beam On",
+    "zh": "行为_脉冲光束开启"
+  },
+  "Behavior PulsarBeamOn": {
+    "id": 38,
+    "en": "Behavior Pulsar Beam On",
+    "zh": "行为_脉冲光束开启"
+  },
+  "Build_Armory_screen": {
+    "id": 39,
+    "en": "Build Armory",
+    "zh": "建造_军械库"
+  },
+  "Build Armory": {
+    "id": 39,
+    "en": "Build Armory",
+    "zh": "建造_军械库"
+  },
+  "Build_Assimilator_screen": {
+    "id": 40,
+    "en": "Build Assimilator",
+    "zh": "建造_吸收厂"
+  },
+  "Build Assimilator": {
+    "id": 40,
+    "en": "Build Assimilator",
+    "zh": "建造_吸收厂"
+  },
+  "Build_BanelingNest_screen": {
+    "id": 41,
+    "en": "Build Baneling Nest",
+    "zh": "建造_爆虫巢穴"
+  },
+  "Build BanelingNest": {
+    "id": 41,
+    "en": "Build Baneling Nest",
+    "zh": "建造_爆虫巢穴"
+  },
+  "Build_Barracks_screen": {
+    "id": 42,
+    "en": "Build Barracks",
+    "zh": "建造_兵营"
+  },
+  "Build Barracks": {
+    "id": 42,
+    "en": "Build Barracks",
+    "zh": "建造_兵营"
+  },
+  "Build_Bunker_screen": {
+    "id": 43,
+    "en": "Build Bunker",
+    "zh": "建造_地堡"
+  },
+  "Build Bunker": {
+    "id": 43,
+    "en": "Build Bunker",
+    "zh": "建造_地堡"
+  },
+  "Build_CommandCenter_screen": {
+    "id": 44,
+    "en": "Build Command Center",
+    "zh": "建造_指挥中心"
+  },
+  "Build CommandCenter": {
+    "id": 44,
+    "en": "Build Command Center",
+    "zh": "建造_指挥中心"
+  },
+  "Build_CreepTumor_screen": {
+    "id": 45,
+    "en": "Build Creep Tumor",
+    "zh": "建造_菌瘤"
+  },
+  "Build CreepTumor": {
+    "id": 45,
+    "en": "Build Creep Tumor",
+    "zh": "建造_菌瘤"
+  },
+  "Build_CreepTumor_Queen_screen": {
+    "id": 46,
+    "en": "Build Creep Tumor Queen",
+    "zh": "建造_菌瘤_女王"
+  },
+  "Build CreepTumor Queen": {
+    "id": 46,
+    "en": "Build Creep Tumor Queen",
+    "zh": "建造_菌瘤_女王"
+  },
+  "Build_CreepTumor_Tumor_screen": {
+    "id": 47,
+    "en": "Build Creep Tumor Tumor",
+    "zh": "建造_菌瘤_菌瘤"
+  },
+  "Build CreepTumor Tumor": {
+    "id": 47,
+    "en": "Build Creep Tumor Tumor",
+    "zh": "建造_菌瘤_菌瘤"
+  },
+  "Build_CyberneticsCore_screen": {
+    "id": 48,
+    "en": "Build Cybernetics Core",
+    "zh": "建造_控制核心"
+  },
+  "Build CyberneticsCore": {
+    "id": 48,
+    "en": "Build Cybernetics Core",
+    "zh": "建造_控制核心"
+  },
+  "Build_DarkShrine_screen": {
+    "id": 49,
+    "en": "Build Dark Shrine",
+    "zh": "建造_黑暗神庙"
+  },
+  "Build DarkShrine": {
+    "id": 49,
+    "en": "Build Dark Shrine",
+    "zh": "建造_黑暗神庙"
+  },
+  "Build_EngineeringBay_screen": {
+    "id": 50,
+    "en": "Build Engineering Bay",
+    "zh": "建造_工程站"
+  },
+  "Build EngineeringBay": {
+    "id": 50,
+    "en": "Build Engineering Bay",
+    "zh": "建造_工程站"
+  },
+  "Build_EvolutionChamber_screen": {
+    "id": 51,
+    "en": "Build Evolution Chamber",
+    "zh": "建造_进化腔"
+  },
+  "Build EvolutionChamber": {
+    "id": 51,
+    "en": "Build Evolution Chamber",
+    "zh": "建造_进化腔"
+  },
+  "Build_Extractor_screen": {
+    "id": 52,
+    "en": "Build Extractor",
+    "zh": "建造_精炼厂"
+  },
+  "Build Extractor": {
+    "id": 52,
+    "en": "Build Extractor",
+    "zh": "建造_精炼厂"
+  },
+  "Build_Factory_screen": {
+    "id": 53,
+    "en": "Build Factory",
+    "zh": "建造_工厂"
+  },
+  "Build Factory": {
+    "id": 53,
+    "en": "Build Factory",
+    "zh": "建造_工厂"
+  },
+  "Build_FleetBeacon_screen": {
+    "id": 54,
+    "en": "Build Fleet Beacon",
+    "zh": "建造_舰队信标"
+  },
+  "Build FleetBeacon": {
+    "id": 54,
+    "en": "Build Fleet Beacon",
+    "zh": "建造_舰队信标"
+  },
+  "Build_Forge_screen": {
+    "id": 55,
+    "en": "Build Forge",
+    "zh": "建造_锻炉"
+  },
+  "Build Forge": {
+    "id": 55,
+    "en": "Build Forge",
+    "zh": "建造_锻炉"
+  },
+  "Build_FusionCore_screen": {
+    "id": 56,
+    "en": "Build Fusion Core",
+    "zh": "融合核心"
+  },
+  "Build FusionCore": {
+    "id": 56,
+    "en": "Build Fusion Core",
+    "zh": "融合核心"
+  },
+  "Build_Gateway_screen": {
+    "id": 57,
+    "en": "Build Gateway",
+    "zh": "传送门"
+  },
+  "Build Gateway": {
+    "id": 57,
+    "en": "Build Gateway",
+    "zh": "传送门"
+  },
+  "Build_GhostAcademy_screen": {
+    "id": 58,
+    "en": "Build Ghost Academy",
+    "zh": "幽灵学院"
+  },
+  "Build GhostAcademy": {
+    "id": 58,
+    "en": "Build Ghost Academy",
+    "zh": "幽灵学院"
+  },
+  "Build_Hatchery_screen": {
+    "id": 59,
+    "en": "Build Hatchery",
+    "zh": "孵化场"
+  },
+  "Build Hatchery": {
+    "id": 59,
+    "en": "Build Hatchery",
+    "zh": "孵化场"
+  },
+  "Build_HydraliskDen_screen": {
+    "id": 60,
+    "en": "Build Hydralisk Den",
+    "zh": "刺蛇巢穴"
+  },
+  "Build HydraliskDen": {
+    "id": 60,
+    "en": "Build Hydralisk Den",
+    "zh": "刺蛇巢穴"
+  },
+  "Build_InfestationPit_screen": {
+    "id": 61,
+    "en": "Build Infestation Pit",
+    "zh": "感染深渊"
+  },
+  "Build InfestationPit": {
+    "id": 61,
+    "en": "Build Infestation Pit",
+    "zh": "感染深渊"
+  },
+  "Build_Interceptors_quick": {
+    "id": 62,
+    "en": "Build Interceptors",
+    "zh": "拦截机"
+  },
+  "Build Interceptors": {
+    "id": 62,
+    "en": "Build Interceptors",
+    "zh": "拦截机"
+  },
+  "Build_Interceptors_autocast": {
+    "id": 63,
+    "en": "Build Interceptors",
+    "zh": "拦截机"
+  },
+  "Build Interceptors autocast": {
+    "id": 63,
+    "en": "Build Interceptors",
+    "zh": "拦截机"
+  },
+  "Build_MissileTurret_screen": {
+    "id": 64,
+    "en": "Build Missile Turret",
+    "zh": "导弹塔"
+  },
+  "Build MissileTurret": {
+    "id": 64,
+    "en": "Build Missile Turret",
+    "zh": "导弹塔"
+  },
+  "Build_Nexus_screen": {
+    "id": 65,
+    "en": "Build Nexus",
+    "zh": "星核"
+  },
+  "Build Nexus": {
+    "id": 65,
+    "en": "Build Nexus",
+    "zh": "星核"
+  },
+  "Build_Nuke_quick": {
+    "id": 66,
+    "en": "Build Nuke",
+    "zh": "核弹"
+  },
+  "Build Nuke": {
+    "id": 66,
+    "en": "Build Nuke",
+    "zh": "核弹"
+  },
+  "Build_NydusNetwork_screen": {
+    "id": 67,
+    "en": "Build Nydus Network",
+    "zh": "虫道网络"
+  },
+  "Build NydusNetwork": {
+    "id": 67,
+    "en": "Build Nydus Network",
+    "zh": "虫道网络"
+  },
+  "Build_NydusWorm_screen": {
+    "id": 68,
+    "en": "Build Nydus Worm",
+    "zh": "虫道宿主"
+  },
+  "Build NydusWorm": {
+    "id": 68,
+    "en": "Build Nydus Worm",
+    "zh": "虫道宿主"
+  },
+  "Build_PhotonCannon_screen": {
+    "id": 69,
+    "en": "Build Photon Cannon",
+    "zh": "光子炮台"
+  },
+  "Build PhotonCannon": {
+    "id": 69,
+    "en": "Build Photon Cannon",
+    "zh": "光子炮台"
+  },
+  "Build_Pylon_screen": {
+    "id": 70,
+    "en": "Build Pylon",
+    "zh": "水晶塔"
+  },
+  "Build Pylon": {
+    "id": 70,
+    "en": "Build Pylon",
+    "zh": "水晶塔"
+  },
+  "Build_Reactor_quick": {
+    "id": 71,
+    "en": "Build Reactor",
+    "zh": "反应堆"
+  },
+  "Build Reactor": {
+    "id": 71,
+    "en": "Build Reactor",
+    "zh": "反应堆"
+  },
+  "Build_Reactor_screen": {
+    "id": 72,
+    "en": "Build Reactor",
+    "zh": "反应堆"
+  },
+  "Build_Reactor_Barracks_quick": {
+    "id": 73,
+    "en": "Build Reactor Barracks",
+    "zh": "兵营反应堆"
+  },
+  "Build Reactor Barracks": {
+    "id": 73,
+    "en": "Build Reactor Barracks",
+    "zh": "兵营反应堆"
+  },
+  "Build_Reactor_Barracks_screen": {
+    "id": 74,
+    "en": "Build Reactor Barracks",
+    "zh": "兵营反应堆"
+  },
+  "Build_Reactor_Factory_quick": {
+    "id": 75,
+    "en": "Build Reactor Factory",
+    "zh": "工厂反应堆"
+  },
+  "Build Reactor Factory": {
+    "id": 75,
+    "en": "Build Reactor Factory",
+    "zh": "工厂反应堆"
+  },
+  "Build_Reactor_Factory_screen": {
+    "id": 76,
+    "en": "Build Reactor Factory",
+    "zh": "工厂反应堆"
+  },
+  "Build_Reactor_Starport_quick": {
+    "id": 77,
+    "en": "Build Reactor Starport",
+    "zh": "星港反应堆"
+  },
+  "Build Reactor Starport": {
+    "id": 77,
+    "en": "Build Reactor Starport",
+    "zh": "星港反应堆"
+  },
+  "Build_Reactor_Starport_screen": {
+    "id": 78,
+    "en": "Build Reactor Starport",
+    "zh": "星港反应堆"
+  },
+  "Build_Refinery_screen": {
+    "id": 79,
+    "en": "Build Refinery",
+    "zh": "精炼厂"
+  },
+  "Build Refinery": {
+    "id": 79,
+    "en": "Build Refinery",
+    "zh": "精炼厂"
+  },
+  "Build_RoachWarren_screen": {
+    "id": 80,
+    "en": "Build Roach Warren",
+    "zh": "蟑螂巢穴"
+  },
+  "Build RoachWarren": {
+    "id": 80,
+    "en": "Build Roach Warren",
+    "zh": "蟑螂巢穴"
+  },
+  "Build_RoboticsBay_screen": {
+    "id": 81,
+    "en": "Build Robotics Bay",
+    "zh": "机器人科技实验室"
+  },
+  "Build RoboticsBay": {
+    "id": 81,
+    "en": "Build Robotics Bay",
+    "zh": "机器人科技实验室"
+  },
+  "Build_RoboticsFacility_screen": {
+    "id": 82,
+    "en": "Build Robotics Facility",
+    "zh": "机器人设施"
+  },
+  "Build RoboticsFacility": {
+    "id": 82,
+    "en": "Build Robotics Facility",
+    "zh": "机器人设施"
+  },
+  "Build_SensorTower_screen": {
+    "id": 83,
+    "en": "Build Sensor Tower",
+    "zh": "感应塔"
+  },
+  "Build SensorTower": {
+    "id": 83,
+    "en": "Build Sensor Tower",
+    "zh": "感应塔"
+  },
+  "Build_SpawningPool_screen": {
+    "id": 84,
+    "en": "Build Spawning Pool",
+    "zh": "孵化池"
+  },
+  "Build SpawningPool": {
+    "id": 84,
+    "en": "Build Spawning Pool",
+    "zh": "孵化池"
+  },
+  "Build_SpineCrawler_screen": {
+    "id": 85,
+    "en": "Build Spine Crawler",
+    "zh": "脊针爬虫"
+  },
+  "Build SpineCrawler": {
+    "id": 85,
+    "en": "Build Spine Crawler",
+    "zh": "脊针爬虫"
+  },
+  "Build_Spire_screen": {
+    "id": 86,
+    "en": "Build Spire",
+    "zh": "飞龙塔"
+  },
+  "Build Spire": {
+    "id": 86,
+    "en": "Build Spire",
+    "zh": "飞龙塔"
+  },
+  "Build_SporeCrawler_screen": {
+    "id": 87,
+    "en": "Build Spore Crawler",
+    "zh": "孢子爬虫"
+  },
+  "Build SporeCrawler": {
+    "id": 87,
+    "en": "Build Spore Crawler",
+    "zh": "孢子爬虫"
+  },
+  "Build_Stargate_screen": {
+    "id": 88,
+    "en": "Build Stargate",
+    "zh": "星门"
+  },
+  "Build Stargate": {
+    "id": 88,
+    "en": "Build Stargate",
+    "zh": "星门"
+  },
+  "Build_Starport_screen": {
+    "id": 89,
+    "en": "Build Starport",
+    "zh": "星港"
+  },
+  "Build Starport": {
+    "id": 89,
+    "en": "Build Starport",
+    "zh": "星港"
+  },
+  "Build_StasisTrap_screen": {
+    "id": 90,
+    "en": "Build Stasis Trap",
+    "zh": "静滞陷阱"
+  },
+  "Build StasisTrap": {
+    "id": 90,
+    "en": "Build Stasis Trap",
+    "zh": "静滞陷阱"
+  },
+  "Build_SupplyDepot_screen": {
+    "id": 91,
+    "en": "Build Supply Depot",
+    "zh": "补给站"
+  },
+  "Build SupplyDepot": {
+    "id": 91,
+    "en": "Build Supply Depot",
+    "zh": "补给站"
+  },
+  "Build_TechLab_quick": {
+    "id": 92,
+    "en": "Build Tech Lab",
+    "zh": "科技实验室"
+  },
+  "Build TechLab": {
+    "id": 92,
+    "en": "Build Tech Lab",
+    "zh": "科技实验室"
+  },
+  "Build_TechLab_screen": {
+    "id": 93,
+    "en": "Build Tech Lab",
+    "zh": "科技实验室"
+  },
+  "Build_TechLab_Barracks_quick": {
+    "id": 94,
+    "en": "Build Tech Lab Barracks",
+    "zh": "科技实验室"
+  },
+  "Build TechLab Barracks": {
+    "id": 94,
+    "en": "Build Tech Lab Barracks",
+    "zh": "科技实验室"
+  },
+  "Build_TechLab_Barracks_screen": {
+    "id": 95,
+    "en": "Build Tech Lab Barracks",
+    "zh": "科技实验室"
+  },
+  "Build_TechLab_Factory_quick": {
+    "id": 96,
+    "en": "Build Tech Lab Factory",
+    "zh": "科技实验室"
+  },
+  "Build TechLab Factory": {
+    "id": 96,
+    "en": "Build Tech Lab Factory",
+    "zh": "科技实验室"
+  },
+  "Build_TechLab_Factory_screen": {
+    "id": 97,
+    "en": "Build Tech Lab Factory",
+    "zh": "科技实验室"
+  },
+  "Build_TechLab_Starport_quick": {
+    "id": 98,
+    "en": "Build Tech Lab Starport",
+    "zh": "科技实验室"
+  },
+  "Build TechLab Starport": {
+    "id": 98,
+    "en": "Build Tech Lab Starport",
+    "zh": "科技实验室"
+  },
+  "Build_TechLab_Starport_screen": {
+    "id": 99,
+    "en": "Build Tech Lab Starport",
+    "zh": "科技实验室"
+  },
+  "Build_TemplarArchive_screen": {
+    "id": 100,
+    "en": "Build Templar Archive",
+    "zh": "圣堂武士文献馆"
+  },
+  "Build TemplarArchive": {
+    "id": 100,
+    "en": "Build Templar Archive",
+    "zh": "圣堂武士文献馆"
+  },
+  "Build_TwilightCouncil_screen": {
+    "id": 101,
+    "en": "Build Twilight Council",
+    "zh": "暮光议会"
+  },
+  "Build TwilightCouncil": {
+    "id": 101,
+    "en": "Build Twilight Council",
+    "zh": "暮光议会"
+  },
+  "Build_UltraliskCavern_screen": {
+    "id": 102,
+    "en": "Build Ultralisk Cavern",
+    "zh": "雷兽洞穴"
+  },
+  "Build UltraliskCavern": {
+    "id": 102,
+    "en": "Build Ultralisk Cavern",
+    "zh": "雷兽洞穴"
+  },
+  "BurrowDown_quick": {
+    "id": 103,
+    "en": "Burrow Down",
+    "zh": "潜地"
+  },
+  "BurrowDown": {
+    "id": 103,
+    "en": "Burrow Down",
+    "zh": "潜地"
+  },
+  "BurrowDown_Baneling_quick": {
+    "id": 104,
+    "en": "Burrow Down Baneling",
+    "zh": "潜地_爆蚊"
+  },
+  "BurrowDown Baneling": {
+    "id": 104,
+    "en": "Burrow Down Baneling",
+    "zh": "潜地_爆蚊"
+  },
+  "BurrowDown_Drone_quick": {
+    "id": 105,
+    "en": "Burrow Down Drone",
+    "zh": "潜地_工蜂"
+  },
+  "BurrowDown Drone": {
+    "id": 105,
+    "en": "Burrow Down Drone",
+    "zh": "潜地_工蜂"
+  },
+  "BurrowDown_Hydralisk_quick": {
+    "id": 106,
+    "en": "Burrow Down Hydralisk",
+    "zh": "潜地_刺蛇"
+  },
+  "BurrowDown Hydralisk": {
+    "id": 106,
+    "en": "Burrow Down Hydralisk",
+    "zh": "潜地_刺蛇"
+  },
+  "BurrowDown_Infestor_quick": {
+    "id": 107,
+    "en": "Burrow Down Infestor",
+    "zh": "潜地_感染者"
+  },
+  "BurrowDown Infestor": {
+    "id": 107,
+    "en": "Burrow Down Infestor",
+    "zh": "潜地_感染者"
+  },
+  "BurrowDown_InfestorTerran_quick": {
+    "id": 108,
+    "en": "Burrow Down Infestor Terran",
+    "zh": "潜地_被感染的人类"
+  },
+  "BurrowDown InfestorTerran": {
+    "id": 108,
+    "en": "Burrow Down Infestor Terran",
+    "zh": "潜地_被感染的人类"
+  },
+  "BurrowDown_Lurker_quick": {
+    "id": 109,
+    "en": "Burrow Down Lurker",
+    "zh": "潜地_地刺"
+  },
+  "BurrowDown Lurker": {
+    "id": 109,
+    "en": "Burrow Down Lurker",
+    "zh": "潜地_地刺"
+  },
+  "BurrowDown_Queen_quick": {
+    "id": 110,
+    "en": "Burrow Down Queen",
+    "zh": "潜地_女王"
+  },
+  "BurrowDown Queen": {
+    "id": 110,
+    "en": "Burrow Down Queen",
+    "zh": "潜地_女王"
+  },
+  "BurrowDown_Ravager_quick": {
+    "id": 111,
+    "en": "Burrow Down Ravager",
+    "zh": "潜地_宿主"
+  },
+  "BurrowDown Ravager": {
+    "id": 111,
+    "en": "Burrow Down Ravager",
+    "zh": "潜地_宿主"
+  },
+  "BurrowDown_Roach_quick": {
+    "id": 112,
+    "en": "Burrow Down Roach",
+    "zh": "潜地_蟑螂"
+  },
+  "BurrowDown Roach": {
+    "id": 112,
+    "en": "Burrow Down Roach",
+    "zh": "潜地_蟑螂"
+  },
+  "BurrowDown_SwarmHost_quick": {
+    "id": 113,
+    "en": "Burrow Down Swarm Host",
+    "zh": "潜地_虫群宿主"
+  },
+  "BurrowDown SwarmHost": {
+    "id": 113,
+    "en": "Burrow Down Swarm Host",
+    "zh": "潜地_虫群宿主"
+  },
+  "BurrowDown_Ultralisk_quick": {
+    "id": 114,
+    "en": "Burrow Down Ultralisk",
+    "zh": "潜地_雷兽"
+  },
+  "BurrowDown Ultralisk": {
+    "id": 114,
+    "en": "Burrow Down Ultralisk",
+    "zh": "潜地_雷兽"
+  },
+  "BurrowDown_WidowMine_quick": {
+    "id": 115,
+    "en": "Burrow Down Widow Mine",
+    "zh": "潜地_寡妇雷"
+  },
+  "BurrowDown WidowMine": {
+    "id": 115,
+    "en": "Burrow Down Widow Mine",
+    "zh": "潜地_寡妇雷"
+  },
+  "BurrowDown_Zergling_quick": {
+    "id": 116,
+    "en": "Burrow Down Zergling",
+    "zh": "潜地_跳虫"
+  },
+  "BurrowDown Zergling": {
+    "id": 116,
+    "en": "Burrow Down Zergling",
+    "zh": "潜地_跳虫"
+  },
+  "BurrowUp_quick": {
+    "id": 117,
+    "en": "Burrow Up",
+    "zh": "出土"
+  },
+  "BurrowUp": {
+    "id": 117,
+    "en": "Burrow Up",
+    "zh": "出土"
+  },
+  "BurrowUp_autocast": {
+    "id": 118,
+    "en": "Burrow Up",
+    "zh": "出土"
+  },
+  "BurrowUp autocast": {
+    "id": 118,
+    "en": "Burrow Up",
+    "zh": "出土"
+  },
+  "BurrowUp_Baneling_quick": {
+    "id": 119,
+    "en": "Burrow Up Baneling",
+    "zh": "出土_爆蚊"
+  },
+  "BurrowUp Baneling": {
+    "id": 119,
+    "en": "Burrow Up Baneling",
+    "zh": "出土_爆蚊"
+  },
+  "BurrowUp_Baneling_autocast": {
+    "id": 120,
+    "en": "Burrow Up Baneling",
+    "zh": "出土_爆蚊"
+  },
+  "BurrowUp Baneling autocast": {
+    "id": 120,
+    "en": "Burrow Up Baneling",
+    "zh": "出土_爆蚊"
+  },
+  "BurrowUp_Drone_quick": {
+    "id": 121,
+    "en": "Burrow Up Drone",
+    "zh": "出土_工蜂"
+  },
+  "BurrowUp Drone": {
+    "id": 121,
+    "en": "Burrow Up Drone",
+    "zh": "出土_工蜂"
+  },
+  "BurrowUp_Hydralisk_quick": {
+    "id": 122,
+    "en": "Burrow Up Hydralisk",
+    "zh": "出土_刺蛇"
+  },
+  "BurrowUp Hydralisk": {
+    "id": 122,
+    "en": "Burrow Up Hydralisk",
+    "zh": "出土_刺蛇"
+  },
+  "BurrowUp_Hydralisk_autocast": {
+    "id": 123,
+    "en": "Burrow Up Hydralisk",
+    "zh": "出土_刺蛇"
+  },
+  "BurrowUp Hydralisk autocast": {
+    "id": 123,
+    "en": "Burrow Up Hydralisk",
+    "zh": "出土_刺蛇"
+  },
+  "BurrowUp_Infestor_quick": {
+    "id": 124,
+    "en": "Burrow Up Infestor",
+    "zh": "出土_感染者"
+  },
+  "BurrowUp Infestor": {
+    "id": 124,
+    "en": "Burrow Up Infestor",
+    "zh": "出土_感染者"
+  },
+  "BurrowUp_InfestorTerran_quick": {
+    "id": 125,
+    "en": "Burrow Up Infestor Terran",
+    "zh": "出土_被感染的人类"
+  },
+  "BurrowUp InfestorTerran": {
+    "id": 125,
+    "en": "Burrow Up Infestor Terran",
+    "zh": "出土_被感染的人类"
+  },
+  "BurrowUp_InfestorTerran_autocast": {
+    "id": 126,
+    "en": "Burrow Up Infestor Terran",
+    "zh": "出土_被感染的人类"
+  },
+  "BurrowUp InfestorTerran autocast": {
+    "id": 126,
+    "en": "Burrow Up Infestor Terran",
+    "zh": "出土_被感染的人类"
+  },
+  "BurrowUp_Lurker_quick": {
+    "id": 127,
+    "en": "Burrow Up Lurker",
+    "zh": "潜行者钻出"
+  },
+  "BurrowUp Lurker": {
+    "id": 127,
+    "en": "Burrow Up Lurker",
+    "zh": "潜行者钻出"
+  },
+  "BurrowUp_Queen_quick": {
+    "id": 128,
+    "en": "Burrow Up Queen",
+    "zh": "女王钻出"
+  },
+  "BurrowUp Queen": {
+    "id": 128,
+    "en": "Burrow Up Queen",
+    "zh": "女王钻出"
+  },
+  "BurrowUp_Queen_autocast": {
+    "id": 129,
+    "en": "Burrow Up Queen",
+    "zh": "女王钻出"
+  },
+  "BurrowUp Queen autocast": {
+    "id": 129,
+    "en": "Burrow Up Queen",
+    "zh": "女王钻出"
+  },
+  "BurrowUp_Ravager_quick": {
+    "id": 130,
+    "en": "Burrow Up Ravager",
+    "zh": "宿主钻出"
+  },
+  "BurrowUp Ravager": {
+    "id": 130,
+    "en": "Burrow Up Ravager",
+    "zh": "宿主钻出"
+  },
+  "BurrowUp_Ravager_autocast": {
+    "id": 131,
+    "en": "Burrow Up Ravager",
+    "zh": "宿主钻出"
+  },
+  "BurrowUp Ravager autocast": {
+    "id": 131,
+    "en": "Burrow Up Ravager",
+    "zh": "宿主钻出"
+  },
+  "BurrowUp_Roach_quick": {
+    "id": 132,
+    "en": "Burrow Up Roach",
+    "zh": "蟑螂钻出"
+  },
+  "BurrowUp Roach": {
+    "id": 132,
+    "en": "Burrow Up Roach",
+    "zh": "蟑螂钻出"
+  },
+  "BurrowUp_Roach_autocast": {
+    "id": 133,
+    "en": "Burrow Up Roach",
+    "zh": "蟑螂钻出"
+  },
+  "BurrowUp Roach autocast": {
+    "id": 133,
+    "en": "Burrow Up Roach",
+    "zh": "蟑螂钻出"
+  },
+  "BurrowUp_SwarmHost_quick": {
+    "id": 134,
+    "en": "Burrow Up Swarm Host",
+    "zh": "虫群宿主钻出"
+  },
+  "BurrowUp SwarmHost": {
+    "id": 134,
+    "en": "Burrow Up Swarm Host",
+    "zh": "虫群宿主钻出"
+  },
+  "BurrowUp_Ultralisk_quick": {
+    "id": 135,
+    "en": "Burrow Up Ultralisk",
+    "zh": "雷兽钻出"
+  },
+  "BurrowUp Ultralisk": {
+    "id": 135,
+    "en": "Burrow Up Ultralisk",
+    "zh": "雷兽钻出"
+  },
+  "BurrowUp_Ultralisk_autocast": {
+    "id": 136,
+    "en": "Burrow Up Ultralisk",
+    "zh": "雷兽钻出"
+  },
+  "BurrowUp Ultralisk autocast": {
+    "id": 136,
+    "en": "Burrow Up Ultralisk",
+    "zh": "雷兽钻出"
+  },
+  "BurrowUp_WidowMine_quick": {
+    "id": 137,
+    "en": "Burrow Up Widow Mine",
+    "zh": "寡妇雷钻出"
+  },
+  "BurrowUp WidowMine": {
+    "id": 137,
+    "en": "Burrow Up Widow Mine",
+    "zh": "寡妇雷钻出"
+  },
+  "BurrowUp_Zergling_quick": {
+    "id": 138,
+    "en": "Burrow Up Zergling",
+    "zh": "跳虫钻出"
+  },
+  "BurrowUp Zergling": {
+    "id": 138,
+    "en": "Burrow Up Zergling",
+    "zh": "跳虫钻出"
+  },
+  "BurrowUp_Zergling_autocast": {
+    "id": 139,
+    "en": "Burrow Up Zergling",
+    "zh": "跳虫钻出"
+  },
+  "BurrowUp Zergling autocast": {
+    "id": 139,
+    "en": "Burrow Up Zergling",
+    "zh": "跳虫钻出"
+  },
+  "Cancel_quick": {
+    "id": 140,
+    "en": "Cancel",
+    "zh": "取消"
+  },
+  "Cancel": {
+    "id": 140,
+    "en": "Cancel",
+    "zh": "取消"
+  },
+  "Cancel_AdeptPhaseShift_quick": {
+    "id": 141,
+    "en": "Cancel Adept Phase Shift",
+    "zh": "取消使徒相位切换"
+  },
+  "Cancel AdeptPhaseShift": {
+    "id": 141,
+    "en": "Cancel Adept Phase Shift",
+    "zh": "取消使徒相位切换"
+  },
+  "Cancel_AdeptShadePhaseShift_quick": {
+    "id": 142,
+    "en": "Cancel Adept Shade Phase Shift",
+    "zh": "取消灵能体相位切换"
+  },
+  "Cancel AdeptShadePhaseShift": {
+    "id": 142,
+    "en": "Cancel Adept Shade Phase Shift",
+    "zh": "取消灵能体相位切换"
+  },
+  "Cancel_BarracksAddOn_quick": {
+    "id": 143,
+    "en": "Cancel Barracks Add On",
+    "zh": "取消兵营附件"
+  },
+  "Cancel BarracksAddOn": {
+    "id": 143,
+    "en": "Cancel Barracks Add On",
+    "zh": "取消兵营附件"
+  },
+  "Cancel_BuildInProgress_quick": {
+    "id": 144,
+    "en": "Cancel Build In Progress",
+    "zh": "取消建造"
+  },
+  "Cancel BuildInProgress": {
+    "id": 144,
+    "en": "Cancel Build In Progress",
+    "zh": "取消建造"
+  },
+  "Cancel_CreepTumor_quick": {
+    "id": 145,
+    "en": "Cancel Creep Tumor",
+    "zh": "取消菌瘤"
+  },
+  "Cancel CreepTumor": {
+    "id": 145,
+    "en": "Cancel Creep Tumor",
+    "zh": "取消菌瘤"
+  },
+  "Cancel_FactoryAddOn_quick": {
+    "id": 146,
+    "en": "Cancel Factory Add On",
+    "zh": "取消工厂附件"
+  },
+  "Cancel FactoryAddOn": {
+    "id": 146,
+    "en": "Cancel Factory Add On",
+    "zh": "取消工厂附件"
+  },
+  "Cancel_GravitonBeam_quick": {
+    "id": 147,
+    "en": "Cancel Graviton Beam",
+    "zh": "取消引力光束"
+  },
+  "Cancel GravitonBeam": {
+    "id": 147,
+    "en": "Cancel Graviton Beam",
+    "zh": "取消引力光束"
+  },
+  "Cancel_LockOn_quick": {
+    "id": 148,
+    "en": "Cancel Lock On",
+    "zh": "取消锁定"
+  },
+  "Cancel LockOn": {
+    "id": 148,
+    "en": "Cancel Lock On",
+    "zh": "取消锁定"
+  },
+  "Cancel_MorphBroodlord_quick": {
+    "id": 149,
+    "en": "Cancel Morph Broodlord",
+    "zh": "取消变异为宿主"
+  },
+  "Cancel MorphBroodlord": {
+    "id": 149,
+    "en": "Cancel Morph Broodlord",
+    "zh": "取消变异为宿主"
+  },
+  "Cancel_MorphGreaterSpire_quick": {
+    "id": 150,
+    "en": "Cancel Morph Greater Spire",
+    "zh": "取消变异大飞龙"
+  },
+  "Cancel MorphGreaterSpire": {
+    "id": 150,
+    "en": "Cancel Morph Greater Spire",
+    "zh": "取消变异大飞龙"
+  },
+  "Cancel_MorphHive_quick": {
+    "id": 151,
+    "en": "Cancel Morph Hive",
+    "zh": "取消变异穴"
+  },
+  "Cancel MorphHive": {
+    "id": 151,
+    "en": "Cancel Morph Hive",
+    "zh": "取消变异穴"
+  },
+  "Cancel_MorphLair_quick": {
+    "id": 152,
+    "en": "Cancel Morph Lair",
+    "zh": "取消变异巢"
+  },
+  "Cancel MorphLair": {
+    "id": 152,
+    "en": "Cancel Morph Lair",
+    "zh": "取消变异巢"
+  },
+  "Cancel_MorphLurker_quick": {
+    "id": 153,
+    "en": "Cancel Morph Lurker",
+    "zh": "取消变异地刺"
+  },
+  "Cancel MorphLurker": {
+    "id": 153,
+    "en": "Cancel Morph Lurker",
+    "zh": "取消变异地刺"
+  },
+  "Cancel_MorphLurkerDen_quick": {
+    "id": 154,
+    "en": "Cancel Morph Lurker Den",
+    "zh": "取消变异地刺巢穴"
+  },
+  "Cancel MorphLurkerDen": {
+    "id": 154,
+    "en": "Cancel Morph Lurker Den",
+    "zh": "取消变异地刺巢穴"
+  },
+  "Cancel_MorphMothership_quick": {
+    "id": 155,
+    "en": "Cancel Morph Mothership",
+    "zh": "取消变异母舰"
+  },
+  "Cancel MorphMothership": {
+    "id": 155,
+    "en": "Cancel Morph Mothership",
+    "zh": "取消变异母舰"
+  },
+  "Cancel_MorphOrbital_quick": {
+    "id": 156,
+    "en": "Cancel Morph Orbital",
+    "zh": "取消升级轨道指挥部"
+  },
+  "Cancel MorphOrbital": {
+    "id": 156,
+    "en": "Cancel Morph Orbital",
+    "zh": "取消升级轨道指挥部"
+  },
+  "Cancel_MorphOverlordTransport_quick": {
+    "id": 157,
+    "en": "Cancel Morph Overlord Transport",
+    "zh": "取消变异宿主"
+  },
+  "Cancel MorphOverlordTransport": {
+    "id": 157,
+    "en": "Cancel Morph Overlord Transport",
+    "zh": "取消变异宿主"
+  },
+  "Cancel_MorphOverseer_quick": {
+    "id": 158,
+    "en": "Cancel Morph Overseer",
+    "zh": "取消变异眼虫"
+  },
+  "Cancel MorphOverseer": {
+    "id": 158,
+    "en": "Cancel Morph Overseer",
+    "zh": "取消变异眼虫"
+  },
+  "Cancel_MorphPlanetaryFortress_quick": {
+    "id": 159,
+    "en": "Cancel Morph Planetary Fortress",
+    "zh": "取消升级行星要塞"
+  },
+  "Cancel MorphPlanetaryFortress": {
+    "id": 159,
+    "en": "Cancel Morph Planetary Fortress",
+    "zh": "取消升级行星要塞"
+  },
+  "Cancel_MorphRavager_quick": {
+    "id": 160,
+    "en": "Cancel Morph Ravager",
+    "zh": "取消变异爆蚊"
+  },
+  "Cancel MorphRavager": {
+    "id": 160,
+    "en": "Cancel Morph Ravager",
+    "zh": "取消变异爆蚊"
+  },
+  "Cancel_MorphThorExplosiveMode_quick": {
+    "id": 161,
+    "en": "Cancel Morph Thor Explosive Mode",
+    "zh": "取消托尔高爆模式"
+  },
+  "Cancel MorphThorExplosiveMode": {
+    "id": 161,
+    "en": "Cancel Morph Thor Explosive Mode",
+    "zh": "取消托尔高爆模式"
+  },
+  "Cancel_NeuralParasite_quick": {
+    "id": 162,
+    "en": "Cancel Neural Parasite",
+    "zh": "取消神经寄生"
+  },
+  "Cancel NeuralParasite": {
+    "id": 162,
+    "en": "Cancel Neural Parasite",
+    "zh": "取消神经寄生"
+  },
+  "Cancel_Nuke_quick": {
+    "id": 163,
+    "en": "Cancel Nuke",
+    "zh": "取消核弹"
+  },
+  "Cancel Nuke": {
+    "id": 163,
+    "en": "Cancel Nuke",
+    "zh": "取消核弹"
+  },
+  "Cancel_SpineCrawlerRoot_quick": {
+    "id": 164,
+    "en": "Cancel Spine Crawler Root",
+    "zh": "取消_孢子爬虫扎根"
+  },
+  "Cancel SpineCrawlerRoot": {
+    "id": 164,
+    "en": "Cancel Spine Crawler Root",
+    "zh": "取消_孢子爬虫扎根"
+  },
+  "Cancel_SporeCrawlerRoot_quick": {
+    "id": 165,
+    "en": "Cancel Spore Crawler Root",
+    "zh": "取消_防空爬虫扎根"
+  },
+  "Cancel SporeCrawlerRoot": {
+    "id": 165,
+    "en": "Cancel Spore Crawler Root",
+    "zh": "取消_防空爬虫扎根"
+  },
+  "Cancel_StarportAddOn_quick": {
+    "id": 166,
+    "en": "Cancel Starport Add On",
+    "zh": "取消_星港附属建筑"
+  },
+  "Cancel StarportAddOn": {
+    "id": 166,
+    "en": "Cancel Starport Add On",
+    "zh": "取消_星港附属建筑"
+  },
+  "Cancel_StasisTrap_quick": {
+    "id": 167,
+    "en": "Cancel Stasis Trap",
+    "zh": "取消_静滞陷阱"
+  },
+  "Cancel StasisTrap": {
+    "id": 167,
+    "en": "Cancel Stasis Trap",
+    "zh": "取消_静滞陷阱"
+  },
+  "Cancel_Last_quick": {
+    "id": 168,
+    "en": "Cancel Last",
+    "zh": "取消最后一个"
+  },
+  "Cancel Last": {
+    "id": 168,
+    "en": "Cancel Last",
+    "zh": "取消最后一个"
+  },
+  "Cancel_HangarQueue5_quick": {
+    "id": 169,
+    "en": "Cancel Hangar Queue5",
+    "zh": "取消机库队列5"
+  },
+  "Cancel HangarQueue5": {
+    "id": 169,
+    "en": "Cancel Hangar Queue5",
+    "zh": "取消机库队列5"
+  },
+  "Cancel_Queue1_quick": {
+    "id": 170,
+    "en": "Cancel Queue1",
+    "zh": "取消队列第1项"
+  },
+  "Cancel Queue1": {
+    "id": 170,
+    "en": "Cancel Queue1",
+    "zh": "取消队列第1项"
+  },
+  "Cancel_Queue5_quick": {
+    "id": 171,
+    "en": "Cancel Queue5",
+    "zh": "取消队列第5项"
+  },
+  "Cancel Queue5": {
+    "id": 171,
+    "en": "Cancel Queue5",
+    "zh": "取消队列第5项"
+  },
+  "Cancel_QueueAddOn_quick": {
+    "id": 172,
+    "en": "Cancel Queue Add On",
+    "zh": "取消附属建筑队列"
+  },
+  "Cancel QueueAddOn": {
+    "id": 172,
+    "en": "Cancel Queue Add On",
+    "zh": "取消附属建筑队列"
+  },
+  "Cancel_QueueCancelToSelection_quick": {
+    "id": 173,
+    "en": "Cancel Queue Cancel To Selection",
+    "zh": "取消队列并选中"
+  },
+  "Cancel QueueCancelToSelection": {
+    "id": 173,
+    "en": "Cancel Queue Cancel To Selection",
+    "zh": "取消队列并选中"
+  },
+  "Cancel_QueuePassive_quick": {
+    "id": 174,
+    "en": "Cancel Queue Passive",
+    "zh": "取消升级队列"
+  },
+  "Cancel QueuePassive": {
+    "id": 174,
+    "en": "Cancel Queue Passive",
+    "zh": "取消升级队列"
+  },
+  "Cancel_QueuePassiveCancelToSelection_quick": {
+    "id": 175,
+    "en": "Cancel Queue Passive Cancel To Selection",
+    "zh": "取消升级队列并选中"
+  },
+  "Cancel QueuePassiveCancelToSelection": {
+    "id": 175,
+    "en": "Cancel Queue Passive Cancel To Selection",
+    "zh": "取消升级队列并选中"
+  },
+  "Effect_Abduct_screen": {
+    "id": 176,
+    "en": "Effect Abduct",
+    "zh": "效果_绑架"
+  },
+  "Effect Abduct": {
+    "id": 176,
+    "en": "Effect Abduct",
+    "zh": "效果_绑架"
+  },
+  "Effect_AdeptPhaseShift_screen": {
+    "id": 177,
+    "en": "Effect Adept Phase Shift",
+    "zh": "效果_使徒相位转换"
+  },
+  "Effect AdeptPhaseShift": {
+    "id": 177,
+    "en": "Effect Adept Phase Shift",
+    "zh": "效果_使徒相位转换"
+  },
+  "Effect_AutoTurret_screen": {
+    "id": 178,
+    "en": "Effect Auto Turret",
+    "zh": "效果_自动炮塔"
+  },
+  "Effect AutoTurret": {
+    "id": 178,
+    "en": "Effect Auto Turret",
+    "zh": "效果_自动炮塔"
+  },
+  "Effect_BlindingCloud_screen": {
+    "id": 179,
+    "en": "Effect Blinding Cloud",
+    "zh": "效果_致盲云"
+  },
+  "Effect BlindingCloud": {
+    "id": 179,
+    "en": "Effect Blinding Cloud",
+    "zh": "效果_致盲云"
+  },
+  "Effect_Blink_screen": {
+    "id": 180,
+    "en": "Effect Blink",
+    "zh": "效果_闪现"
+  },
+  "Effect Blink": {
+    "id": 180,
+    "en": "Effect Blink",
+    "zh": "效果_闪现"
+  },
+  "Effect_Blink_Stalker_screen": {
+    "id": 181,
+    "en": "Effect Blink Stalker",
+    "zh": "效果_闪现_追猎者"
+  },
+  "Effect Blink Stalker": {
+    "id": 181,
+    "en": "Effect Blink Stalker",
+    "zh": "效果_闪现_追猎者"
+  },
+  "Effect_ShadowStride_screen": {
+    "id": 182,
+    "en": "Effect Shadow Stride",
+    "zh": "暗影步"
+  },
+  "Effect ShadowStride": {
+    "id": 182,
+    "en": "Effect Shadow Stride",
+    "zh": "暗影步"
+  },
+  "Effect_CalldownMULE_screen": {
+    "id": 183,
+    "en": "Effect Calldown M U L E",
+    "zh": "效果_空降MULE"
+  },
+  "Effect CalldownMULE": {
+    "id": 183,
+    "en": "Effect Calldown M U L E",
+    "zh": "效果_空降MULE"
+  },
+  "Effect_CausticSpray_screen": {
+    "id": 184,
+    "en": "Effect Caustic Spray",
+    "zh": "效果_腐蚀喷雾"
+  },
+  "Effect CausticSpray": {
+    "id": 184,
+    "en": "Effect Caustic Spray",
+    "zh": "效果_腐蚀喷雾"
+  },
+  "Effect_Charge_screen": {
+    "id": 185,
+    "en": "Effect Charge",
+    "zh": "效果_冲锋"
+  },
+  "Effect Charge": {
+    "id": 185,
+    "en": "Effect Charge",
+    "zh": "效果_冲锋"
+  },
+  "Effect_Charge_autocast": {
+    "id": 186,
+    "en": "Effect Charge",
+    "zh": "效果_冲锋"
+  },
+  "Effect Charge autocast": {
+    "id": 186,
+    "en": "Effect Charge",
+    "zh": "效果_冲锋"
+  },
+  "Effect_ChronoBoost_screen": {
+    "id": 187,
+    "en": "Effect Chrono Boost",
+    "zh": "效果_时空加速"
+  },
+  "Effect ChronoBoost": {
+    "id": 187,
+    "en": "Effect Chrono Boost",
+    "zh": "效果_时空加速"
+  },
+  "Effect_Contaminate_screen": {
+    "id": 188,
+    "en": "Effect Contaminate",
+    "zh": "效果_污染"
+  },
+  "Effect Contaminate": {
+    "id": 188,
+    "en": "Effect Contaminate",
+    "zh": "效果_污染"
+  },
+  "Effect_CorrosiveBile_screen": {
+    "id": 189,
+    "en": "Effect Corrosive Bile",
+    "zh": "效果_腐蚀胆汁"
+  },
+  "Effect CorrosiveBile": {
+    "id": 189,
+    "en": "Effect Corrosive Bile",
+    "zh": "效果_腐蚀胆汁"
+  },
+  "Effect_EMP_screen": {
+    "id": 190,
+    "en": "Effect E M P",
+    "zh": "效果_电磁脉冲"
+  },
+  "Effect EMP": {
+    "id": 190,
+    "en": "Effect E M P",
+    "zh": "效果_电磁脉冲"
+  },
+  "Effect_Explode_quick": {
+    "id": 191,
+    "en": "Effect Explode",
+    "zh": "爆炸"
+  },
+  "Effect Explode": {
+    "id": 191,
+    "en": "Effect Explode",
+    "zh": "爆炸"
+  },
+  "Effect_Feedback_screen": {
+    "id": 192,
+    "en": "Effect Feedback",
+    "zh": "反馈"
+  },
+  "Effect Feedback": {
+    "id": 192,
+    "en": "Effect Feedback",
+    "zh": "反馈"
+  },
+  "Effect_ForceField_screen": {
+    "id": 193,
+    "en": "Effect Force Field",
+    "zh": "力场"
+  },
+  "Effect ForceField": {
+    "id": 193,
+    "en": "Effect Force Field",
+    "zh": "力场"
+  },
+  "Effect_FungalGrowth_screen": {
+    "id": 194,
+    "en": "Effect Fungal Growth",
+    "zh": "真菌增生"
+  },
+  "Effect FungalGrowth": {
+    "id": 194,
+    "en": "Effect Fungal Growth",
+    "zh": "真菌增生"
+  },
+  "Effect_GhostSnipe_screen": {
+    "id": 195,
+    "en": "Effect Ghost Snipe",
+    "zh": "狙击"
+  },
+  "Effect GhostSnipe": {
+    "id": 195,
+    "en": "Effect Ghost Snipe",
+    "zh": "狙击"
+  },
+  "Effect_GravitonBeam_screen": {
+    "id": 196,
+    "en": "Effect Graviton Beam",
+    "zh": "引力光束"
+  },
+  "Effect GravitonBeam": {
+    "id": 196,
+    "en": "Effect Graviton Beam",
+    "zh": "引力光束"
+  },
+  "Effect_GuardianShield_quick": {
+    "id": 197,
+    "en": "Effect Guardian Shield",
+    "zh": "守护者之盾"
+  },
+  "Effect GuardianShield": {
+    "id": 197,
+    "en": "Effect Guardian Shield",
+    "zh": "守护者之盾"
+  },
+  "Effect_Heal_screen": {
+    "id": 198,
+    "en": "Effect Heal",
+    "zh": "治疗"
+  },
+  "Effect Heal": {
+    "id": 198,
+    "en": "Effect Heal",
+    "zh": "治疗"
+  },
+  "Effect_Heal_autocast": {
+    "id": 199,
+    "en": "Effect Heal",
+    "zh": "治疗"
+  },
+  "Effect Heal autocast": {
+    "id": 199,
+    "en": "Effect Heal",
+    "zh": "治疗"
+  },
+  "Effect_HunterSeekerMissile_screen": {
+    "id": 200,
+    "en": "Effect Hunter Seeker Missile",
+    "zh": "猎杀飞弹"
+  },
+  "Effect HunterSeekerMissile": {
+    "id": 200,
+    "en": "Effect Hunter Seeker Missile",
+    "zh": "猎杀飞弹"
+  },
+  "Effect_ImmortalBarrier_quick": {
+    "id": 201,
+    "en": "Effect Immortal Barrier",
+    "zh": "屏障"
+  },
+  "Effect ImmortalBarrier": {
+    "id": 201,
+    "en": "Effect Immortal Barrier",
+    "zh": "屏障"
+  },
+  "Effect_ImmortalBarrier_autocast": {
+    "id": 202,
+    "en": "Effect Immortal Barrier",
+    "zh": "屏障"
+  },
+  "Effect ImmortalBarrier autocast": {
+    "id": 202,
+    "en": "Effect Immortal Barrier",
+    "zh": "屏障"
+  },
+  "Effect_InfestedTerrans_screen": {
+    "id": 203,
+    "en": "Effect Infested Terrans",
+    "zh": "感染异虫"
+  },
+  "Effect InfestedTerrans": {
+    "id": 203,
+    "en": "Effect Infested Terrans",
+    "zh": "感染异虫"
+  },
+  "Effect_InjectLarva_screen": {
+    "id": 204,
+    "en": "Effect Inject Larva",
+    "zh": "注射幼虫"
+  },
+  "Effect InjectLarva": {
+    "id": 204,
+    "en": "Effect Inject Larva",
+    "zh": "注射幼虫"
+  },
+  "Effect_KD8Charge_screen": {
+    "id": 205,
+    "en": "Effect K D8 Charge",
+    "zh": "KD8冲击"
+  },
+  "Effect KD8Charge": {
+    "id": 205,
+    "en": "Effect K D8 Charge",
+    "zh": "KD8冲击"
+  },
+  "Effect_LockOn_screen": {
+    "id": 206,
+    "en": "Effect Lock On",
+    "zh": "锁定"
+  },
+  "Effect LockOn": {
+    "id": 206,
+    "en": "Effect Lock On",
+    "zh": "锁定"
+  },
+  "Effect_LocustSwoop_screen": {
+    "id": 207,
+    "en": "Effect Locust Swoop",
+    "zh": "蝗虫俯冲"
+  },
+  "Effect LocustSwoop": {
+    "id": 207,
+    "en": "Effect Locust Swoop",
+    "zh": "蝗虫俯冲"
+  },
+  "Effect_MassRecall_screen": {
+    "id": 208,
+    "en": "Effect Mass Recall",
+    "zh": "群体召回"
+  },
+  "Effect MassRecall": {
+    "id": 208,
+    "en": "Effect Mass Recall",
+    "zh": "群体召回"
+  },
+  "Effect_MassRecall_Mothership_screen": {
+    "id": 209,
+    "en": "Effect Mass Recall Mothership",
+    "zh": "母舰群体召回"
+  },
+  "Effect MassRecall Mothership": {
+    "id": 209,
+    "en": "Effect Mass Recall Mothership",
+    "zh": "母舰群体召回"
+  },
+  "Effect_MassRecall_MothershipCore_screen": {
+    "id": 210,
+    "en": "Effect Mass Recall Mothership Core",
+    "zh": "母舰核心群体召回"
+  },
+  "Effect MassRecall MothershipCore": {
+    "id": 210,
+    "en": "Effect Mass Recall Mothership Core",
+    "zh": "母舰核心群体召回"
+  },
+  "Effect_MedivacIgniteAfterburners_quick": {
+    "id": 211,
+    "en": "Effect Medivac Ignite Afterburners",
+    "zh": "点燃加力燃烧室"
+  },
+  "Effect MedivacIgniteAfterburners": {
+    "id": 211,
+    "en": "Effect Medivac Ignite Afterburners",
+    "zh": "点燃加力燃烧室"
+  },
+  "Effect_NeuralParasite_screen": {
+    "id": 212,
+    "en": "Effect Neural Parasite",
+    "zh": "神经寄生"
+  },
+  "Effect NeuralParasite": {
+    "id": 212,
+    "en": "Effect Neural Parasite",
+    "zh": "神经寄生"
+  },
+  "Effect_NukeCalldown_screen": {
+    "id": 213,
+    "en": "Effect Nuke Calldown",
+    "zh": "核弹空袭"
+  },
+  "Effect NukeCalldown": {
+    "id": 213,
+    "en": "Effect Nuke Calldown",
+    "zh": "核弹空袭"
+  },
+  "Effect_OracleRevelation_screen": {
+    "id": 214,
+    "en": "Effect Oracle Revelation",
+    "zh": "启示"
+  },
+  "Effect OracleRevelation": {
+    "id": 214,
+    "en": "Effect Oracle Revelation",
+    "zh": "启示"
+  },
+  "Effect_ParasiticBomb_screen": {
+    "id": 215,
+    "en": "Effect Parasitic Bomb",
+    "zh": "寄生炸弹"
+  },
+  "Effect ParasiticBomb": {
+    "id": 215,
+    "en": "Effect Parasitic Bomb",
+    "zh": "寄生炸弹"
+  },
+  "Effect_PhotonOvercharge_screen": {
+    "id": 216,
+    "en": "Effect Photon Overcharge",
+    "zh": "光子过载"
+  },
+  "Effect PhotonOvercharge": {
+    "id": 216,
+    "en": "Effect Photon Overcharge",
+    "zh": "光子过载"
+  },
+  "Effect_PointDefenseDrone_screen": {
+    "id": 217,
+    "en": "Effect Point Defense Drone",
+    "zh": "点防御无人机"
+  },
+  "Effect PointDefenseDrone": {
+    "id": 217,
+    "en": "Effect Point Defense Drone",
+    "zh": "点防御无人机"
+  },
+  "Effect_PsiStorm_screen": {
+    "id": 218,
+    "en": "Effect Psi Storm",
+    "zh": "灵能风暴"
+  },
+  "Effect PsiStorm": {
+    "id": 218,
+    "en": "Effect Psi Storm",
+    "zh": "灵能风暴"
+  },
+  "Effect_PurificationNova_screen": {
+    "id": 219,
+    "en": "Effect Purification Nova",
+    "zh": "净化新星"
+  },
+  "Effect PurificationNova": {
+    "id": 219,
+    "en": "Effect Purification Nova",
+    "zh": "净化新星"
+  },
+  "Effect_Repair_screen": {
+    "id": 220,
+    "en": "Effect Repair",
+    "zh": "修理"
+  },
+  "Effect Repair": {
+    "id": 220,
+    "en": "Effect Repair",
+    "zh": "修理"
+  },
+  "Effect_Repair_autocast": {
+    "id": 221,
+    "en": "Effect Repair",
+    "zh": "修理"
+  },
+  "Effect Repair autocast": {
+    "id": 221,
+    "en": "Effect Repair",
+    "zh": "修理"
+  },
+  "Effect_Repair_Mule_screen": {
+    "id": 222,
+    "en": "Effect Repair Mule",
+    "zh": "矿骡修理"
+  },
+  "Effect Repair Mule": {
+    "id": 222,
+    "en": "Effect Repair Mule",
+    "zh": "矿骡修理"
+  },
+  "Effect_Repair_Mule_autocast": {
+    "id": 223,
+    "en": "Effect Repair Mule",
+    "zh": "矿骡修理"
+  },
+  "Effect Repair Mule autocast": {
+    "id": 223,
+    "en": "Effect Repair Mule",
+    "zh": "矿骡修理"
+  },
+  "Effect_Repair_SCV_screen": {
+    "id": 224,
+    "en": "Effect Repair S C V",
+    "zh": "SCV修理"
+  },
+  "Effect Repair SCV": {
+    "id": 224,
+    "en": "Effect Repair S C V",
+    "zh": "SCV修理"
+  },
+  "Effect_Repair_SCV_autocast": {
+    "id": 225,
+    "en": "Effect Repair S C V",
+    "zh": "SCV修理"
+  },
+  "Effect Repair SCV autocast": {
+    "id": 225,
+    "en": "Effect Repair S C V",
+    "zh": "SCV修理"
+  },
+  "Effect_Salvage_quick": {
+    "id": 226,
+    "en": "Effect Salvage",
+    "zh": "回收"
+  },
+  "Effect Salvage": {
+    "id": 226,
+    "en": "Effect Salvage",
+    "zh": "回收"
+  },
+  "Effect_Scan_screen": {
+    "id": 227,
+    "en": "Effect Scan",
+    "zh": "扫描"
+  },
+  "Effect Scan": {
+    "id": 227,
+    "en": "Effect Scan",
+    "zh": "扫描"
+  },
+  "Effect_SpawnChangeling_quick": {
+    "id": 228,
+    "en": "Effect Spawn Changeling",
+    "zh": "生成变形虫"
+  },
+  "Effect SpawnChangeling": {
+    "id": 228,
+    "en": "Effect Spawn Changeling",
+    "zh": "生成变形虫"
+  },
+  "Effect_SpawnLocusts_screen": {
+    "id": 229,
+    "en": "Effect Spawn Locusts",
+    "zh": "孵化蝗虫"
+  },
+  "Effect SpawnLocusts": {
+    "id": 229,
+    "en": "Effect Spawn Locusts",
+    "zh": "孵化蝗虫"
+  },
+  "Effect_Spray_screen": {
+    "id": 230,
+    "en": "Effect Spray",
+    "zh": "喷涂"
+  },
+  "Effect Spray": {
+    "id": 230,
+    "en": "Effect Spray",
+    "zh": "喷涂"
+  },
+  "Effect_Spray_Protoss_screen": {
+    "id": 231,
+    "en": "Effect Spray Protoss",
+    "zh": "星灵喷涂"
+  },
+  "Effect Spray Protoss": {
+    "id": 231,
+    "en": "Effect Spray Protoss",
+    "zh": "星灵喷涂"
+  },
+  "Effect_Spray_Terran_screen": {
+    "id": 232,
+    "en": "Effect Spray Terran",
+    "zh": "泰伦喷涂"
+  },
+  "Effect Spray Terran": {
+    "id": 232,
+    "en": "Effect Spray Terran",
+    "zh": "泰伦喷涂"
+  },
+  "Effect_Spray_Zerg_screen": {
+    "id": 233,
+    "en": "Effect Spray Zerg",
+    "zh": "异虫喷涂"
+  },
+  "Effect Spray Zerg": {
+    "id": 233,
+    "en": "Effect Spray Zerg",
+    "zh": "异虫喷涂"
+  },
+  "Effect_Stim_quick": {
+    "id": 234,
+    "en": "Effect Stim",
+    "zh": "兴奋剂"
+  },
+  "Effect Stim": {
+    "id": 234,
+    "en": "Effect Stim",
+    "zh": "兴奋剂"
+  },
+  "Effect_Stim_Marauder_quick": {
+    "id": 235,
+    "en": "Effect Stim Marauder",
+    "zh": "掠夺者兴奋剂"
+  },
+  "Effect Stim Marauder": {
+    "id": 235,
+    "en": "Effect Stim Marauder",
+    "zh": "掠夺者兴奋剂"
+  },
+  "Effect_Stim_Marauder_Redirect_quick": {
+    "id": 236,
+    "en": "Effect Stim Marauder Redirect",
+    "zh": "掠夺者兴奋剂重定向"
+  },
+  "Effect Stim Marauder Redirect": {
+    "id": 236,
+    "en": "Effect Stim Marauder Redirect",
+    "zh": "掠夺者兴奋剂重定向"
+  },
+  "Effect_Stim_Marine_quick": {
+    "id": 237,
+    "en": "Effect Stim Marine",
+    "zh": "陆战队员兴奋剂"
+  },
+  "Effect Stim Marine": {
+    "id": 237,
+    "en": "Effect Stim Marine",
+    "zh": "陆战队员兴奋剂"
+  },
+  "Effect_Stim_Marine_Redirect_quick": {
+    "id": 238,
+    "en": "Effect Stim Marine Redirect",
+    "zh": "陆战队员兴奋剂重定向"
+  },
+  "Effect Stim Marine Redirect": {
+    "id": 238,
+    "en": "Effect Stim Marine Redirect",
+    "zh": "陆战队员兴奋剂重定向"
+  },
+  "Effect_SupplyDrop_screen": {
+    "id": 239,
+    "en": "Effect Supply Drop",
+    "zh": "空投补给"
+  },
+  "Effect SupplyDrop": {
+    "id": 239,
+    "en": "Effect Supply Drop",
+    "zh": "空投补给"
+  },
+  "Effect_TacticalJump_screen": {
+    "id": 240,
+    "en": "Effect Tactical Jump",
+    "zh": "战术跳跃"
+  },
+  "Effect TacticalJump": {
+    "id": 240,
+    "en": "Effect Tactical Jump",
+    "zh": "战术跳跃"
+  },
+  "Effect_TimeWarp_screen": {
+    "id": 241,
+    "en": "Effect Time Warp",
+    "zh": "时空裂隙"
+  },
+  "Effect TimeWarp": {
+    "id": 241,
+    "en": "Effect Time Warp",
+    "zh": "时空裂隙"
+  },
+  "Effect_Transfusion_screen": {
+    "id": 242,
+    "en": "Effect Transfusion",
+    "zh": "输血"
+  },
+  "Effect Transfusion": {
+    "id": 242,
+    "en": "Effect Transfusion",
+    "zh": "输血"
+  },
+  "Effect_ViperConsume_screen": {
+    "id": 243,
+    "en": "Effect Viper Consume",
+    "zh": "飞蛇吞噬"
+  },
+  "Effect ViperConsume": {
+    "id": 243,
+    "en": "Effect Viper Consume",
+    "zh": "飞蛇吞噬"
+  },
+  "Effect_VoidRayPrismaticAlignment_quick": {
+    "id": 244,
+    "en": "Effect Void Ray Prismatic Alignment",
+    "zh": "虚空辉光舰棱镜光束"
+  },
+  "Effect VoidRayPrismaticAlignment": {
+    "id": 244,
+    "en": "Effect Void Ray Prismatic Alignment",
+    "zh": "虚空辉光舰棱镜光束"
+  },
+  "Effect_WidowMineAttack_screen": {
+    "id": 245,
+    "en": "Effect Widow Mine Attack",
+    "zh": "寡妇雷攻击"
+  },
+  "Effect WidowMineAttack": {
+    "id": 245,
+    "en": "Effect Widow Mine Attack",
+    "zh": "寡妇雷攻击"
+  },
+  "Effect_WidowMineAttack_autocast": {
+    "id": 246,
+    "en": "Effect Widow Mine Attack",
+    "zh": "寡妇雷攻击"
+  },
+  "Effect WidowMineAttack autocast": {
+    "id": 246,
+    "en": "Effect Widow Mine Attack",
+    "zh": "寡妇雷攻击"
+  },
+  "Effect_YamatoGun_screen": {
+    "id": 247,
+    "en": "Effect Yamato Gun",
+    "zh": "大和炮"
+  },
+  "Effect YamatoGun": {
+    "id": 247,
+    "en": "Effect Yamato Gun",
+    "zh": "大和炮"
+  },
+  "Hallucination_Adept_quick": {
+    "id": 248,
+    "en": "Hallucination Adept",
+    "zh": "使徒幻象"
+  },
+  "Hallucination Adept": {
+    "id": 248,
+    "en": "Hallucination Adept",
+    "zh": "使徒幻象"
+  },
+  "Hallucination_Archon_quick": {
+    "id": 249,
+    "en": "Hallucination Archon",
+    "zh": "执政官幻象"
+  },
+  "Hallucination Archon": {
+    "id": 249,
+    "en": "Hallucination Archon",
+    "zh": "执政官幻象"
+  },
+  "Hallucination_Colossus_quick": {
+    "id": 250,
+    "en": "Hallucination Colossus",
+    "zh": "幻象巨像"
+  },
+  "Hallucination Colossus": {
+    "id": 250,
+    "en": "Hallucination Colossus",
+    "zh": "幻象巨像"
+  },
+  "Hallucination_Disruptor_quick": {
+    "id": 251,
+    "en": "Hallucination Disruptor",
+    "zh": "幻象干扰者"
+  },
+  "Hallucination Disruptor": {
+    "id": 251,
+    "en": "Hallucination Disruptor",
+    "zh": "幻象干扰者"
+  },
+  "Hallucination_HighTemplar_quick": {
+    "id": 252,
+    "en": "Hallucination High Templar",
+    "zh": "幻象高阶圣堂武士"
+  },
+  "Hallucination HighTemplar": {
+    "id": 252,
+    "en": "Hallucination High Templar",
+    "zh": "幻象高阶圣堂武士"
+  },
+  "Hallucination_Immortal_quick": {
+    "id": 253,
+    "en": "Hallucination Immortal",
+    "zh": "幻象不朽者"
+  },
+  "Hallucination Immortal": {
+    "id": 253,
+    "en": "Hallucination Immortal",
+    "zh": "幻象不朽者"
+  },
+  "Hallucination_Oracle_quick": {
+    "id": 254,
+    "en": "Hallucination Oracle",
+    "zh": "幻象先知"
+  },
+  "Hallucination Oracle": {
+    "id": 254,
+    "en": "Hallucination Oracle",
+    "zh": "幻象先知"
+  },
+  "Hallucination_Phoenix_quick": {
+    "id": 255,
+    "en": "Hallucination Phoenix",
+    "zh": "幻象凤凰"
+  },
+  "Hallucination Phoenix": {
+    "id": 255,
+    "en": "Hallucination Phoenix",
+    "zh": "幻象凤凰"
+  },
+  "Hallucination_Probe_quick": {
+    "id": 256,
+    "en": "Hallucination Probe",
+    "zh": "幻象探机"
+  },
+  "Hallucination Probe": {
+    "id": 256,
+    "en": "Hallucination Probe",
+    "zh": "幻象探机"
+  },
+  "Hallucination_Stalker_quick": {
+    "id": 257,
+    "en": "Hallucination Stalker",
+    "zh": "幻象追猎者"
+  },
+  "Hallucination Stalker": {
+    "id": 257,
+    "en": "Hallucination Stalker",
+    "zh": "幻象追猎者"
+  },
+  "Hallucination_VoidRay_quick": {
+    "id": 258,
+    "en": "Hallucination Void Ray",
+    "zh": "幻象虚空辉光舰"
+  },
+  "Hallucination VoidRay": {
+    "id": 258,
+    "en": "Hallucination Void Ray",
+    "zh": "幻象虚空辉光舰"
+  },
+  "Hallucination_WarpPrism_quick": {
+    "id": 259,
+    "en": "Hallucination Warp Prism",
+    "zh": "幻象折跃棱镜"
+  },
+  "Hallucination WarpPrism": {
+    "id": 259,
+    "en": "Hallucination Warp Prism",
+    "zh": "幻象折跃棱镜"
+  },
+  "Hallucination_Zealot_quick": {
+    "id": 260,
+    "en": "Hallucination Zealot",
+    "zh": "幻象狂热者"
+  },
+  "Hallucination Zealot": {
+    "id": 260,
+    "en": "Hallucination Zealot",
+    "zh": "幻象狂热者"
+  },
+  "Halt_quick": {
+    "id": 261,
+    "en": "Halt",
+    "zh": "停止"
+  },
+  "Halt": {
+    "id": 261,
+    "en": "Halt",
+    "zh": "停止"
+  },
+  "Halt_Building_quick": {
+    "id": 262,
+    "en": "Halt Building",
+    "zh": "停止建造"
+  },
+  "Halt Building": {
+    "id": 262,
+    "en": "Halt Building",
+    "zh": "停止建造"
+  },
+  "Halt_TerranBuild_quick": {
+    "id": 263,
+    "en": "Halt Terran Build",
+    "zh": "停止建造"
+  },
+  "Halt TerranBuild": {
+    "id": 263,
+    "en": "Halt Terran Build",
+    "zh": "停止建造"
+  },
+  "Harvest_Gather_screen": {
+    "id": 264,
+    "en": "Harvest Gather",
+    "zh": "采集"
+  },
+  "Harvest Gather": {
+    "id": 264,
+    "en": "Harvest Gather",
+    "zh": "采集"
+  },
+  "Harvest_Gather_Drone_screen": {
+    "id": 265,
+    "en": "Harvest Gather Drone",
+    "zh": "工蜂采集"
+  },
+  "Harvest Gather Drone": {
+    "id": 265,
+    "en": "Harvest Gather Drone",
+    "zh": "工蜂采集"
+  },
+  "Harvest_Gather_Mule_screen": {
+    "id": 266,
+    "en": "Harvest Gather Mule",
+    "zh": "矿骡采集"
+  },
+  "Harvest Gather Mule": {
+    "id": 266,
+    "en": "Harvest Gather Mule",
+    "zh": "矿骡采集"
+  },
+  "Harvest_Gather_Probe_screen": {
+    "id": 267,
+    "en": "Harvest Gather Probe",
+    "zh": "探机采集"
+  },
+  "Harvest Gather Probe": {
+    "id": 267,
+    "en": "Harvest Gather Probe",
+    "zh": "探机采集"
+  },
+  "Harvest_Gather_SCV_screen": {
+    "id": 268,
+    "en": "Harvest Gather S C V",
+    "zh": "SCV采集"
+  },
+  "Harvest Gather SCV": {
+    "id": 268,
+    "en": "Harvest Gather S C V",
+    "zh": "SCV采集"
+  },
+  "Harvest_Return_quick": {
+    "id": 269,
+    "en": "Harvest Return",
+    "zh": "返回资源"
+  },
+  "Harvest Return": {
+    "id": 269,
+    "en": "Harvest Return",
+    "zh": "返回资源"
+  },
+  "Harvest_Return_Drone_quick": {
+    "id": 270,
+    "en": "Harvest Return Drone",
+    "zh": "雄蜂返回"
+  },
+  "Harvest Return Drone": {
+    "id": 270,
+    "en": "Harvest Return Drone",
+    "zh": "雄蜂返回"
+  },
+  "Harvest_Return_Mule_quick": {
+    "id": 271,
+    "en": "Harvest Return Mule",
+    "zh": "矿骡返回"
+  },
+  "Harvest Return Mule": {
+    "id": 271,
+    "en": "Harvest Return Mule",
+    "zh": "矿骡返回"
+  },
+  "Harvest_Return_Probe_quick": {
+    "id": 272,
+    "en": "Harvest Return Probe",
+    "zh": "探机返回"
+  },
+  "Harvest Return Probe": {
+    "id": 272,
+    "en": "Harvest Return Probe",
+    "zh": "探机返回"
+  },
+  "Harvest_Return_SCV_quick": {
+    "id": 273,
+    "en": "Harvest Return S C V",
+    "zh": "SCV返回"
+  },
+  "Harvest Return SCV": {
+    "id": 273,
+    "en": "Harvest Return S C V",
+    "zh": "SCV返回"
+  },
+  "HoldPosition_quick": {
+    "id": 274,
+    "en": "Hold Position",
+    "zh": "保持位置"
+  },
+  "HoldPosition": {
+    "id": 274,
+    "en": "Hold Position",
+    "zh": "保持位置"
+  },
+  "Land_screen": {
+    "id": 275,
+    "en": "Land",
+    "zh": "降落"
+  },
+  "Land": {
+    "id": 275,
+    "en": "Land",
+    "zh": "降落"
+  },
+  "Land_Barracks_screen": {
+    "id": 276,
+    "en": "Land Barracks",
+    "zh": "兵营降落"
+  },
+  "Land Barracks": {
+    "id": 276,
+    "en": "Land Barracks",
+    "zh": "兵营降落"
+  },
+  "Land_CommandCenter_screen": {
+    "id": 277,
+    "en": "Land Command Center",
+    "zh": "指挥中心降落"
+  },
+  "Land CommandCenter": {
+    "id": 277,
+    "en": "Land Command Center",
+    "zh": "指挥中心降落"
+  },
+  "Land_Factory_screen": {
+    "id": 278,
+    "en": "Land Factory",
+    "zh": "工厂降落"
+  },
+  "Land Factory": {
+    "id": 278,
+    "en": "Land Factory",
+    "zh": "工厂降落"
+  },
+  "Land_OrbitalCommand_screen": {
+    "id": 279,
+    "en": "Land Orbital Command",
+    "zh": "轨道指挥部降落"
+  },
+  "Land OrbitalCommand": {
+    "id": 279,
+    "en": "Land Orbital Command",
+    "zh": "轨道指挥部降落"
+  },
+  "Land_Starport_screen": {
+    "id": 280,
+    "en": "Land Starport",
+    "zh": "星港降落"
+  },
+  "Land Starport": {
+    "id": 280,
+    "en": "Land Starport",
+    "zh": "星港降落"
+  },
+  "Lift_quick": {
+    "id": 281,
+    "en": "Lift",
+    "zh": "起飞"
+  },
+  "Lift": {
+    "id": 281,
+    "en": "Lift",
+    "zh": "起飞"
+  },
+  "Lift_Barracks_quick": {
+    "id": 282,
+    "en": "Lift Barracks",
+    "zh": "兵营起飞"
+  },
+  "Lift Barracks": {
+    "id": 282,
+    "en": "Lift Barracks",
+    "zh": "兵营起飞"
+  },
+  "Lift_CommandCenter_quick": {
+    "id": 283,
+    "en": "Lift Command Center",
+    "zh": "指挥中心起飞"
+  },
+  "Lift CommandCenter": {
+    "id": 283,
+    "en": "Lift Command Center",
+    "zh": "指挥中心起飞"
+  },
+  "Lift_Factory_quick": {
+    "id": 284,
+    "en": "Lift Factory",
+    "zh": "工厂起飞"
+  },
+  "Lift Factory": {
+    "id": 284,
+    "en": "Lift Factory",
+    "zh": "工厂起飞"
+  },
+  "Lift_OrbitalCommand_quick": {
+    "id": 285,
+    "en": "Lift Orbital Command",
+    "zh": "轨道指挥部起飞"
+  },
+  "Lift OrbitalCommand": {
+    "id": 285,
+    "en": "Lift Orbital Command",
+    "zh": "轨道指挥部起飞"
+  },
+  "Lift_Starport_quick": {
+    "id": 286,
+    "en": "Lift Starport",
+    "zh": "星港起飞"
+  },
+  "Lift Starport": {
+    "id": 286,
+    "en": "Lift Starport",
+    "zh": "星港起飞"
+  },
+  "Load_screen": {
+    "id": 287,
+    "en": "Load",
+    "zh": "装载"
+  },
+  "Load": {
+    "id": 287,
+    "en": "Load",
+    "zh": "装载"
+  },
+  "Load_Bunker_screen": {
+    "id": 288,
+    "en": "Load Bunker",
+    "zh": "地堡_装载"
+  },
+  "Load Bunker": {
+    "id": 288,
+    "en": "Load Bunker",
+    "zh": "地堡_装载"
+  },
+  "Load_Medivac_screen": {
+    "id": 289,
+    "en": "Load Medivac",
+    "zh": "运输机_装载"
+  },
+  "Load Medivac": {
+    "id": 289,
+    "en": "Load Medivac",
+    "zh": "运输机_装载"
+  },
+  "Load_NydusNetwork_screen": {
+    "id": 290,
+    "en": "Load Nydus Network",
+    "zh": "虫道网络_装载"
+  },
+  "Load NydusNetwork": {
+    "id": 290,
+    "en": "Load Nydus Network",
+    "zh": "虫道网络_装载"
+  },
+  "Load_NydusWorm_screen": {
+    "id": 291,
+    "en": "Load Nydus Worm",
+    "zh": "虫道宿主_装载"
+  },
+  "Load NydusWorm": {
+    "id": 291,
+    "en": "Load Nydus Worm",
+    "zh": "虫道宿主_装载"
+  },
+  "Load_Overlord_screen": {
+    "id": 292,
+    "en": "Load Overlord",
+    "zh": "宿主_装载"
+  },
+  "Load Overlord": {
+    "id": 292,
+    "en": "Load Overlord",
+    "zh": "宿主_装载"
+  },
+  "Load_WarpPrism_screen": {
+    "id": 293,
+    "en": "Load Warp Prism",
+    "zh": "折跃棱镜_装载"
+  },
+  "Load WarpPrism": {
+    "id": 293,
+    "en": "Load Warp Prism",
+    "zh": "折跃棱镜_装载"
+  },
+  "LoadAll_quick": {
+    "id": 294,
+    "en": "Load All",
+    "zh": "装载全部"
+  },
+  "LoadAll": {
+    "id": 294,
+    "en": "Load All",
+    "zh": "装载全部"
+  },
+  "LoadAll_CommandCenter_quick": {
+    "id": 295,
+    "en": "Load All Command Center",
+    "zh": "指挥中心_装载全部"
+  },
+  "LoadAll CommandCenter": {
+    "id": 295,
+    "en": "Load All Command Center",
+    "zh": "指挥中心_装载全部"
+  },
+  "Morph_Archon_quick": {
+    "id": 296,
+    "en": "Morph Archon",
+    "zh": "合成圣堂武士"
+  },
+  "Morph Archon": {
+    "id": 296,
+    "en": "Morph Archon",
+    "zh": "合成圣堂武士"
+  },
+  "Morph_BroodLord_quick": {
+    "id": 297,
+    "en": "Morph Brood Lord",
+    "zh": "进化为巢虫领主"
+  },
+  "Morph BroodLord": {
+    "id": 297,
+    "en": "Morph Brood Lord",
+    "zh": "进化为巢虫领主"
+  },
+  "Morph_Gateway_quick": {
+    "id": 298,
+    "en": "Morph Gateway",
+    "zh": "折跃为星门"
+  },
+  "Morph Gateway": {
+    "id": 298,
+    "en": "Morph Gateway",
+    "zh": "折跃为星门"
+  },
+  "Morph_GreaterSpire_quick": {
+    "id": 299,
+    "en": "Morph Greater Spire",
+    "zh": "进化为巨型尖塔"
+  },
+  "Morph GreaterSpire": {
+    "id": 299,
+    "en": "Morph Greater Spire",
+    "zh": "进化为巨型尖塔"
+  },
+  "Morph_Hellbat_quick": {
+    "id": 300,
+    "en": "Morph Hellbat",
+    "zh": "变形为恶蝠"
+  },
+  "Morph Hellbat": {
+    "id": 300,
+    "en": "Morph Hellbat",
+    "zh": "变形为恶蝠"
+  },
+  "Morph_Hellion_quick": {
+    "id": 301,
+    "en": "Morph Hellion",
+    "zh": "变形为恶火"
+  },
+  "Morph Hellion": {
+    "id": 301,
+    "en": "Morph Hellion",
+    "zh": "变形为恶火"
+  },
+  "Morph_Hive_quick": {
+    "id": 302,
+    "en": "Morph Hive",
+    "zh": "进化为主巢"
+  },
+  "Morph Hive": {
+    "id": 302,
+    "en": "Morph Hive",
+    "zh": "进化为主巢"
+  },
+  "Morph_Lair_quick": {
+    "id": 303,
+    "en": "Morph Lair",
+    "zh": "进化为巢穴"
+  },
+  "Morph Lair": {
+    "id": 303,
+    "en": "Morph Lair",
+    "zh": "进化为巢穴"
+  },
+  "Morph_LiberatorAAMode_quick": {
+    "id": 304,
+    "en": "Morph Liberator A A Mode",
+    "zh": "解放者_对空模式"
+  },
+  "Morph LiberatorAAMode": {
+    "id": 304,
+    "en": "Morph Liberator A A Mode",
+    "zh": "解放者_对空模式"
+  },
+  "Morph_LiberatorAGMode_screen": {
+    "id": 305,
+    "en": "Morph Liberator A G Mode",
+    "zh": "解放者_对地模式"
+  },
+  "Morph LiberatorAGMode": {
+    "id": 305,
+    "en": "Morph Liberator A G Mode",
+    "zh": "解放者_对地模式"
+  },
+  "Morph_Lurker_quick": {
+    "id": 306,
+    "en": "Morph Lurker",
+    "zh": "进化为潜伏者"
+  },
+  "Morph Lurker": {
+    "id": 306,
+    "en": "Morph Lurker",
+    "zh": "进化为潜伏者"
+  },
+  "Morph_LurkerDen_quick": {
+    "id": 307,
+    "en": "Morph Lurker Den",
+    "zh": "进化为潜伏者巢穴"
+  },
+  "Morph LurkerDen": {
+    "id": 307,
+    "en": "Morph Lurker Den",
+    "zh": "进化为潜伏者巢穴"
+  },
+  "Morph_Mothership_quick": {
+    "id": 308,
+    "en": "Morph Mothership",
+    "zh": "变形为母舰"
+  },
+  "Morph Mothership": {
+    "id": 308,
+    "en": "Morph Mothership",
+    "zh": "变形为母舰"
+  },
+  "Morph_OrbitalCommand_quick": {
+    "id": 309,
+    "en": "Morph Orbital Command",
+    "zh": "升级为轨道指挥部"
+  },
+  "Morph OrbitalCommand": {
+    "id": 309,
+    "en": "Morph Orbital Command",
+    "zh": "升级为轨道指挥部"
+  },
+  "Morph_OverlordTransport_quick": {
+    "id": 310,
+    "en": "Morph Overlord Transport",
+    "zh": "变异为运输宿主"
+  },
+  "Morph OverlordTransport": {
+    "id": 310,
+    "en": "Morph Overlord Transport",
+    "zh": "变异为运输宿主"
+  },
+  "Morph_Overseer_quick": {
+    "id": 311,
+    "en": "Morph Overseer",
+    "zh": "变异为眼虫"
+  },
+  "Morph Overseer": {
+    "id": 311,
+    "en": "Morph Overseer",
+    "zh": "变异为眼虫"
+  },
+  "Morph_PlanetaryFortress_quick": {
+    "id": 312,
+    "en": "Morph Planetary Fortress",
+    "zh": "升级为行星要塞"
+  },
+  "Morph PlanetaryFortress": {
+    "id": 312,
+    "en": "Morph Planetary Fortress",
+    "zh": "升级为行星要塞"
+  },
+  "Morph_Ravager_quick": {
+    "id": 313,
+    "en": "Morph Ravager",
+    "zh": "变异为腐化者"
+  },
+  "Morph Ravager": {
+    "id": 313,
+    "en": "Morph Ravager",
+    "zh": "变异为腐化者"
+  },
+  "Morph_Root_screen": {
+    "id": 314,
+    "en": "Morph Root",
+    "zh": "扎根"
+  },
+  "Morph Root": {
+    "id": 314,
+    "en": "Morph Root",
+    "zh": "扎根"
+  },
+  "Morph_SpineCrawlerRoot_screen": {
+    "id": 315,
+    "en": "Morph Spine Crawler Root",
+    "zh": "脊针爬虫扎根"
+  },
+  "Morph SpineCrawlerRoot": {
+    "id": 315,
+    "en": "Morph Spine Crawler Root",
+    "zh": "脊针爬虫扎根"
+  },
+  "Morph_SporeCrawlerRoot_screen": {
+    "id": 316,
+    "en": "Morph Spore Crawler Root",
+    "zh": "孢子爬虫扎根"
+  },
+  "Morph SporeCrawlerRoot": {
+    "id": 316,
+    "en": "Morph Spore Crawler Root",
+    "zh": "孢子爬虫扎根"
+  },
+  "Morph_SiegeMode_quick": {
+    "id": 317,
+    "en": "Morph Siege Mode",
+    "zh": "变形为攻城模式"
+  },
+  "Morph SiegeMode": {
+    "id": 317,
+    "en": "Morph Siege Mode",
+    "zh": "变形为攻城模式"
+  },
+  "Morph_SupplyDepot_Lower_quick": {
+    "id": 318,
+    "en": "Morph Supply Depot Lower",
+    "zh": "补给站下降"
+  },
+  "Morph SupplyDepot Lower": {
+    "id": 318,
+    "en": "Morph Supply Depot Lower",
+    "zh": "补给站下降"
+  },
+  "Morph_SupplyDepot_Raise_quick": {
+    "id": 319,
+    "en": "Morph Supply Depot Raise",
+    "zh": "补给站升起"
+  },
+  "Morph SupplyDepot Raise": {
+    "id": 319,
+    "en": "Morph Supply Depot Raise",
+    "zh": "补给站升起"
+  },
+  "Morph_ThorExplosiveMode_quick": {
+    "id": 320,
+    "en": "Morph Thor Explosive Mode",
+    "zh": "切换至爆炸模式"
+  },
+  "Morph ThorExplosiveMode": {
+    "id": 320,
+    "en": "Morph Thor Explosive Mode",
+    "zh": "切换至爆炸模式"
+  },
+  "Morph_ThorHighImpactMode_quick": {
+    "id": 321,
+    "en": "Morph Thor High Impact Mode",
+    "zh": "切换至高冲击模式"
+  },
+  "Morph ThorHighImpactMode": {
+    "id": 321,
+    "en": "Morph Thor High Impact Mode",
+    "zh": "切换至高冲击模式"
+  },
+  "Morph_Unsiege_quick": {
+    "id": 322,
+    "en": "Morph Unsiege",
+    "zh": "解除架起"
+  },
+  "Morph Unsiege": {
+    "id": 322,
+    "en": "Morph Unsiege",
+    "zh": "解除架起"
+  },
+  "Morph_Uproot_quick": {
+    "id": 323,
+    "en": "Morph Uproot",
+    "zh": "拔起"
+  },
+  "Morph Uproot": {
+    "id": 323,
+    "en": "Morph Uproot",
+    "zh": "拔起"
+  },
+  "Morph_SpineCrawlerUproot_quick": {
+    "id": 324,
+    "en": "Morph Spine Crawler Uproot",
+    "zh": "脊针爬虫拔起"
+  },
+  "Morph SpineCrawlerUproot": {
+    "id": 324,
+    "en": "Morph Spine Crawler Uproot",
+    "zh": "脊针爬虫拔起"
+  },
+  "Morph_SporeCrawlerUproot_quick": {
+    "id": 325,
+    "en": "Morph Spore Crawler Uproot",
+    "zh": "孢子爬虫拔起"
+  },
+  "Morph SporeCrawlerUproot": {
+    "id": 325,
+    "en": "Morph Spore Crawler Uproot",
+    "zh": "孢子爬虫拔起"
+  },
+  "Morph_VikingAssaultMode_quick": {
+    "id": 326,
+    "en": "Morph Viking Assault Mode",
+    "zh": "维京突击模式"
+  },
+  "Morph VikingAssaultMode": {
+    "id": 326,
+    "en": "Morph Viking Assault Mode",
+    "zh": "维京突击模式"
+  },
+  "Morph_VikingFighterMode_quick": {
+    "id": 327,
+    "en": "Morph Viking Fighter Mode",
+    "zh": "维京战斗机模式"
+  },
+  "Morph VikingFighterMode": {
+    "id": 327,
+    "en": "Morph Viking Fighter Mode",
+    "zh": "维京战斗机模式"
+  },
+  "Morph_WarpGate_quick": {
+    "id": 328,
+    "en": "Morph Warp Gate",
+    "zh": "折跃门"
+  },
+  "Morph WarpGate": {
+    "id": 328,
+    "en": "Morph Warp Gate",
+    "zh": "折跃门"
+  },
+  "Morph_WarpPrismPhasingMode_quick": {
+    "id": 329,
+    "en": "Morph Warp Prism Phasing Mode",
+    "zh": "折跃棱镜相位模式"
+  },
+  "Morph WarpPrismPhasingMode": {
+    "id": 329,
+    "en": "Morph Warp Prism Phasing Mode",
+    "zh": "折跃棱镜相位模式"
+  },
+  "Morph_WarpPrismTransportMode_quick": {
+    "id": 330,
+    "en": "Morph Warp Prism Transport Mode",
+    "zh": "折跃棱镜运输模式"
+  },
+  "Morph WarpPrismTransportMode": {
+    "id": 330,
+    "en": "Morph Warp Prism Transport Mode",
+    "zh": "折跃棱镜运输模式"
+  },
+  "Move_screen": {
+    "id": 331,
+    "en": "Move",
+    "zh": "移动"
+  },
+  "Move": {
+    "id": 331,
+    "en": "Move",
+    "zh": "移动"
+  },
+  "Move_minimap": {
+    "id": 332,
+    "en": "Move",
+    "zh": "移动"
+  },
+  "Patrol_screen": {
+    "id": 333,
+    "en": "Patrol",
+    "zh": "巡逻"
+  },
+  "Patrol": {
+    "id": 333,
+    "en": "Patrol",
+    "zh": "巡逻"
+  },
+  "Patrol_minimap": {
+    "id": 334,
+    "en": "Patrol",
+    "zh": "巡逻"
+  },
+  "Rally_Units_screen": {
+    "id": 335,
+    "en": "Rally Units",
+    "zh": "集合点"
+  },
+  "Rally Units": {
+    "id": 335,
+    "en": "Rally Units",
+    "zh": "集合点"
+  },
+  "Rally_Units_minimap": {
+    "id": 336,
+    "en": "Rally Units",
+    "zh": "集合点"
+  },
+  "Rally_Building_screen": {
+    "id": 337,
+    "en": "Rally Building",
+    "zh": "集合点"
+  },
+  "Rally Building": {
+    "id": 337,
+    "en": "Rally Building",
+    "zh": "集合点"
+  },
+  "Rally_Building_minimap": {
+    "id": 338,
+    "en": "Rally Building",
+    "zh": "集合点"
+  },
+  "Rally_Hatchery_Units_screen": {
+    "id": 339,
+    "en": "Rally Hatchery Units",
+    "zh": "集合点"
+  },
+  "Rally Hatchery Units": {
+    "id": 339,
+    "en": "Rally Hatchery Units",
+    "zh": "集合点"
+  },
+  "Rally_Hatchery_Units_minimap": {
+    "id": 340,
+    "en": "Rally Hatchery Units",
+    "zh": "集合点"
+  },
+  "Rally_Morphing_Unit_screen": {
+    "id": 341,
+    "en": "Rally Morphing Unit",
+    "zh": "集合点"
+  },
+  "Rally Morphing Unit": {
+    "id": 341,
+    "en": "Rally Morphing Unit",
+    "zh": "集合点"
+  },
+  "Rally_Morphing_Unit_minimap": {
+    "id": 342,
+    "en": "Rally Morphing Unit",
+    "zh": "集合点"
+  },
+  "Rally_Workers_screen": {
+    "id": 343,
+    "en": "Rally Workers",
+    "zh": "农民集结"
+  },
+  "Rally Workers": {
+    "id": 343,
+    "en": "Rally Workers",
+    "zh": "农民集结"
+  },
+  "Rally_Workers_minimap": {
+    "id": 344,
+    "en": "Rally Workers",
+    "zh": "农民集结"
+  },
+  "Rally_CommandCenter_screen": {
+    "id": 345,
+    "en": "Rally Command Center",
+    "zh": "集合点"
+  },
+  "Rally CommandCenter": {
+    "id": 345,
+    "en": "Rally Command Center",
+    "zh": "集合点"
+  },
+  "Rally_CommandCenter_minimap": {
+    "id": 346,
+    "en": "Rally Command Center",
+    "zh": "集合点"
+  },
+  "Rally_Hatchery_Workers_screen": {
+    "id": 347,
+    "en": "Rally Hatchery Workers",
+    "zh": "集合点"
+  },
+  "Rally Hatchery Workers": {
+    "id": 347,
+    "en": "Rally Hatchery Workers",
+    "zh": "集合点"
+  },
+  "Rally_Hatchery_Workers_minimap": {
+    "id": 348,
+    "en": "Rally Hatchery Workers",
+    "zh": "集合点"
+  },
+  "Rally_Nexus_screen": {
+    "id": 349,
+    "en": "Rally Nexus",
+    "zh": "集合点"
+  },
+  "Rally Nexus": {
+    "id": 349,
+    "en": "Rally Nexus",
+    "zh": "集合点"
+  },
+  "Rally_Nexus_minimap": {
+    "id": 350,
+    "en": "Rally Nexus",
+    "zh": "集合点"
+  },
+  "Research_AdeptResonatingGlaives_quick": {
+    "id": 351,
+    "en": "Research Adept Resonating Glaives",
+    "zh": "研究灵能回响飞刃"
+  },
+  "Research AdeptResonatingGlaives": {
+    "id": 351,
+    "en": "Research Adept Resonating Glaives",
+    "zh": "研究灵能回响飞刃"
+  },
+  "Research_AdvancedBallistics_quick": {
+    "id": 352,
+    "en": "Research Advanced Ballistics",
+    "zh": "研究高级弹道学"
+  },
+  "Research AdvancedBallistics": {
+    "id": 352,
+    "en": "Research Advanced Ballistics",
+    "zh": "研究高级弹道学"
+  },
+  "Research_BansheeCloakingField_quick": {
+    "id": 353,
+    "en": "Research Banshee Cloaking Field",
+    "zh": "研究女妖隐形力场"
+  },
+  "Research BansheeCloakingField": {
+    "id": 353,
+    "en": "Research Banshee Cloaking Field",
+    "zh": "研究女妖隐形力场"
+  },
+  "Research_BansheeHyperflightRotors_quick": {
+    "id": 354,
+    "en": "Research Banshee Hyperflight Rotors",
+    "zh": "研究女妖超速旋翼"
+  },
+  "Research BansheeHyperflightRotors": {
+    "id": 354,
+    "en": "Research Banshee Hyperflight Rotors",
+    "zh": "研究女妖超速旋翼"
+  },
+  "Research_BattlecruiserWeaponRefit_quick": {
+    "id": 355,
+    "en": "Research Battlecruiser Weapon Refit",
+    "zh": "研究战列巡航舰武器改装"
+  },
+  "Research BattlecruiserWeaponRefit": {
+    "id": 355,
+    "en": "Research Battlecruiser Weapon Refit",
+    "zh": "研究战列巡航舰武器改装"
+  },
+  "Research_Blink_quick": {
+    "id": 356,
+    "en": "Research Blink",
+    "zh": "研究闪现"
+  },
+  "Research Blink": {
+    "id": 356,
+    "en": "Research Blink",
+    "zh": "研究闪现"
+  },
+  "Research_Burrow_quick": {
+    "id": 357,
+    "en": "Research Burrow",
+    "zh": "研究潜地"
+  },
+  "Research Burrow": {
+    "id": 357,
+    "en": "Research Burrow",
+    "zh": "研究潜地"
+  },
+  "Research_CentrifugalHooks_quick": {
+    "id": 358,
+    "en": "Research Centrifugal Hooks",
+    "zh": "研究离心钩"
+  },
+  "Research CentrifugalHooks": {
+    "id": 358,
+    "en": "Research Centrifugal Hooks",
+    "zh": "研究离心钩"
+  },
+  "Research_Charge_quick": {
+    "id": 359,
+    "en": "Research Charge",
+    "zh": "研究冲锋"
+  },
+  "Research Charge": {
+    "id": 359,
+    "en": "Research Charge",
+    "zh": "研究冲锋"
+  },
+  "Research_ChitinousPlating_quick": {
+    "id": 360,
+    "en": "Research Chitinous Plating",
+    "zh": "研究几丁质护甲"
+  },
+  "Research ChitinousPlating": {
+    "id": 360,
+    "en": "Research Chitinous Plating",
+    "zh": "研究几丁质护甲"
+  },
+  "Research_CombatShield_quick": {
+    "id": 361,
+    "en": "Research Combat Shield",
+    "zh": "研究战斗护盾"
+  },
+  "Research CombatShield": {
+    "id": 361,
+    "en": "Research Combat Shield",
+    "zh": "研究战斗护盾"
+  },
+  "Research_ConcussiveShells_quick": {
+    "id": 362,
+    "en": "Research Concussive Shells",
+    "zh": "研究震荡弹"
+  },
+  "Research ConcussiveShells": {
+    "id": 362,
+    "en": "Research Concussive Shells",
+    "zh": "研究震荡弹"
+  },
+  "Research_DrillingClaws_quick": {
+    "id": 363,
+    "en": "Research Drilling Claws",
+    "zh": "研究钻地利爪"
+  },
+  "Research DrillingClaws": {
+    "id": 363,
+    "en": "Research Drilling Claws",
+    "zh": "研究钻地利爪"
+  },
+  "Research_ExtendedThermalLance_quick": {
+    "id": 364,
+    "en": "Research Extended Thermal Lance",
+    "zh": "研究加长热能射线枪"
+  },
+  "Research ExtendedThermalLance": {
+    "id": 364,
+    "en": "Research Extended Thermal Lance",
+    "zh": "研究加长热能射线枪"
+  },
+  "Research_GlialRegeneration_quick": {
+    "id": 365,
+    "en": "Research Glial Regeneration",
+    "zh": "研究神经再生"
+  },
+  "Research GlialRegeneration": {
+    "id": 365,
+    "en": "Research Glial Regeneration",
+    "zh": "研究神经再生"
+  },
+  "Research_GraviticBooster_quick": {
+    "id": 366,
+    "en": "Research Gravitic Booster",
+    "zh": "研究引力加速器"
+  },
+  "Research GraviticBooster": {
+    "id": 366,
+    "en": "Research Gravitic Booster",
+    "zh": "研究引力加速器"
+  },
+  "Research_GraviticDrive_quick": {
+    "id": 367,
+    "en": "Research Gravitic Drive",
+    "zh": "研究引力驱动器"
+  },
+  "Research GraviticDrive": {
+    "id": 367,
+    "en": "Research Gravitic Drive",
+    "zh": "研究引力驱动器"
+  },
+  "Research_GroovedSpines_quick": {
+    "id": 368,
+    "en": "Research Grooved Spines",
+    "zh": "研究骨板增厚"
+  },
+  "Research GroovedSpines": {
+    "id": 368,
+    "en": "Research Grooved Spines",
+    "zh": "研究骨板增厚"
+  },
+  "Research_HiSecAutoTracking_quick": {
+    "id": 369,
+    "en": "Research Hi Sec Auto Tracking",
+    "zh": "研究高阶自动追踪"
+  },
+  "Research HiSecAutoTracking": {
+    "id": 369,
+    "en": "Research Hi Sec Auto Tracking",
+    "zh": "研究高阶自动追踪"
+  },
+  "Research_HighCapacityFuelTanks_quick": {
+    "id": 370,
+    "en": "Research High Capacity Fuel Tanks",
+    "zh": "研究高容量燃料箱"
+  },
+  "Research HighCapacityFuelTanks": {
+    "id": 370,
+    "en": "Research High Capacity Fuel Tanks",
+    "zh": "研究高容量燃料箱"
+  },
+  "Research_InfernalPreigniter_quick": {
+    "id": 371,
+    "en": "Research Infernal Preigniter",
+    "zh": "研究地狱火预燃器"
+  },
+  "Research InfernalPreigniter": {
+    "id": 371,
+    "en": "Research Infernal Preigniter",
+    "zh": "研究地狱火预燃器"
+  },
+  "Research_InterceptorGravitonCatapult_quick": {
+    "id": 372,
+    "en": "Research Interceptor Graviton Catapult",
+    "zh": "研究引力子弹射器"
+  },
+  "Research InterceptorGravitonCatapult": {
+    "id": 372,
+    "en": "Research Interceptor Graviton Catapult",
+    "zh": "研究引力子弹射器"
+  },
+  "Research_SmartServos_quick": {
+    "id": 373,
+    "en": "Research Smart Servos",
+    "zh": "研究智能伺服器"
+  },
+  "Research SmartServos": {
+    "id": 373,
+    "en": "Research Smart Servos",
+    "zh": "研究智能伺服器"
+  },
+  "Research_MuscularAugments_quick": {
+    "id": 374,
+    "en": "Research Muscular Augments",
+    "zh": "研究肌肉增强"
+  },
+  "Research MuscularAugments": {
+    "id": 374,
+    "en": "Research Muscular Augments",
+    "zh": "研究肌肉增强"
+  },
+  "Research_NeosteelFrame_quick": {
+    "id": 375,
+    "en": "Research Neosteel Frame",
+    "zh": "研究钢筋结构"
+  },
+  "Research NeosteelFrame": {
+    "id": 375,
+    "en": "Research Neosteel Frame",
+    "zh": "研究钢筋结构"
+  },
+  "Research_NeuralParasite_quick": {
+    "id": 376,
+    "en": "Research Neural Parasite",
+    "zh": "研究神经寄生"
+  },
+  "Research NeuralParasite": {
+    "id": 376,
+    "en": "Research Neural Parasite",
+    "zh": "研究神经寄生"
+  },
+  "Research_PathogenGlands_quick": {
+    "id": 377,
+    "en": "Research Pathogen Glands",
+    "zh": "研究病原腺体"
+  },
+  "Research PathogenGlands": {
+    "id": 377,
+    "en": "Research Pathogen Glands",
+    "zh": "研究病原腺体"
+  },
+  "Research_PersonalCloaking_quick": {
+    "id": 378,
+    "en": "Research Personal Cloaking",
+    "zh": "研究个人隐形"
+  },
+  "Research PersonalCloaking": {
+    "id": 378,
+    "en": "Research Personal Cloaking",
+    "zh": "研究个人隐形"
+  },
+  "Research_PhoenixAnionPulseCrystals_quick": {
+    "id": 379,
+    "en": "Research Phoenix Anion Pulse Crystals",
+    "zh": "研究阴离子脉冲水晶"
+  },
+  "Research PhoenixAnionPulseCrystals": {
+    "id": 379,
+    "en": "Research Phoenix Anion Pulse Crystals",
+    "zh": "研究阴离子脉冲水晶"
+  },
+  "Research_PneumatizedCarapace_quick": {
+    "id": 380,
+    "en": "Research Pneumatized Carapace",
+    "zh": "研究飞行甲壳"
+  },
+  "Research PneumatizedCarapace": {
+    "id": 380,
+    "en": "Research Pneumatized Carapace",
+    "zh": "研究飞行甲壳"
+  },
+  "Research_ProtossAirArmor_quick": {
+    "id": 381,
+    "en": "Research Protoss Air Armor",
+    "zh": "研究星灵空中护甲"
+  },
+  "Research ProtossAirArmor": {
+    "id": 381,
+    "en": "Research Protoss Air Armor",
+    "zh": "研究星灵空中护甲"
+  },
+  "Research_ProtossAirArmorLevel1_quick": {
+    "id": 382,
+    "en": "Research Protoss Air Armor Level1",
+    "zh": "研究星灵空中护甲等级1"
+  },
+  "Research ProtossAirArmorLevel1": {
+    "id": 382,
+    "en": "Research Protoss Air Armor Level1",
+    "zh": "研究星灵空中护甲等级1"
+  },
+  "Research_ProtossAirArmorLevel2_quick": {
+    "id": 383,
+    "en": "Research Protoss Air Armor Level2",
+    "zh": "研究星灵空中护甲等级2"
+  },
+  "Research ProtossAirArmorLevel2": {
+    "id": 383,
+    "en": "Research Protoss Air Armor Level2",
+    "zh": "研究星灵空中护甲等级2"
+  },
+  "Research_ProtossAirArmorLevel3_quick": {
+    "id": 384,
+    "en": "Research Protoss Air Armor Level3",
+    "zh": "研究星灵空中护甲等级3"
+  },
+  "Research ProtossAirArmorLevel3": {
+    "id": 384,
+    "en": "Research Protoss Air Armor Level3",
+    "zh": "研究星灵空中护甲等级3"
+  },
+  "Research_ProtossAirWeapons_quick": {
+    "id": 385,
+    "en": "Research Protoss Air Weapons",
+    "zh": "研究星灵空中武器"
+  },
+  "Research ProtossAirWeapons": {
+    "id": 385,
+    "en": "Research Protoss Air Weapons",
+    "zh": "研究星灵空中武器"
+  },
+  "Research_ProtossAirWeaponsLevel1_quick": {
+    "id": 386,
+    "en": "Research Protoss Air Weapons Level1",
+    "zh": "研究星灵空中武器攻击1级"
+  },
+  "Research ProtossAirWeaponsLevel1": {
+    "id": 386,
+    "en": "Research Protoss Air Weapons Level1",
+    "zh": "研究星灵空中武器攻击1级"
+  },
+  "Research_ProtossAirWeaponsLevel2_quick": {
+    "id": 387,
+    "en": "Research Protoss Air Weapons Level2",
+    "zh": "研究星灵空中武器攻击2级"
+  },
+  "Research ProtossAirWeaponsLevel2": {
+    "id": 387,
+    "en": "Research Protoss Air Weapons Level2",
+    "zh": "研究星灵空中武器攻击2级"
+  },
+  "Research_ProtossAirWeaponsLevel3_quick": {
+    "id": 388,
+    "en": "Research Protoss Air Weapons Level3",
+    "zh": "研究星灵空中武器攻击3级"
+  },
+  "Research ProtossAirWeaponsLevel3": {
+    "id": 388,
+    "en": "Research Protoss Air Weapons Level3",
+    "zh": "研究星灵空中武器攻击3级"
+  },
+  "Research_ProtossGroundArmor_quick": {
+    "id": 389,
+    "en": "Research Protoss Ground Armor",
+    "zh": "研究星灵地面护甲"
+  },
+  "Research ProtossGroundArmor": {
+    "id": 389,
+    "en": "Research Protoss Ground Armor",
+    "zh": "研究星灵地面护甲"
+  },
+  "Research_ProtossGroundArmorLevel1_quick": {
+    "id": 390,
+    "en": "Research Protoss Ground Armor Level1",
+    "zh": "研究星灵地面护甲1级"
+  },
+  "Research ProtossGroundArmorLevel1": {
+    "id": 390,
+    "en": "Research Protoss Ground Armor Level1",
+    "zh": "研究星灵地面护甲1级"
+  },
+  "Research_ProtossGroundArmorLevel2_quick": {
+    "id": 391,
+    "en": "Research Protoss Ground Armor Level2",
+    "zh": "研究星灵地面护甲2级"
+  },
+  "Research ProtossGroundArmorLevel2": {
+    "id": 391,
+    "en": "Research Protoss Ground Armor Level2",
+    "zh": "研究星灵地面护甲2级"
+  },
+  "Research_ProtossGroundArmorLevel3_quick": {
+    "id": 392,
+    "en": "Research Protoss Ground Armor Level3",
+    "zh": "研究星灵地面护甲3级"
+  },
+  "Research ProtossGroundArmorLevel3": {
+    "id": 392,
+    "en": "Research Protoss Ground Armor Level3",
+    "zh": "研究星灵地面护甲3级"
+  },
+  "Research_ProtossGroundWeapons_quick": {
+    "id": 393,
+    "en": "Research Protoss Ground Weapons",
+    "zh": "研究星灵地面武器攻击"
+  },
+  "Research ProtossGroundWeapons": {
+    "id": 393,
+    "en": "Research Protoss Ground Weapons",
+    "zh": "研究星灵地面武器攻击"
+  },
+  "Research_ProtossGroundWeaponsLevel1_quick": {
+    "id": 394,
+    "en": "Research Protoss Ground Weapons Level1",
+    "zh": "研究星灵地面武器攻击1级"
+  },
+  "Research ProtossGroundWeaponsLevel1": {
+    "id": 394,
+    "en": "Research Protoss Ground Weapons Level1",
+    "zh": "研究星灵地面武器攻击1级"
+  },
+  "Research_ProtossGroundWeaponsLevel2_quick": {
+    "id": 395,
+    "en": "Research Protoss Ground Weapons Level2",
+    "zh": "研究星灵地面武器攻击2级"
+  },
+  "Research ProtossGroundWeaponsLevel2": {
+    "id": 395,
+    "en": "Research Protoss Ground Weapons Level2",
+    "zh": "研究星灵地面武器攻击2级"
+  },
+  "Research_ProtossGroundWeaponsLevel3_quick": {
+    "id": 396,
+    "en": "Research Protoss Ground Weapons Level3",
+    "zh": "研究星灵地面武器攻击3级"
+  },
+  "Research ProtossGroundWeaponsLevel3": {
+    "id": 396,
+    "en": "Research Protoss Ground Weapons Level3",
+    "zh": "研究星灵地面武器攻击3级"
+  },
+  "Research_ProtossShields_quick": {
+    "id": 397,
+    "en": "Research Protoss Shields",
+    "zh": "研究星灵护盾"
+  },
+  "Research ProtossShields": {
+    "id": 397,
+    "en": "Research Protoss Shields",
+    "zh": "研究星灵护盾"
+  },
+  "Research_ProtossShieldsLevel1_quick": {
+    "id": 398,
+    "en": "Research Protoss Shields Level1",
+    "zh": "研究星灵护盾1级"
+  },
+  "Research ProtossShieldsLevel1": {
+    "id": 398,
+    "en": "Research Protoss Shields Level1",
+    "zh": "研究星灵护盾1级"
+  },
+  "Research_ProtossShieldsLevel2_quick": {
+    "id": 399,
+    "en": "Research Protoss Shields Level2",
+    "zh": "研究星灵护盾2级"
+  },
+  "Research ProtossShieldsLevel2": {
+    "id": 399,
+    "en": "Research Protoss Shields Level2",
+    "zh": "研究星灵护盾2级"
+  },
+  "Research_ProtossShieldsLevel3_quick": {
+    "id": 400,
+    "en": "Research Protoss Shields Level3",
+    "zh": "研究星灵护盾3级"
+  },
+  "Research ProtossShieldsLevel3": {
+    "id": 400,
+    "en": "Research Protoss Shields Level3",
+    "zh": "研究星灵护盾3级"
+  },
+  "Research_PsiStorm_quick": {
+    "id": 401,
+    "en": "Research Psi Storm",
+    "zh": "研究灵能风暴"
+  },
+  "Research PsiStorm": {
+    "id": 401,
+    "en": "Research Psi Storm",
+    "zh": "研究灵能风暴"
+  },
+  "Research_RavenCorvidReactor_quick": {
+    "id": 402,
+    "en": "Research Raven Corvid Reactor",
+    "zh": "研究渡鸦反应堆"
+  },
+  "Research RavenCorvidReactor": {
+    "id": 402,
+    "en": "Research Raven Corvid Reactor",
+    "zh": "研究渡鸦反应堆"
+  },
+  "Research_RavenRecalibratedExplosives_quick": {
+    "id": 403,
+    "en": "Research Raven Recalibrated Explosives",
+    "zh": "研究校准炸药"
+  },
+  "Research RavenRecalibratedExplosives": {
+    "id": 403,
+    "en": "Research Raven Recalibrated Explosives",
+    "zh": "研究校准炸药"
+  },
+  "Research_ShadowStrike_quick": {
+    "id": 404,
+    "en": "Research Shadow Strike",
+    "zh": "研究暗影突袭"
+  },
+  "Research ShadowStrike": {
+    "id": 404,
+    "en": "Research Shadow Strike",
+    "zh": "研究暗影突袭"
+  },
+  "Research_Stimpack_quick": {
+    "id": 405,
+    "en": "Research Stimpack",
+    "zh": "兴奋剂"
+  },
+  "Research Stimpack": {
+    "id": 405,
+    "en": "Research Stimpack",
+    "zh": "兴奋剂"
+  },
+  "Research_TerranInfantryArmor_quick": {
+    "id": 406,
+    "en": "Research Terran Infantry Armor",
+    "zh": "人族步兵护甲"
+  },
+  "Research TerranInfantryArmor": {
+    "id": 406,
+    "en": "Research Terran Infantry Armor",
+    "zh": "人族步兵护甲"
+  },
+  "Research_TerranInfantryArmorLevel1_quick": {
+    "id": 407,
+    "en": "Research Terran Infantry Armor Level1",
+    "zh": "人族步兵护甲1级"
+  },
+  "Research TerranInfantryArmorLevel1": {
+    "id": 407,
+    "en": "Research Terran Infantry Armor Level1",
+    "zh": "人族步兵护甲1级"
+  },
+  "Research_TerranInfantryArmorLevel2_quick": {
+    "id": 408,
+    "en": "Research Terran Infantry Armor Level2",
+    "zh": "人族步兵护甲2级"
+  },
+  "Research TerranInfantryArmorLevel2": {
+    "id": 408,
+    "en": "Research Terran Infantry Armor Level2",
+    "zh": "人族步兵护甲2级"
+  },
+  "Research_TerranInfantryArmorLevel3_quick": {
+    "id": 409,
+    "en": "Research Terran Infantry Armor Level3",
+    "zh": "人族步兵护甲3级"
+  },
+  "Research TerranInfantryArmorLevel3": {
+    "id": 409,
+    "en": "Research Terran Infantry Armor Level3",
+    "zh": "人族步兵护甲3级"
+  },
+  "Research_TerranInfantryWeapons_quick": {
+    "id": 410,
+    "en": "Research Terran Infantry Weapons",
+    "zh": "人族步兵武器"
+  },
+  "Research TerranInfantryWeapons": {
+    "id": 410,
+    "en": "Research Terran Infantry Weapons",
+    "zh": "人族步兵武器"
+  },
+  "Research_TerranInfantryWeaponsLevel1_quick": {
+    "id": 411,
+    "en": "Research Terran Infantry Weapons Level1",
+    "zh": "人族步兵武器1级"
+  },
+  "Research TerranInfantryWeaponsLevel1": {
+    "id": 411,
+    "en": "Research Terran Infantry Weapons Level1",
+    "zh": "人族步兵武器1级"
+  },
+  "Research_TerranInfantryWeaponsLevel2_quick": {
+    "id": 412,
+    "en": "Research Terran Infantry Weapons Level2",
+    "zh": "人族步兵武器2级"
+  },
+  "Research TerranInfantryWeaponsLevel2": {
+    "id": 412,
+    "en": "Research Terran Infantry Weapons Level2",
+    "zh": "人族步兵武器2级"
+  },
+  "Research_TerranInfantryWeaponsLevel3_quick": {
+    "id": 413,
+    "en": "Research Terran Infantry Weapons Level3",
+    "zh": "人族步兵武器3级"
+  },
+  "Research TerranInfantryWeaponsLevel3": {
+    "id": 413,
+    "en": "Research Terran Infantry Weapons Level3",
+    "zh": "人族步兵武器3级"
+  },
+  "Research_TerranShipWeapons_quick": {
+    "id": 414,
+    "en": "Research Terran Ship Weapons",
+    "zh": "人族舰船武器"
+  },
+  "Research TerranShipWeapons": {
+    "id": 414,
+    "en": "Research Terran Ship Weapons",
+    "zh": "人族舰船武器"
+  },
+  "Research_TerranShipWeaponsLevel1_quick": {
+    "id": 415,
+    "en": "Research Terran Ship Weapons Level1",
+    "zh": "飞船武器1级"
+  },
+  "Research TerranShipWeaponsLevel1": {
+    "id": 415,
+    "en": "Research Terran Ship Weapons Level1",
+    "zh": "飞船武器1级"
+  },
+  "Research_TerranShipWeaponsLevel2_quick": {
+    "id": 416,
+    "en": "Research Terran Ship Weapons Level2",
+    "zh": "飞船武器2级"
+  },
+  "Research TerranShipWeaponsLevel2": {
+    "id": 416,
+    "en": "Research Terran Ship Weapons Level2",
+    "zh": "飞船武器2级"
+  },
+  "Research_TerranShipWeaponsLevel3_quick": {
+    "id": 417,
+    "en": "Research Terran Ship Weapons Level3",
+    "zh": "飞船武器3级"
+  },
+  "Research TerranShipWeaponsLevel3": {
+    "id": 417,
+    "en": "Research Terran Ship Weapons Level3",
+    "zh": "飞船武器3级"
+  },
+  "Research_TerranStructureArmorUpgrade_quick": {
+    "id": 418,
+    "en": "Research Terran Structure Armor Upgrade",
+    "zh": "建筑护甲"
+  },
+  "Research TerranStructureArmorUpgrade": {
+    "id": 418,
+    "en": "Research Terran Structure Armor Upgrade",
+    "zh": "建筑护甲"
+  },
+  "Research_TerranVehicleAndShipPlating_quick": {
+    "id": 419,
+    "en": "Research Terran Vehicle And Ship Plating",
+    "zh": "车辆与飞船护甲"
+  },
+  "Research TerranVehicleAndShipPlating": {
+    "id": 419,
+    "en": "Research Terran Vehicle And Ship Plating",
+    "zh": "车辆与飞船护甲"
+  },
+  "Research_TerranVehicleAndShipPlatingLevel1_quick": {
+    "id": 420,
+    "en": "Research Terran Vehicle And Ship Plating Level1",
+    "zh": "车辆与飞船护甲1级"
+  },
+  "Research TerranVehicleAndShipPlatingLevel1": {
+    "id": 420,
+    "en": "Research Terran Vehicle And Ship Plating Level1",
+    "zh": "车辆与飞船护甲1级"
+  },
+  "Research_TerranVehicleAndShipPlatingLevel2_quick": {
+    "id": 421,
+    "en": "Research Terran Vehicle And Ship Plating Level2",
+    "zh": "车辆与飞船护甲2级"
+  },
+  "Research TerranVehicleAndShipPlatingLevel2": {
+    "id": 421,
+    "en": "Research Terran Vehicle And Ship Plating Level2",
+    "zh": "车辆与飞船护甲2级"
+  },
+  "Research_TerranVehicleAndShipPlatingLevel3_quick": {
+    "id": 422,
+    "en": "Research Terran Vehicle And Ship Plating Level3",
+    "zh": "车辆与飞船护甲3级"
+  },
+  "Research TerranVehicleAndShipPlatingLevel3": {
+    "id": 422,
+    "en": "Research Terran Vehicle And Ship Plating Level3",
+    "zh": "车辆与飞船护甲3级"
+  },
+  "Research_TerranVehicleWeapons_quick": {
+    "id": 423,
+    "en": "Research Terran Vehicle Weapons",
+    "zh": "车辆武器"
+  },
+  "Research TerranVehicleWeapons": {
+    "id": 423,
+    "en": "Research Terran Vehicle Weapons",
+    "zh": "车辆武器"
+  },
+  "Research_TerranVehicleWeaponsLevel1_quick": {
+    "id": 424,
+    "en": "Research Terran Vehicle Weapons Level1",
+    "zh": "车辆武器1级"
+  },
+  "Research TerranVehicleWeaponsLevel1": {
+    "id": 424,
+    "en": "Research Terran Vehicle Weapons Level1",
+    "zh": "车辆武器1级"
+  },
+  "Research_TerranVehicleWeaponsLevel2_quick": {
+    "id": 425,
+    "en": "Research Terran Vehicle Weapons Level2",
+    "zh": "研究人类车辆武器2级"
+  },
+  "Research TerranVehicleWeaponsLevel2": {
+    "id": 425,
+    "en": "Research Terran Vehicle Weapons Level2",
+    "zh": "研究人类车辆武器2级"
+  },
+  "Research_TerranVehicleWeaponsLevel3_quick": {
+    "id": 426,
+    "en": "Research Terran Vehicle Weapons Level3",
+    "zh": "研究人类车辆武器3级"
+  },
+  "Research TerranVehicleWeaponsLevel3": {
+    "id": 426,
+    "en": "Research Terran Vehicle Weapons Level3",
+    "zh": "研究人类车辆武器3级"
+  },
+  "Research_TunnelingClaws_quick": {
+    "id": 427,
+    "en": "Research Tunneling Claws",
+    "zh": "研究掘地爪"
+  },
+  "Research TunnelingClaws": {
+    "id": 427,
+    "en": "Research Tunneling Claws",
+    "zh": "研究掘地爪"
+  },
+  "Research_WarpGate_quick": {
+    "id": 428,
+    "en": "Research Warp Gate",
+    "zh": "研究折跃门"
+  },
+  "Research WarpGate": {
+    "id": 428,
+    "en": "Research Warp Gate",
+    "zh": "研究折跃门"
+  },
+  "Research_ZergFlyerArmor_quick": {
+    "id": 429,
+    "en": "Research Zerg Flyer Armor",
+    "zh": "研究异虫飞行护甲"
+  },
+  "Research ZergFlyerArmor": {
+    "id": 429,
+    "en": "Research Zerg Flyer Armor",
+    "zh": "研究异虫飞行护甲"
+  },
+  "Research_ZergFlyerArmorLevel1_quick": {
+    "id": 430,
+    "en": "Research Zerg Flyer Armor Level1",
+    "zh": "研究异虫飞行护甲1级"
+  },
+  "Research ZergFlyerArmorLevel1": {
+    "id": 430,
+    "en": "Research Zerg Flyer Armor Level1",
+    "zh": "研究异虫飞行护甲1级"
+  },
+  "Research_ZergFlyerArmorLevel2_quick": {
+    "id": 431,
+    "en": "Research Zerg Flyer Armor Level2",
+    "zh": "研究异虫飞行护甲2级"
+  },
+  "Research ZergFlyerArmorLevel2": {
+    "id": 431,
+    "en": "Research Zerg Flyer Armor Level2",
+    "zh": "研究异虫飞行护甲2级"
+  },
+  "Research_ZergFlyerArmorLevel3_quick": {
+    "id": 432,
+    "en": "Research Zerg Flyer Armor Level3",
+    "zh": "研究异虫飞行护甲3级"
+  },
+  "Research ZergFlyerArmorLevel3": {
+    "id": 432,
+    "en": "Research Zerg Flyer Armor Level3",
+    "zh": "研究异虫飞行护甲3级"
+  },
+  "Research_ZergFlyerAttack_quick": {
+    "id": 433,
+    "en": "Research Zerg Flyer Attack",
+    "zh": "研究异虫飞行攻击"
+  },
+  "Research ZergFlyerAttack": {
+    "id": 433,
+    "en": "Research Zerg Flyer Attack",
+    "zh": "研究异虫飞行攻击"
+  },
+  "Research_ZergFlyerAttackLevel1_quick": {
+    "id": 434,
+    "en": "Research Zerg Flyer Attack Level1",
+    "zh": "研究异虫飞行攻击1级"
+  },
+  "Research ZergFlyerAttackLevel1": {
+    "id": 434,
+    "en": "Research Zerg Flyer Attack Level1",
+    "zh": "研究异虫飞行攻击1级"
+  },
+  "Research_ZergFlyerAttackLevel2_quick": {
+    "id": 435,
+    "en": "Research Zerg Flyer Attack Level2",
+    "zh": "研究异虫飞行攻击2级"
+  },
+  "Research ZergFlyerAttackLevel2": {
+    "id": 435,
+    "en": "Research Zerg Flyer Attack Level2",
+    "zh": "研究异虫飞行攻击2级"
+  },
+  "Research_ZergFlyerAttackLevel3_quick": {
+    "id": 436,
+    "en": "Research Zerg Flyer Attack Level3",
+    "zh": "研究异虫飞行攻击3级"
+  },
+  "Research ZergFlyerAttackLevel3": {
+    "id": 436,
+    "en": "Research Zerg Flyer Attack Level3",
+    "zh": "研究异虫飞行攻击3级"
+  },
+  "Research_ZergGroundArmor_quick": {
+    "id": 437,
+    "en": "Research Zerg Ground Armor",
+    "zh": "研究异虫地面护甲"
+  },
+  "Research ZergGroundArmor": {
+    "id": 437,
+    "en": "Research Zerg Ground Armor",
+    "zh": "研究异虫地面护甲"
+  },
+  "Research_ZergGroundArmorLevel1_quick": {
+    "id": 438,
+    "en": "Research Zerg Ground Armor Level1",
+    "zh": "研究异虫地面护甲1级"
+  },
+  "Research ZergGroundArmorLevel1": {
+    "id": 438,
+    "en": "Research Zerg Ground Armor Level1",
+    "zh": "研究异虫地面护甲1级"
+  },
+  "Research_ZergGroundArmorLevel2_quick": {
+    "id": 439,
+    "en": "Research Zerg Ground Armor Level2",
+    "zh": "研究异虫地面护甲2级"
+  },
+  "Research ZergGroundArmorLevel2": {
+    "id": 439,
+    "en": "Research Zerg Ground Armor Level2",
+    "zh": "研究异虫地面护甲2级"
+  },
+  "Research_ZergGroundArmorLevel3_quick": {
+    "id": 440,
+    "en": "Research Zerg Ground Armor Level3",
+    "zh": "研究异虫地面护甲3级"
+  },
+  "Research ZergGroundArmorLevel3": {
+    "id": 440,
+    "en": "Research Zerg Ground Armor Level3",
+    "zh": "研究异虫地面护甲3级"
+  },
+  "Research_ZergMeleeWeapons_quick": {
+    "id": 441,
+    "en": "Research Zerg Melee Weapons",
+    "zh": "研究异虫近战武器"
+  },
+  "Research ZergMeleeWeapons": {
+    "id": 441,
+    "en": "Research Zerg Melee Weapons",
+    "zh": "研究异虫近战武器"
+  },
+  "Research_ZergMeleeWeaponsLevel1_quick": {
+    "id": 442,
+    "en": "Research Zerg Melee Weapons Level1",
+    "zh": "研究异虫近战武器1级"
+  },
+  "Research ZergMeleeWeaponsLevel1": {
+    "id": 442,
+    "en": "Research Zerg Melee Weapons Level1",
+    "zh": "研究异虫近战武器1级"
+  },
+  "Research_ZergMeleeWeaponsLevel2_quick": {
+    "id": 443,
+    "en": "Research Zerg Melee Weapons Level2",
+    "zh": "研究异虫近战武器2级"
+  },
+  "Research ZergMeleeWeaponsLevel2": {
+    "id": 443,
+    "en": "Research Zerg Melee Weapons Level2",
+    "zh": "研究异虫近战武器2级"
+  },
+  "Research_ZergMeleeWeaponsLevel3_quick": {
+    "id": 444,
+    "en": "Research Zerg Melee Weapons Level3",
+    "zh": "研究异虫近战武器3级"
+  },
+  "Research ZergMeleeWeaponsLevel3": {
+    "id": 444,
+    "en": "Research Zerg Melee Weapons Level3",
+    "zh": "研究异虫近战武器3级"
+  },
+  "Research_ZergMissileWeapons_quick": {
+    "id": 445,
+    "en": "Research Zerg Missile Weapons",
+    "zh": "研究异虫远程攻击"
+  },
+  "Research ZergMissileWeapons": {
+    "id": 445,
+    "en": "Research Zerg Missile Weapons",
+    "zh": "研究异虫远程攻击"
+  },
+  "Research_ZergMissileWeaponsLevel1_quick": {
+    "id": 446,
+    "en": "Research Zerg Missile Weapons Level1",
+    "zh": "研究异虫远程攻击等级1"
+  },
+  "Research ZergMissileWeaponsLevel1": {
+    "id": 446,
+    "en": "Research Zerg Missile Weapons Level1",
+    "zh": "研究异虫远程攻击等级1"
+  },
+  "Research_ZergMissileWeaponsLevel2_quick": {
+    "id": 447,
+    "en": "Research Zerg Missile Weapons Level2",
+    "zh": "研究异虫远程攻击等级2"
+  },
+  "Research ZergMissileWeaponsLevel2": {
+    "id": 447,
+    "en": "Research Zerg Missile Weapons Level2",
+    "zh": "研究异虫远程攻击等级2"
+  },
+  "Research_ZergMissileWeaponsLevel3_quick": {
+    "id": 448,
+    "en": "Research Zerg Missile Weapons Level3",
+    "zh": "研究异虫远程攻击等级3"
+  },
+  "Research ZergMissileWeaponsLevel3": {
+    "id": 448,
+    "en": "Research Zerg Missile Weapons Level3",
+    "zh": "研究异虫远程攻击等级3"
+  },
+  "Research_ZerglingAdrenalGlands_quick": {
+    "id": 449,
+    "en": "Research Zergling Adrenal Glands",
+    "zh": "研究肾上腺"
+  },
+  "Research ZerglingAdrenalGlands": {
+    "id": 449,
+    "en": "Research Zergling Adrenal Glands",
+    "zh": "研究肾上腺"
+  },
+  "Research_ZerglingMetabolicBoost_quick": {
+    "id": 450,
+    "en": "Research Zergling Metabolic Boost",
+    "zh": "研究代谢加速"
+  },
+  "Research ZerglingMetabolicBoost": {
+    "id": 450,
+    "en": "Research Zergling Metabolic Boost",
+    "zh": "研究代谢加速"
+  },
+  "Smart_screen": {
+    "id": 451,
+    "en": "Smart",
+    "zh": "智能"
+  },
+  "Smart": {
+    "id": 451,
+    "en": "Smart",
+    "zh": "智能"
+  },
+  "Smart_minimap": {
+    "id": 452,
+    "en": "Smart",
+    "zh": "智能"
+  },
+  "Stop_quick": {
+    "id": 453,
+    "en": "Stop",
+    "zh": "停止"
+  },
+  "Stop": {
+    "id": 453,
+    "en": "Stop",
+    "zh": "停止"
+  },
+  "Stop_Building_quick": {
+    "id": 454,
+    "en": "Stop Building",
+    "zh": "停止_建筑"
+  },
+  "Stop Building": {
+    "id": 454,
+    "en": "Stop Building",
+    "zh": "停止_建筑"
+  },
+  "Stop_Redirect_quick": {
+    "id": 455,
+    "en": "Stop Redirect",
+    "zh": "停止_重定向"
+  },
+  "Stop Redirect": {
+    "id": 455,
+    "en": "Stop Redirect",
+    "zh": "停止_重定向"
+  },
+  "Stop_Stop_quick": {
+    "id": 456,
+    "en": "Stop Stop",
+    "zh": "停止_停止"
+  },
+  "Stop Stop": {
+    "id": 456,
+    "en": "Stop Stop",
+    "zh": "停止_停止"
+  },
+  "Train_Adept_quick": {
+    "id": 457,
+    "en": "Train Adept",
+    "zh": "训练_使徒"
+  },
+  "Train Adept": {
+    "id": 457,
+    "en": "Train Adept",
+    "zh": "训练_使徒"
+  },
+  "Train_Baneling_quick": {
+    "id": 458,
+    "en": "Train Baneling",
+    "zh": "训练爆蚊"
+  },
+  "Train Baneling": {
+    "id": 458,
+    "en": "Train Baneling",
+    "zh": "训练爆蚊"
+  },
+  "Train_Banshee_quick": {
+    "id": 459,
+    "en": "Train Banshee",
+    "zh": "训练女妖"
+  },
+  "Train Banshee": {
+    "id": 459,
+    "en": "Train Banshee",
+    "zh": "训练女妖"
+  },
+  "Train_Battlecruiser_quick": {
+    "id": 460,
+    "en": "Train Battlecruiser",
+    "zh": "训练战列巡航舰"
+  },
+  "Train Battlecruiser": {
+    "id": 460,
+    "en": "Train Battlecruiser",
+    "zh": "训练战列巡航舰"
+  },
+  "Train_Carrier_quick": {
+    "id": 461,
+    "en": "Train Carrier",
+    "zh": "训练航母"
+  },
+  "Train Carrier": {
+    "id": 461,
+    "en": "Train Carrier",
+    "zh": "训练航母"
+  },
+  "Train_Colossus_quick": {
+    "id": 462,
+    "en": "Train Colossus",
+    "zh": "训练巨像"
+  },
+  "Train Colossus": {
+    "id": 462,
+    "en": "Train Colossus",
+    "zh": "训练巨像"
+  },
+  "Train_Corruptor_quick": {
+    "id": 463,
+    "en": "Train Corruptor",
+    "zh": "训练腐化者"
+  },
+  "Train Corruptor": {
+    "id": 463,
+    "en": "Train Corruptor",
+    "zh": "训练腐化者"
+  },
+  "Train_Cyclone_quick": {
+    "id": 464,
+    "en": "Train Cyclone",
+    "zh": "训练飓风"
+  },
+  "Train Cyclone": {
+    "id": 464,
+    "en": "Train Cyclone",
+    "zh": "训练飓风"
+  },
+  "Train_DarkTemplar_quick": {
+    "id": 465,
+    "en": "Train Dark Templar",
+    "zh": "训练黑暗圣堂武士"
+  },
+  "Train DarkTemplar": {
+    "id": 465,
+    "en": "Train Dark Templar",
+    "zh": "训练黑暗圣堂武士"
+  },
+  "Train_Disruptor_quick": {
+    "id": 466,
+    "en": "Train Disruptor",
+    "zh": "训练裂变球"
+  },
+  "Train Disruptor": {
+    "id": 466,
+    "en": "Train Disruptor",
+    "zh": "训练裂变球"
+  },
+  "Train_Drone_quick": {
+    "id": 467,
+    "en": "Train Drone",
+    "zh": "训练工蜂"
+  },
+  "Train Drone": {
+    "id": 467,
+    "en": "Train Drone",
+    "zh": "训练工蜂"
+  },
+  "Train_Ghost_quick": {
+    "id": 468,
+    "en": "Train Ghost",
+    "zh": "训练幽灵"
+  },
+  "Train Ghost": {
+    "id": 468,
+    "en": "Train Ghost",
+    "zh": "训练幽灵"
+  },
+  "Train_Hellbat_quick": {
+    "id": 469,
+    "en": "Train Hellbat",
+    "zh": "训练地狱蝙蝠"
+  },
+  "Train Hellbat": {
+    "id": 469,
+    "en": "Train Hellbat",
+    "zh": "训练地狱蝙蝠"
+  },
+  "Train_Hellion_quick": {
+    "id": 470,
+    "en": "Train Hellion",
+    "zh": "训练地狱火"
+  },
+  "Train Hellion": {
+    "id": 470,
+    "en": "Train Hellion",
+    "zh": "训练地狱火"
+  },
+  "Train_HighTemplar_quick": {
+    "id": 471,
+    "en": "Train High Templar",
+    "zh": "训练高级圣堂武士"
+  },
+  "Train HighTemplar": {
+    "id": 471,
+    "en": "Train High Templar",
+    "zh": "训练高级圣堂武士"
+  },
+  "Train_Hydralisk_quick": {
+    "id": 472,
+    "en": "Train Hydralisk",
+    "zh": "训练刺蛇"
+  },
+  "Train Hydralisk": {
+    "id": 472,
+    "en": "Train Hydralisk",
+    "zh": "训练刺蛇"
+  },
+  "Train_Immortal_quick": {
+    "id": 473,
+    "en": "Train Immortal",
+    "zh": "训练不朽者"
+  },
+  "Train Immortal": {
+    "id": 473,
+    "en": "Train Immortal",
+    "zh": "训练不朽者"
+  },
+  "Train_Infestor_quick": {
+    "id": 474,
+    "en": "Train Infestor",
+    "zh": "训练感染虫"
+  },
+  "Train Infestor": {
+    "id": 474,
+    "en": "Train Infestor",
+    "zh": "训练感染虫"
+  },
+  "Train_Liberator_quick": {
+    "id": 475,
+    "en": "Train Liberator",
+    "zh": "训练解放者"
+  },
+  "Train Liberator": {
+    "id": 475,
+    "en": "Train Liberator",
+    "zh": "训练解放者"
+  },
+  "Train_Marauder_quick": {
+    "id": 476,
+    "en": "Train Marauder",
+    "zh": "训练掠夺者"
+  },
+  "Train Marauder": {
+    "id": 476,
+    "en": "Train Marauder",
+    "zh": "训练掠夺者"
+  },
+  "Train_Marine_quick": {
+    "id": 477,
+    "en": "Train Marine",
+    "zh": "训练陆战队员"
+  },
+  "Train Marine": {
+    "id": 477,
+    "en": "Train Marine",
+    "zh": "训练陆战队员"
+  },
+  "Train_Medivac_quick": {
+    "id": 478,
+    "en": "Train Medivac",
+    "zh": "训练医疗运输机"
+  },
+  "Train Medivac": {
+    "id": 478,
+    "en": "Train Medivac",
+    "zh": "训练医疗运输机"
+  },
+  "Train_MothershipCore_quick": {
+    "id": 479,
+    "en": "Train Mothership Core",
+    "zh": "训练母舰核心"
+  },
+  "Train MothershipCore": {
+    "id": 479,
+    "en": "Train Mothership Core",
+    "zh": "训练母舰核心"
+  },
+  "Train_Mutalisk_quick": {
+    "id": 480,
+    "en": "Train Mutalisk",
+    "zh": "训练飞龙"
+  },
+  "Train Mutalisk": {
+    "id": 480,
+    "en": "Train Mutalisk",
+    "zh": "训练飞龙"
+  },
+  "Train_Observer_quick": {
+    "id": 481,
+    "en": "Train Observer",
+    "zh": "训练侦测器"
+  },
+  "Train Observer": {
+    "id": 481,
+    "en": "Train Observer",
+    "zh": "训练侦测器"
+  },
+  "Train_Oracle_quick": {
+    "id": 482,
+    "en": "Train Oracle",
+    "zh": "训练先知"
+  },
+  "Train Oracle": {
+    "id": 482,
+    "en": "Train Oracle",
+    "zh": "训练先知"
+  },
+  "Train_Overlord_quick": {
+    "id": 483,
+    "en": "Train Overlord",
+    "zh": "训练宿主"
+  },
+  "Train Overlord": {
+    "id": 483,
+    "en": "Train Overlord",
+    "zh": "训练宿主"
+  },
+  "Train_Phoenix_quick": {
+    "id": 484,
+    "en": "Train Phoenix",
+    "zh": "训练凤凰"
+  },
+  "Train Phoenix": {
+    "id": 484,
+    "en": "Train Phoenix",
+    "zh": "训练凤凰"
+  },
+  "Train_Probe_quick": {
+    "id": 485,
+    "en": "Train Probe",
+    "zh": "训练探机"
+  },
+  "Train Probe": {
+    "id": 485,
+    "en": "Train Probe",
+    "zh": "训练探机"
+  },
+  "Train_Queen_quick": {
+    "id": 486,
+    "en": "Train Queen",
+    "zh": "训练女王"
+  },
+  "Train Queen": {
+    "id": 486,
+    "en": "Train Queen",
+    "zh": "训练女王"
+  },
+  "Train_Raven_quick": {
+    "id": 487,
+    "en": "Train Raven",
+    "zh": "训练渡鸦"
+  },
+  "Train Raven": {
+    "id": 487,
+    "en": "Train Raven",
+    "zh": "训练渡鸦"
+  },
+  "Train_Reaper_quick": {
+    "id": 488,
+    "en": "Train Reaper",
+    "zh": "训练收割者"
+  },
+  "Train Reaper": {
+    "id": 488,
+    "en": "Train Reaper",
+    "zh": "训练收割者"
+  },
+  "Train_Roach_quick": {
+    "id": 489,
+    "en": "Train Roach",
+    "zh": "训练蟑螂"
+  },
+  "Train Roach": {
+    "id": 489,
+    "en": "Train Roach",
+    "zh": "训练蟑螂"
+  },
+  "Train_SCV_quick": {
+    "id": 490,
+    "en": "Train S C V",
+    "zh": "训练SCV"
+  },
+  "Train SCV": {
+    "id": 490,
+    "en": "Train S C V",
+    "zh": "训练SCV"
+  },
+  "Train_Sentry_quick": {
+    "id": 491,
+    "en": "Train Sentry",
+    "zh": "训练哨兵"
+  },
+  "Train Sentry": {
+    "id": 491,
+    "en": "Train Sentry",
+    "zh": "训练哨兵"
+  },
+  "Train_SiegeTank_quick": {
+    "id": 492,
+    "en": "Train Siege Tank",
+    "zh": "训练攻城坦克"
+  },
+  "Train SiegeTank": {
+    "id": 492,
+    "en": "Train Siege Tank",
+    "zh": "训练攻城坦克"
+  },
+  "Train_Stalker_quick": {
+    "id": 493,
+    "en": "Train Stalker",
+    "zh": "训练追猎者"
+  },
+  "Train Stalker": {
+    "id": 493,
+    "en": "Train Stalker",
+    "zh": "训练追猎者"
+  },
+  "Train_SwarmHost_quick": {
+    "id": 494,
+    "en": "Train Swarm Host",
+    "zh": "训练虫群宿主"
+  },
+  "Train SwarmHost": {
+    "id": 494,
+    "en": "Train Swarm Host",
+    "zh": "训练虫群宿主"
+  },
+  "Train_Tempest_quick": {
+    "id": 495,
+    "en": "Train Tempest",
+    "zh": "训练风暴战舰"
+  },
+  "Train Tempest": {
+    "id": 495,
+    "en": "Train Tempest",
+    "zh": "训练风暴战舰"
+  },
+  "Train_Thor_quick": {
+    "id": 496,
+    "en": "Train Thor",
+    "zh": "训练雷神"
+  },
+  "Train Thor": {
+    "id": 496,
+    "en": "Train Thor",
+    "zh": "训练雷神"
+  },
+  "Train_Ultralisk_quick": {
+    "id": 497,
+    "en": "Train Ultralisk",
+    "zh": "Train Ultralisk"
+  },
+  "Train Ultralisk": {
+    "id": 497,
+    "en": "Train Ultralisk",
+    "zh": "Train Ultralisk"
+  },
+  "Train_VikingFighter_quick": {
+    "id": 498,
+    "en": "Train Viking Fighter",
+    "zh": "Train Viking Fighter"
+  },
+  "Train VikingFighter": {
+    "id": 498,
+    "en": "Train Viking Fighter",
+    "zh": "Train Viking Fighter"
+  },
+  "Train_Viper_quick": {
+    "id": 499,
+    "en": "Train Viper",
+    "zh": "Train Viper"
+  },
+  "Train Viper": {
+    "id": 499,
+    "en": "Train Viper",
+    "zh": "Train Viper"
+  },
+  "Train_VoidRay_quick": {
+    "id": 500,
+    "en": "Train Void Ray",
+    "zh": "Train Void Ray"
+  },
+  "Train VoidRay": {
+    "id": 500,
+    "en": "Train Void Ray",
+    "zh": "Train Void Ray"
+  },
+  "Train_WarpPrism_quick": {
+    "id": 501,
+    "en": "Train Warp Prism",
+    "zh": "Train Warp Prism"
+  },
+  "Train WarpPrism": {
+    "id": 501,
+    "en": "Train Warp Prism",
+    "zh": "Train Warp Prism"
+  },
+  "Train_WidowMine_quick": {
+    "id": 502,
+    "en": "Train Widow Mine",
+    "zh": "Train Widow Mine"
+  },
+  "Train WidowMine": {
+    "id": 502,
+    "en": "Train Widow Mine",
+    "zh": "Train Widow Mine"
+  },
+  "Train_Zealot_quick": {
+    "id": 503,
+    "en": "Train Zealot",
+    "zh": "Train Zealot"
+  },
+  "Train Zealot": {
+    "id": 503,
+    "en": "Train Zealot",
+    "zh": "Train Zealot"
+  },
+  "Train_Zergling_quick": {
+    "id": 504,
+    "en": "Train Zergling",
+    "zh": "Train Zergling"
+  },
+  "Train Zergling": {
+    "id": 504,
+    "en": "Train Zergling",
+    "zh": "Train Zergling"
+  },
+  "TrainWarp_Adept_screen": {
+    "id": 505,
+    "en": "Train Warp Adept",
+    "zh": "折跃训练_使徒"
+  },
+  "TrainWarp Adept": {
+    "id": 505,
+    "en": "Train Warp Adept",
+    "zh": "折跃训练_使徒"
+  },
+  "TrainWarp_DarkTemplar_screen": {
+    "id": 506,
+    "en": "Train Warp Dark Templar",
+    "zh": "折跃训练_黑暗圣堂武士"
+  },
+  "TrainWarp DarkTemplar": {
+    "id": 506,
+    "en": "Train Warp Dark Templar",
+    "zh": "折跃训练_黑暗圣堂武士"
+  },
+  "TrainWarp_HighTemplar_screen": {
+    "id": 507,
+    "en": "Train Warp High Templar",
+    "zh": "折跃训练_高级圣堂武士"
+  },
+  "TrainWarp HighTemplar": {
+    "id": 507,
+    "en": "Train Warp High Templar",
+    "zh": "折跃训练_高级圣堂武士"
+  },
+  "TrainWarp_Sentry_screen": {
+    "id": 508,
+    "en": "Train Warp Sentry",
+    "zh": "折跃训练_哨兵"
+  },
+  "TrainWarp Sentry": {
+    "id": 508,
+    "en": "Train Warp Sentry",
+    "zh": "折跃训练_哨兵"
+  },
+  "TrainWarp_Stalker_screen": {
+    "id": 509,
+    "en": "Train Warp Stalker",
+    "zh": "折跃训练_追猎者"
+  },
+  "TrainWarp Stalker": {
+    "id": 509,
+    "en": "Train Warp Stalker",
+    "zh": "折跃训练_追猎者"
+  },
+  "TrainWarp_Zealot_screen": {
+    "id": 510,
+    "en": "Train Warp Zealot",
+    "zh": "折跃训练_狂热者"
+  },
+  "TrainWarp Zealot": {
+    "id": 510,
+    "en": "Train Warp Zealot",
+    "zh": "折跃训练_狂热者"
+  },
+  "UnloadAll_quick": {
+    "id": 511,
+    "en": "Unload All",
+    "zh": "Unload All"
+  },
+  "UnloadAll": {
+    "id": 511,
+    "en": "Unload All",
+    "zh": "Unload All"
+  },
+  "UnloadAll_Bunker_quick": {
+    "id": 512,
+    "en": "Unload All Bunker",
+    "zh": "地堡卸载所有"
+  },
+  "UnloadAll Bunker": {
+    "id": 512,
+    "en": "Unload All Bunker",
+    "zh": "地堡卸载所有"
+  },
+  "UnloadAll_CommandCenter_quick": {
+    "id": 513,
+    "en": "Unload All Command Center",
+    "zh": "指挥中心卸载所有"
+  },
+  "UnloadAll CommandCenter": {
+    "id": 513,
+    "en": "Unload All Command Center",
+    "zh": "指挥中心卸载所有"
+  },
+  "UnloadAll_NydusNetwork_quick": {
+    "id": 514,
+    "en": "Unload All Nydus Network",
+    "zh": "虫道网络卸载所有"
+  },
+  "UnloadAll NydusNetwork": {
+    "id": 514,
+    "en": "Unload All Nydus Network",
+    "zh": "虫道网络卸载所有"
+  },
+  "UnloadAll_NydusWorm_quick": {
+    "id": 515,
+    "en": "Unload All Nydus Worm",
+    "zh": "虫道宿主卸载所有"
+  },
+  "UnloadAll NydusWorm": {
+    "id": 515,
+    "en": "Unload All Nydus Worm",
+    "zh": "虫道宿主卸载所有"
+  },
+  "UnloadAllAt_screen": {
+    "id": 516,
+    "en": "Unload All At",
+    "zh": "Unload All At"
+  },
+  "UnloadAllAt": {
+    "id": 516,
+    "en": "Unload All At",
+    "zh": "Unload All At"
+  },
+  "UnloadAllAt_minimap": {
+    "id": 517,
+    "en": "Unload All At",
+    "zh": "Unload All At"
+  },
+  "UnloadAllAt_Medivac_screen": {
+    "id": 518,
+    "en": "Unload All At Medivac",
+    "zh": "医疗运输机卸载所有"
+  },
+  "UnloadAllAt Medivac": {
+    "id": 518,
+    "en": "Unload All At Medivac",
+    "zh": "医疗运输机卸载所有"
+  },
+  "UnloadAllAt_Medivac_minimap": {
+    "id": 519,
+    "en": "Unload All At Medivac",
+    "zh": "医疗运输机卸载所有"
+  },
+  "UnloadAllAt_Overlord_screen": {
+    "id": 520,
+    "en": "Unload All At Overlord",
+    "zh": "宿主卸载所有"
+  },
+  "UnloadAllAt Overlord": {
+    "id": 520,
+    "en": "Unload All At Overlord",
+    "zh": "宿主卸载所有"
+  },
+  "UnloadAllAt_Overlord_minimap": {
+    "id": 521,
+    "en": "Unload All At Overlord",
+    "zh": "宿主卸载所有"
+  },
+  "UnloadAllAt_WarpPrism_screen": {
+    "id": 522,
+    "en": "Unload All At Warp Prism",
+    "zh": "折跃棱镜卸载所有"
+  },
+  "UnloadAllAt WarpPrism": {
+    "id": 522,
+    "en": "Unload All At Warp Prism",
+    "zh": "折跃棱镜卸载所有"
+  },
+  "UnloadAllAt_WarpPrism_minimap": {
+    "id": 523,
+    "en": "Unload All At Warp Prism",
+    "zh": "折跃棱镜卸载所有"
+  },
+  "Build_LurkerDen_screen": {
+    "id": 524,
+    "en": "Build Lurker Den",
+    "zh": "潜地者巢穴"
+  },
+  "Build LurkerDen": {
+    "id": 524,
+    "en": "Build Lurker Den",
+    "zh": "潜地者巢穴"
+  },
+  "Build_ShieldBattery_screen": {
+    "id": 525,
+    "en": "Build Shield Battery",
+    "zh": "护盾电池"
+  },
+  "Build ShieldBattery": {
+    "id": 525,
+    "en": "Build Shield Battery",
+    "zh": "护盾电池"
+  },
+  "Effect_AntiArmorMissile_screen": {
+    "id": 526,
+    "en": "Effect Anti Armor Missile",
+    "zh": "效果_反装甲导弹"
+  },
+  "Effect AntiArmorMissile": {
+    "id": 526,
+    "en": "Effect Anti Armor Missile",
+    "zh": "效果_反装甲导弹"
+  },
+  "Effect_ChronoBoostEnergyCost_screen": {
+    "id": 527,
+    "en": "Effect Chrono Boost Energy Cost",
+    "zh": "效果_时空加速能量消耗"
+  },
+  "Effect ChronoBoostEnergyCost": {
+    "id": 527,
+    "en": "Effect Chrono Boost Energy Cost",
+    "zh": "效果_时空加速能量消耗"
+  },
+  "Effect_InterferenceMatrix_screen": {
+    "id": 528,
+    "en": "Effect Interference Matrix",
+    "zh": "干扰矩阵"
+  },
+  "Effect InterferenceMatrix": {
+    "id": 528,
+    "en": "Effect Interference Matrix",
+    "zh": "干扰矩阵"
+  },
+  "Effect_MassRecall_Nexus_screen": {
+    "id": 529,
+    "en": "Effect Mass Recall Nexus",
+    "zh": "星核群体召回"
+  },
+  "Effect MassRecall Nexus": {
+    "id": 529,
+    "en": "Effect Mass Recall Nexus",
+    "zh": "星核群体召回"
+  },
+  "Effect_Repair_RepairDrone_screen": {
+    "id": 530,
+    "en": "Effect Repair Repair Drone",
+    "zh": "无人机修理"
+  },
+  "Effect Repair RepairDrone": {
+    "id": 530,
+    "en": "Effect Repair Repair Drone",
+    "zh": "无人机修理"
+  },
+  "Effect_Repair_RepairDrone_autocast": {
+    "id": 531,
+    "en": "Effect Repair Repair Drone",
+    "zh": "无人机修理"
+  },
+  "Effect Repair RepairDrone autocast": {
+    "id": 531,
+    "en": "Effect Repair Repair Drone",
+    "zh": "无人机修理"
+  },
+  "Effect_RepairDrone_screen": {
+    "id": 532,
+    "en": "Effect Repair Drone",
+    "zh": "修理"
+  },
+  "Effect RepairDrone": {
+    "id": 532,
+    "en": "Effect Repair Drone",
+    "zh": "修理"
+  },
+  "Effect_Restore_screen": {
+    "id": 533,
+    "en": "Effect Restore",
+    "zh": "治疗"
+  },
+  "Effect Restore": {
+    "id": 533,
+    "en": "Effect Restore",
+    "zh": "治疗"
+  },
+  "Effect_Restore_autocast": {
+    "id": 534,
+    "en": "Effect Restore",
+    "zh": "治疗"
+  },
+  "Effect Restore autocast": {
+    "id": 534,
+    "en": "Effect Restore",
+    "zh": "治疗"
+  },
+  "Morph_ObserverMode_quick": {
+    "id": 535,
+    "en": "Morph Observer Mode",
+    "zh": "切换至观察者模式"
+  },
+  "Morph ObserverMode": {
+    "id": 535,
+    "en": "Morph Observer Mode",
+    "zh": "切换至观察者模式"
+  },
+  "Morph_OverseerMode_quick": {
+    "id": 536,
+    "en": "Morph Overseer Mode",
+    "zh": "切换至眼虫模式"
+  },
+  "Morph OverseerMode": {
+    "id": 536,
+    "en": "Morph Overseer Mode",
+    "zh": "切换至眼虫模式"
+  },
+  "Morph_OversightMode_quick": {
+    "id": 537,
+    "en": "Morph Oversight Mode",
+    "zh": "切换至监督模式"
+  },
+  "Morph OversightMode": {
+    "id": 537,
+    "en": "Morph Oversight Mode",
+    "zh": "切换至监督模式"
+  },
+  "Morph_SurveillanceMode_quick": {
+    "id": 538,
+    "en": "Morph Surveillance Mode",
+    "zh": "切换至监视模式"
+  },
+  "Morph SurveillanceMode": {
+    "id": 538,
+    "en": "Morph Surveillance Mode",
+    "zh": "切换至监视模式"
+  },
+  "Research_AdaptiveTalons_quick": {
+    "id": 539,
+    "en": "Research Adaptive Talons",
+    "zh": "研究自适应利爪"
+  },
+  "Research AdaptiveTalons": {
+    "id": 539,
+    "en": "Research Adaptive Talons",
+    "zh": "研究自适应利爪"
+  },
+  "Research_CycloneRapidFireLaunchers_quick": {
+    "id": 540,
+    "en": "Research Cyclone Rapid Fire Launchers",
+    "zh": "研究旋风战车速射发射器"
+  },
+  "Research CycloneRapidFireLaunchers": {
+    "id": 540,
+    "en": "Research Cyclone Rapid Fire Launchers",
+    "zh": "研究旋风战车速射发射器"
+  },
+  "Train_Mothership_quick": {
+    "id": 541,
+    "en": "Train Mothership",
+    "zh": "训练母舰"
+  },
+  "Train Mothership": {
+    "id": 541,
+    "en": "Train Mothership",
+    "zh": "训练母舰"
+  },
+  "Effect_Scan_minimap": {
+    "id": 542,
+    "en": "Effect Scan",
+    "zh": "扫描"
+  },
+  "Effect_Blink_minimap": {
+    "id": 543,
+    "en": "Effect Blink",
+    "zh": "效果_闪现"
+  },
+  "Effect_Blink_Stalker_minimap": {
+    "id": 544,
+    "en": "Effect Blink Stalker",
+    "zh": "效果_闪现_追猎者"
+  },
+  "Effect_ShadowStride_minimap": {
+    "id": 545,
+    "en": "Effect Shadow Stride",
+    "zh": "暗影步"
+  },
+  "Cancel_VoidRayPrismaticAlignment_quick": {
+    "id": 546,
+    "en": "Cancel Void Ray Prismatic Alignment",
+    "zh": "取消_虚空光线棱镜校准"
+  },
+  "Cancel VoidRayPrismaticAlignment": {
+    "id": 546,
+    "en": "Cancel Void Ray Prismatic Alignment",
+    "zh": "取消_虚空光线棱镜校准"
+  },
+  "Effect_AdeptPhaseShift_minimap": {
+    "id": 547,
+    "en": "Effect Adept Phase Shift",
+    "zh": "效果_使徒相位转换"
+  },
+  "Effect_MassRecall_StrategicRecall_screen": {
+    "id": 548,
+    "en": "Effect Mass Recall Strategic Recall",
+    "zh": "战术召回"
+  },
+  "Effect MassRecall StrategicRecall": {
+    "id": 548,
+    "en": "Effect Mass Recall Strategic Recall",
+    "zh": "战术召回"
+  },
+  "Effect_Spray_minimap": {
+    "id": 549,
+    "en": "Effect Spray",
+    "zh": "喷涂"
+  },
+  "Effect_Spray_Protoss_minimap": {
+    "id": 550,
+    "en": "Effect Spray Protoss",
+    "zh": "星灵喷涂"
+  },
+  "Effect_Spray_Terran_minimap": {
+    "id": 551,
+    "en": "Effect Spray Terran",
+    "zh": "泰伦喷涂"
+  },
+  "Effect_Spray_Zerg_minimap": {
+    "id": 552,
+    "en": "Effect Spray Zerg",
+    "zh": "异虫喷涂"
+  },
+  "Effect_TacticalJump_minimap": {
+    "id": 553,
+    "en": "Effect Tactical Jump",
+    "zh": "战术跳跃"
+  },
+  "Morph_LiberatorAGMode_minimap": {
+    "id": 554,
+    "en": "Morph Liberator A G Mode",
+    "zh": "解放者_对地模式"
+  },
+  "Attack_Battlecruiser_screen": {
+    "id": 555,
+    "en": "Attack Battlecruiser",
+    "zh": "攻击"
+  },
+  "Attack Battlecruiser": {
+    "id": 555,
+    "en": "Attack Battlecruiser",
+    "zh": "攻击"
+  },
+  "Attack_Battlecruiser_minimap": {
+    "id": 556,
+    "en": "Attack Battlecruiser",
+    "zh": "攻击"
+  },
+  "Effect_LockOn_autocast": {
+    "id": 557,
+    "en": "Effect Lock On",
+    "zh": "锁定"
+  },
+  "Effect LockOn autocast": {
+    "id": 557,
+    "en": "Effect Lock On",
+    "zh": "锁定"
+  },
+  "HoldPosition_Battlecruiser_quick": {
+    "id": 558,
+    "en": "Hold Position Battlecruiser",
+    "zh": "战列巡航舰保持位置"
+  },
+  "HoldPosition Battlecruiser": {
+    "id": 558,
+    "en": "Hold Position Battlecruiser",
+    "zh": "战列巡航舰保持位置"
+  },
+  "HoldPosition_Hold_quick": {
+    "id": 559,
+    "en": "Hold Position Hold",
+    "zh": "保持位置"
+  },
+  "HoldPosition Hold": {
+    "id": 559,
+    "en": "Hold Position Hold",
+    "zh": "保持位置"
+  },
+  "Morph_WarpGate_autocast": {
+    "id": 560,
+    "en": "Morph Warp Gate",
+    "zh": "折跃门"
+  },
+  "Morph WarpGate autocast": {
+    "id": 560,
+    "en": "Morph Warp Gate",
+    "zh": "折跃门"
+  },
+  "Move_Battlecruiser_screen": {
+    "id": 561,
+    "en": "Move Battlecruiser",
+    "zh": "移动"
+  },
+  "Move Battlecruiser": {
+    "id": 561,
+    "en": "Move Battlecruiser",
+    "zh": "移动"
+  },
+  "Move_Battlecruiser_minimap": {
+    "id": 562,
+    "en": "Move Battlecruiser",
+    "zh": "移动"
+  },
+  "Move_Move_screen": {
+    "id": 563,
+    "en": "Move Move",
+    "zh": "移动"
+  },
+  "Move Move": {
+    "id": 563,
+    "en": "Move Move",
+    "zh": "移动"
+  },
+  "Move_Move_minimap": {
+    "id": 564,
+    "en": "Move Move",
+    "zh": "移动"
+  },
+  "Patrol_Battlecruiser_screen": {
+    "id": 565,
+    "en": "Patrol Battlecruiser",
+    "zh": "巡逻"
+  },
+  "Patrol Battlecruiser": {
+    "id": 565,
+    "en": "Patrol Battlecruiser",
+    "zh": "巡逻"
+  },
+  "Patrol_Battlecruiser_minimap": {
+    "id": 566,
+    "en": "Patrol Battlecruiser",
+    "zh": "巡逻"
+  },
+  "Patrol_Patrol_screen": {
+    "id": 567,
+    "en": "Patrol Patrol",
+    "zh": "巡逻"
+  },
+  "Patrol Patrol": {
+    "id": 567,
+    "en": "Patrol Patrol",
+    "zh": "巡逻"
+  },
+  "Patrol_Patrol_minimap": {
+    "id": 568,
+    "en": "Patrol Patrol",
+    "zh": "巡逻"
+  },
+  "Research_AnabolicSynthesis_quick": {
+    "id": 569,
+    "en": "Research Anabolic Synthesis",
+    "zh": "研究合成代谢"
+  },
+  "Research AnabolicSynthesis": {
+    "id": 569,
+    "en": "Research Anabolic Synthesis",
+    "zh": "研究合成代谢"
+  },
+  "Research_CycloneLockOnDamage_quick": {
+    "id": 570,
+    "en": "Research Cyclone Lock On Damage",
+    "zh": "研究旋风锁定伤害"
+  },
+  "Research CycloneLockOnDamage": {
+    "id": 570,
+    "en": "Research Cyclone Lock On Damage",
+    "zh": "研究旋风锁定伤害"
+  },
+  "Stop_Battlecruiser_quick": {
+    "id": 571,
+    "en": "Stop Battlecruiser",
+    "zh": "停止_战列巡航舰"
+  },
+  "Stop Battlecruiser": {
+    "id": 571,
+    "en": "Stop Battlecruiser",
+    "zh": "停止_战列巡航舰"
+  },
+  "Research_EnhancedShockwaves_quick": {
+    "id": 572,
+    "en": "Research Enhanced Shockwaves",
+    "zh": "研究强化灵能风暴"
+  },
+  "Research EnhancedShockwaves": {
+    "id": 572,
+    "en": "Research Enhanced Shockwaves",
+    "zh": "研究强化灵能风暴"
+  }
+}

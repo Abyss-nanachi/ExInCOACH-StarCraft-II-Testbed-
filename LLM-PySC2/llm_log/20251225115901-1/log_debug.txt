@@ -1,0 +1,4 @@
+20251225115901
+2025-12-25 11:59:02.756 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Airborne DefaultTranslatorA initialized
+2025-12-25 11:59:02.758 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Airborne CombatGroupTranslatorO initialized
+2025-12-25 11:59:02.758 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Airborne DefaultCommunicator initialized

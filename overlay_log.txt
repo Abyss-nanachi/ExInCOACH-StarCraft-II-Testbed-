@@ -1,0 +1,1176 @@
+[2025-12-28 14:14:56.182] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[17.5,42.5],"raw_units_count":62,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[54,62,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":54,"unit_x":20,"unit_y":20,"screen_pos":[20,20],"coord_sys":"minimap"}],"internal_target_location":[14,24],"target_location_debug":{"loc":[14,24]},"screen_units_count":26,"selected_unit_screen":{"x":40,"y":22,"tag":0},"selected_units_raw":[{"x":20.0,"y":20.0,"radius":0.0,"tag":4314890241,"mapped_pos":[20,20],"mapped_coord":"minimap"}],"box_cue":{"min_x":40,"max_x":40,"min_y":22,"max_y":22},"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=box, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:19.983] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[36,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":36,"unit_x":16,"unit_y":25,"screen_pos":[16,25],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,25
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:20.175] Decision: no_op
+    Debug: {}
+--------------------------------------------------
+[2025-12-28 14:15:20.672] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[46,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":46,"unit_x":16,"unit_y":24,"screen_pos":[16,24],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,24
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:21.045] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[46,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":46,"unit_x":18,"unit_y":21,"screen_pos":[18,21],"coord_sys":"minimap"}],"internal_target_location":[15,28],"target_location_debug":{"loc":[15,28]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,21
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:21.381] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[38,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":38,"unit_x":16,"unit_y":22,"screen_pos":[16,22],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,22
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:21.748] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[37,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":37,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:22.123] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[47,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":47,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[4]]), queue:tensor([[0]]), units:tensor([[[ 47],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:22.503] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[51,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":51,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[81]]), queue:tensor([[0]]), units:tensor([[[ 51],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:22.870] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[33,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":33,"unit_x":17,"unit_y":20,"screen_pos":[17,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[127]]), queue:tensor([[0]]), units:tensor([[[ 33],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:23.185] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[34,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":34,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:23.621] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[47,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":47,"unit_x":17,"unit_y":20,"screen_pos":[17,20],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:23.935] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[35,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":35,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:24.311] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[45,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":45,"unit_x":14,"unit_y":22,"screen_pos":[14,22],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=14,22
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:24.686] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[48,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":48,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[11]]), queue:tensor([[0]]), units:tensor([[[ 48],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:24.999] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[41,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":41,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:25.373] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[49,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":49,"unit_x":14,"unit_y":22,"screen_pos":[14,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=14,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[106]]), queue:tensor([[0]]), units:tensor([[[ 49],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:25.749] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[40,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":40,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[7]]), queue:tensor([[0]]), units:tensor([[[ 40],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:26.124] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[33,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":33,"unit_x":17,"unit_y":22,"screen_pos":[17,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[59]]), queue:tensor([[0]]), units:tensor([[[ 33],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:26.439] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[32,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":32,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[21,26],"target_location_debug":{"loc":[21,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:26.872] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[51,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":51,"unit_x":16,"unit_y":22,"screen_pos":[16,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[125]]), queue:tensor([[0]]), units:tensor([[[ 51],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:27.243] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[54,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":54,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:27.552] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[54,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":54,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:27.948] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[37,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":37,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[6]]), queue:tensor([[0]]), units:tensor([[[ 37],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:28.308] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[47,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":47,"unit_x":17,"unit_y":22,"screen_pos":[17,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[21]]), queue:tensor([[0]]), units:tensor([[[ 47],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:28.628] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[37,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":37,"unit_x":15,"unit_y":23,"screen_pos":[15,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[35]]), queue:tensor([[0]]), units:tensor([[[ 37],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:29.005] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[36,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":36,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:29.381] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[41,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":41,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[43]]), queue:tensor([[0]]), units:tensor([[[ 41],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:29.757] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[40,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":40,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[95]]), queue:tensor([[0]]), units:tensor([[[ 40],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:30.132] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[40,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":40,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[52]]), queue:tensor([[0]]), units:tensor([[[ 40],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:30.442] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[45,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":45,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:30.809] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[46,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":46,"unit_x":17,"unit_y":22,"screen_pos":[17,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[90]]), queue:tensor([[0]]), units:tensor([[[ 46],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:31.250] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[46,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":46,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[17,26],"target_location_debug":{"loc":[17,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:31.625] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[44,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":44,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[96]]), queue:tensor([[0]]), units:tensor([[[ 44],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:31.948] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[36,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":36,"unit_x":16,"unit_y":22,"screen_pos":[16,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[122]]), queue:tensor([[0]]), units:tensor([[[ 36],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:32.358] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[42,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":42,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[29]]), queue:tensor([[0]]), units:tensor([[[ 42],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:32.709] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[44,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":44,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:33.072] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[38,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":38,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:33.455] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[52,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":52,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[18,26],"target_location_debug":{"loc":[18,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:33.826] Decision: Behavior_HoldFireOn_Lurker_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[45,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":45,"unit_x":18,"unit_y":20,"screen_pos":[18,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Lurker_quick","internal_target_unit_idx":53,"target_unit_debug":{"idx":53,"x":21,"y":19}}
+    Cue: Type=ripple, Text=, Pos=18,20
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Behavior HoldFireOn Lurker, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:34.140] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[47,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":47,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[22,24],"target_location_debug":{"loc":[22,24]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:34.518] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[49,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":49,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[56]]), queue:tensor([[0]]), units:tensor([[[ 49],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:34.885] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[49,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":49,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[21,22],"target_location_debug":{"loc":[21,22]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:35.281] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[34,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":34,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[101]]), queue:tensor([[0]]), units:tensor([[[ 34],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:35.592] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[42,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":42,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:36.042] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[32,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":32,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[101]]), queue:tensor([[0]]), units:tensor([[[ 32],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:36.342] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[52,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":52,"unit_x":14,"unit_y":23,"screen_pos":[14,23],"coord_sys":"minimap"}],"internal_target_location":[21,22],"target_location_debug":{"loc":[21,22]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=14,23
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:36.720] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[45,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":45,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[62]]), queue:tensor([[0]]), units:tensor([[[ 45],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:37.031] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[32,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":32,"unit_x":17,"unit_y":22,"screen_pos":[17,22],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,22
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:37.467] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[46,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":46,"unit_x":18,"unit_y":20,"screen_pos":[18,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[89]]), queue:tensor([[0]]), units:tensor([[[ 46],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:37.780] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[41,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":41,"unit_x":17,"unit_y":21,"screen_pos":[17,21],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,21
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[9]]), queue:tensor([[0]]), units:tensor([[[ 41],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:38.221] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[34,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":34,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[71]]), queue:tensor([[0]]), units:tensor([[[ 34],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:38.535] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[37,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":37,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[25]]), queue:tensor([[0]]), units:tensor([[[ 37],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:38.910] Decision: Build_UltraliskCavern_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[32,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":32,"unit_x":17,"unit_y":22,"screen_pos":[17,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_UltraliskCavern_screen","internal_target_unit_idx":41,"target_unit_debug":{"idx":41,"x":14,"y":23}}
+    Cue: Type=ripple, Text=, Pos=17,22
+    Cue: Type=arrow, Text=action type:tensor([[102]]), delay:tensor([[27]]), queue:tensor([[0]]), units:tensor([[[ 32],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[41]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Build UltraliskCavern, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:39.276] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[39,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":39,"unit_x":15,"unit_y":23,"screen_pos":[15,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[116]]), queue:tensor([[0]]), units:tensor([[[ 39],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:39.591] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[39,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":39,"unit_x":16,"unit_y":22,"screen_pos":[16,22],"coord_sys":"minimap"}],"internal_target_location":[21,24],"target_location_debug":{"loc":[21,24]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,22
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:39.977] Decision: Build_DarkShrine_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[49,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":49,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_DarkShrine_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[49]]), delay:tensor([[110]]), queue:tensor([[0]]), units:tensor([[[ 49],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build DarkShrine, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:40.405] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[35,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":35,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[112]]), queue:tensor([[0]]), units:tensor([[[ 35],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:40.718] Decision: Build_UltraliskCavern_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[41,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":41,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_UltraliskCavern_screen","internal_target_unit_idx":47,"target_unit_debug":{"idx":47,"x":14,"y":23}}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=action type:tensor([[102]]), delay:tensor([[23]]), queue:tensor([[0]]), units:tensor([[[ 41],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[47]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Build UltraliskCavern, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:41.089] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[54,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":54,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[21,22],"target_location_debug":{"loc":[21,22]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:41.504] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[45,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":45,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[22,22],"target_location_debug":{"loc":[22,22]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:41.835] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[46,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":46,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:42.166] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[32,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":32,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[21,22],"target_location_debug":{"loc":[21,22]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:42.554] Decision: Build_UltraliskCavern_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[47,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":47,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_UltraliskCavern_screen","internal_target_unit_idx":43,"target_unit_debug":{"idx":43,"x":14,"y":21}}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=action type:tensor([[102]]), delay:tensor([[83]]), queue:tensor([[0]]), units:tensor([[[ 47],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[43]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Build UltraliskCavern, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:42.923] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[36,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":36,"unit_x":18,"unit_y":20,"screen_pos":[18,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[112]]), queue:tensor([[0]]), units:tensor([[[ 36],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:43.365] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[53,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":53,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[28]]), queue:tensor([[0]]), units:tensor([[[ 53],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:43.673] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[48,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":48,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[21,27],"target_location_debug":{"loc":[21,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:43.986] Decision: Build_UltraliskCavern_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[49,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":49,"unit_x":16,"unit_y":22,"screen_pos":[16,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_UltraliskCavern_screen","internal_target_unit_idx":51,"target_unit_debug":{"idx":51,"x":14,"y":23}}
+    Cue: Type=ripple, Text=, Pos=16,22
+    Cue: Type=arrow, Text=action type:tensor([[102]]), delay:tensor([[97]]), queue:tensor([[0]]), units:tensor([[[ 49],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[51]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Build UltraliskCavern, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:44.362] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[50,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":50,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:44.731] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[49,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":49,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[7]]), queue:tensor([[0]]), units:tensor([[[ 49],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:45.114] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[34,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":34,"unit_x":16,"unit_y":22,"screen_pos":[16,22],"coord_sys":"minimap"}],"internal_target_location":[24,25],"target_location_debug":{"loc":[24,25]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,22
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:45.429] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[47,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":47,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[28]]), queue:tensor([[0]]), units:tensor([[[ 47],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:45.789] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[49,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":49,"unit_x":18,"unit_y":20,"screen_pos":[18,20],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:46.176] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[38,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":38,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[1]]), queue:tensor([[0]]), units:tensor([[[ 38],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:46.545] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[35,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":35,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[24,26],"target_location_debug":{"loc":[24,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:46.980] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[39,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":39,"unit_x":18,"unit_y":19,"screen_pos":[18,19],"coord_sys":"minimap"}],"internal_target_location":[21,26],"target_location_debug":{"loc":[21,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,19
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:47.234] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[47,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":47,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[127]]), queue:tensor([[0]]), units:tensor([[[ 47],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:47.605] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[44,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":44,"unit_x":18,"unit_y":19,"screen_pos":[18,19],"coord_sys":"minimap"}],"internal_target_location":[20,27],"target_location_debug":{"loc":[20,27]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,19
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:47.985] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[44,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":44,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[112]]), queue:tensor([[0]]), units:tensor([[[ 44],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:48.353] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[39,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":39,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:48.729] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[38,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":38,"unit_x":18,"unit_y":19,"screen_pos":[18,19],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,19
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:49.053] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[33,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":33,"unit_x":18,"unit_y":20,"screen_pos":[18,20],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:49.446] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[38,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":38,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[15,28],"target_location_debug":{"loc":[15,28]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:49.773] Decision: Behavior_HoldFireOn_Lurker_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[34,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":34,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Lurker_quick","internal_target_unit_idx":42,"target_unit_debug":{"idx":42,"x":21,"y":19}}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Behavior HoldFireOn Lurker, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:50.146] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[52,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":52,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[22,25],"target_location_debug":{"loc":[22,25]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:50.581] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[44,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":44,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[81]]), queue:tensor([[0]]), units:tensor([[[ 44],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:50.905] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[36,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":36,"unit_x":15,"unit_y":23,"screen_pos":[15,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[42]]), queue:tensor([[0]]), units:tensor([[[ 36],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:51.289] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[17,55,511,511,511,511,511,511,511,511,511,511],"camera_mm_rect":[9,24,15,30],"selected_units_debug":[{"idx":17,"unit_x":12,"unit_y":49,"screen_pos":[12,0],"coord_sys":"screen"}],"internal_target_location":[17,27],"target_location_debug":{"loc":[17,27]},"box_cue":{"min_x":12,"max_x":12,"min_y":0,"max_y":0},"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=box, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+    Cue: Type=ripple, Text=, Pos=12,0
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:51.732] Decision: Build_DarkShrine_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[34,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":34,"unit_x":18,"unit_y":20,"screen_pos":[18,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_DarkShrine_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,20
+    Cue: Type=arrow, Text=action type:tensor([[49]]), delay:tensor([[9]]), queue:tensor([[0]]), units:tensor([[[ 34],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build DarkShrine, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:52.050] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[50,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":50,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[114]]), queue:tensor([[0]]), units:tensor([[[ 50],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:52.417] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[33,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":33,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:52.726] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[43,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":43,"unit_x":15,"unit_y":22,"screen_pos":[15,22],"coord_sys":"minimap"}],"internal_target_location":[17,27],"target_location_debug":{"loc":[17,27]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,22
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:53.236] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[51,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":51,"unit_x":15,"unit_y":20,"screen_pos":[15,20],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:53.543] Decision: Build_UltraliskCavern_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[53,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":53,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_UltraliskCavern_screen","internal_target_unit_idx":38,"target_unit_debug":{"idx":38,"x":14,"y":23}}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=action type:tensor([[102]]), delay:tensor([[28]]), queue:tensor([[1]]), units:tensor([[[ 53],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[38]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Build UltraliskCavern, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:53.915] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[42,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":42,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:54.297] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[50,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":50,"unit_x":18,"unit_y":19,"screen_pos":[18,19],"coord_sys":"minimap"}],"internal_target_location":[22,24],"target_location_debug":{"loc":[22,24]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=18,19
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:54.606] Decision: Behavior_PulsarBeamOff_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[40,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":40,"unit_x":15,"unit_y":21,"screen_pos":[15,21],"coord_sys":"minimap"}],"internal_target_location":[19,27],"target_location_debug":{"loc":[19,27]},"screen_units_count":23,"raw_action_name":"Behavior_PulsarBeamOff_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,21
+    Cue: Type=arrow, Text=Behavior PulsarBeamOff, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:54.985] Decision: Build_UltraliskCavern_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[44,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":44,"unit_x":17,"unit_y":21,"screen_pos":[17,21],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_UltraliskCavern_screen","internal_target_unit_idx":53,"target_unit_debug":{"idx":53,"x":14,"y":23}}
+    Cue: Type=ripple, Text=, Pos=17,21
+    Cue: Type=arrow, Text=action type:tensor([[102]]), delay:tensor([[38]]), queue:tensor([[0]]), units:tensor([[[ 44],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[53]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Build UltraliskCavern, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:55.356] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[50,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":50,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[21,22],"target_location_debug":{"loc":[21,22]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:55.729] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[40,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":40,"unit_x":17,"unit_y":22,"screen_pos":[17,22],"coord_sys":"minimap"}],"internal_target_location":[16,26],"target_location_debug":{"loc":[16,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,22
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:56.041] Decision: Behavior_HoldFireOn_Ghost_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[43,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":43,"unit_x":17,"unit_y":21,"screen_pos":[17,21],"coord_sys":"minimap"}],"internal_target_location":[24,26],"target_location_debug":{"loc":[24,26]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Ghost_quick","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=17,21
+    Cue: Type=arrow, Text=Behavior HoldFireOn Ghost, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:56.478] Decision: Behavior_HoldFireOn_Lurker_quick
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[48,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":48,"unit_x":16,"unit_y":20,"screen_pos":[16,20],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Behavior_HoldFireOn_Lurker_quick","internal_target_unit_idx":50,"target_unit_debug":{"idx":50,"x":21,"y":19}}
+    Cue: Type=ripple, Text=, Pos=16,20
+    Cue: Type=arrow, Text=Target, Pos=-1,-1
+    Cue: Type=arrow, Text=Behavior HoldFireOn Lurker, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:56.870] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[35,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":35,"unit_x":19,"unit_y":23,"screen_pos":[19,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=19,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[5]]), queue:tensor([[0]]), units:tensor([[[ 35],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:15:57.246] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[53,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":53,"unit_x":15,"unit_y":23,"screen_pos":[15,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[85]]), queue:tensor([[0]]), units:tensor([[[ 53],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:25:30.147] Decision: Build_MissileTurret_screen
+    Debug: {"camera_found":true,"camera_mm_found":true,"camera_val":[16.5,41.5],"raw_units_count":55,"sample_unit":{"tag":8595374083,"x":44,"y":46},"internal_units_idx":[53,55,511,511,511,511,511,511,511,511,511,511],"selected_units_debug":[{"idx":53,"unit_x":15,"unit_y":23,"screen_pos":[15,23],"coord_sys":"minimap"}],"internal_target_location":[63,63],"target_location_debug":{"loc":[63,63]},"screen_units_count":23,"raw_action_name":"Build_MissileTurret_screen","internal_target_unit_idx":511}
+    Cue: Type=ripple, Text=, Pos=15,23
+    Cue: Type=arrow, Text=action type:tensor([[64]]), delay:tensor([[85]]), queue:tensor([[0]]), units:tensor([[[ 53],
+         [ 55],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511],
+         [511]]]), 
+        target unit:tensor([[[511]]]), target location:tensor([[63, 63]]), Pos=-1,-1
+    Cue: Type=arrow, Text=Build MissileTurret, Pos=-1,-1
+--------------------------------------------------
+[2025-12-28 14:42:43.257] Decision: Error in decision: 'NoneType' object has no attribute 'functions'
+--------------------------------------------------
+[2025-12-28 14:42:48.572] Decision: Error in decision: 'NoneType' object has no attribute 'functions'
+--------------------------------------------------
+[2025-12-28 14:42:53.918] Decision: Error in decision: 'NoneType' object has no attribute 'functions'
+--------------------------------------------------

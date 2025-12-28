@@ -1,0 +1,59 @@
+20251228143110
+2025-12-28 14:31:11.323 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Airborne DefaultTranslatorA initialized
+2025-12-28 14:31:11.323 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Airborne CombatGroupTranslatorO initialized
+2025-12-28 14:31:11.324 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Airborne DefaultCommunicator initialized
+2025-12-28 14:31:11.814 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Airborne glm-4 GlmClient initialized
+2025-12-28 14:31:11.814 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Airborne successfully initialized!
+2025-12-28 14:31:11.815 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Builder DefaultTranslatorA initialized
+2025-12-28 14:31:11.815 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Builder CombatGroupTranslatorO initialized
+2025-12-28 14:31:11.817 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Builder DefaultCommunicator initialized
+2025-12-28 14:31:12.294 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Builder glm-4 GlmClient initialized
+2025-12-28 14:31:12.295 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Builder successfully initialized!
+2025-12-28 14:31:12.295 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Commander DefaultTranslatorA initialized
+2025-12-28 14:31:12.296 | INFO     | llm_pysc2.lib.llm_observation:__init__:794 - [ID 1] Commander CommanderTranslatorO initialized
+2025-12-28 14:31:12.296 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Commander DefaultCommunicator initialized
+2025-12-28 14:31:12.744 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Commander glm-4 GlmClient initialized
+2025-12-28 14:31:12.744 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Commander successfully initialized!
+2025-12-28 14:31:12.746 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Developer DefaultTranslatorA initialized
+2025-12-28 14:31:12.746 | INFO     | llm_pysc2.lib.llm_observation:__init__:830 - [ID 1] Developer DeveloperTranslatorO initialized
+2025-12-28 14:31:12.746 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Developer DefaultCommunicator initialized
+2025-12-28 14:31:13.215 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Developer glm-4 GlmClient initialized
+2025-12-28 14:31:13.217 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Developer successfully initialized!
+2025-12-28 14:31:13.217 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Defender DefaultTranslatorA initialized
+2025-12-28 14:31:13.217 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Defender CombatGroupTranslatorO initialized
+2025-12-28 14:31:13.218 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Defender DefaultCommunicator initialized
+2025-12-28 14:31:13.693 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] Defender glm-4 GlmClient initialized
+2025-12-28 14:31:13.693 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent Defender successfully initialized!
+2025-12-28 14:31:13.695 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup0 DefaultTranslatorA initialized
+2025-12-28 14:31:13.695 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup0 CombatGroupTranslatorO initialized
+2025-12-28 14:31:13.696 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup0 DefaultCommunicator initialized
+2025-12-28 14:31:14.249 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup0 glm-4 GlmClient initialized
+2025-12-28 14:31:14.249 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup0 successfully initialized!
+2025-12-28 14:31:14.250 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup1 DefaultTranslatorA initialized
+2025-12-28 14:31:14.250 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup1 CombatGroupTranslatorO initialized
+2025-12-28 14:31:14.250 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup1 DefaultCommunicator initialized
+2025-12-28 14:31:14.726 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup1 glm-4 GlmClient initialized
+2025-12-28 14:31:14.726 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup1 successfully initialized!
+2025-12-28 14:31:14.728 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup2 DefaultTranslatorA initialized
+2025-12-28 14:31:14.728 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup2 CombatGroupTranslatorO initialized
+2025-12-28 14:31:14.728 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup2 DefaultCommunicator initialized
+2025-12-28 14:31:15.239 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup2 glm-4 GlmClient initialized
+2025-12-28 14:31:15.239 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup2 successfully initialized!
+2025-12-28 14:31:15.239 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup3 DefaultTranslatorA initialized
+2025-12-28 14:31:15.240 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup3 CombatGroupTranslatorO initialized
+2025-12-28 14:31:15.240 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup3 DefaultCommunicator initialized
+2025-12-28 14:31:15.706 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup3 glm-4 GlmClient initialized
+2025-12-28 14:31:15.706 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup3 successfully initialized!
+2025-12-28 14:31:15.708 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup4 DefaultTranslatorA initialized
+2025-12-28 14:31:15.708 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup4 CombatGroupTranslatorO initialized
+2025-12-28 14:31:15.708 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup4 DefaultCommunicator initialized
+2025-12-28 14:31:16.146 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup4 glm-4 GlmClient initialized
+2025-12-28 14:31:16.146 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup4 successfully initialized!
+2025-12-28 14:31:16.147 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup5 DefaultTranslatorA initialized
+2025-12-28 14:31:16.147 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup5 CombatGroupTranslatorO initialized
+2025-12-28 14:31:16.147 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup5 DefaultCommunicator initialized
+2025-12-28 14:31:16.620 | INFO     | llm_pysc2.lib.llm_client:__init__:273 - [ID 1] CombatGroup5 glm-4 GlmClient initialized
+2025-12-28 14:31:16.620 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:142 - [ID 1] Agent CombatGroup5 successfully initialized!
+2025-12-28 14:31:16.622 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup6 DefaultTranslatorA initialized
+2025-12-28 14:31:16.622 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup6 CombatGroupTranslatorO initialized
+2025-12-28 14:31:16.623 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup6 DefaultCommunicator initialized

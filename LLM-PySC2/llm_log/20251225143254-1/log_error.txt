@@ -1,0 +1,7 @@
+20251225143254
+2025-12-25 14:34:58.447 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:530 - [ID 1] 7.3.2.1 Agent CombatGroup7: unit of tag 4300210177 not found
+2025-12-25 14:34:58.447 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:531 - [ID 1]         relative team = Adept-1 [4300210177, 4297326593]
+2025-12-25 14:34:58.449 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:533 - [ID 1] 7.3.4 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2025-12-25 14:34:59.474 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:530 - [ID 1] 7.3.2.1 Agent CombatGroup7: unit of tag 4300210177 not found
+2025-12-25 14:34:59.485 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:531 - [ID 1]         relative team = Adept-1 [4300210177, 4297326593]
+2025-12-25 14:34:59.486 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:533 - [ID 1] 7.3.4 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.queued: 1>], [52.0, 32.0]])

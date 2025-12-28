@@ -1,0 +1,4 @@
+20251225140031
+2025-12-25 14:02:28.723 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:530 - [ID 1] 7.3.2.1 Agent CombatGroup7: unit of tag 4316987393 not found
+2025-12-25 14:02:28.723 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:531 - [ID 1]         relative team = AdeptPhase-1 [4316987393]
+2025-12-25 14:02:28.724 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:533 - [ID 1] 7.3.4 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.now: 0>]])

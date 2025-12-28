@@ -1,0 +1,3 @@
+20251228144236
+2025-12-28 14:42:36.804 | ERROR    | llm_pysc2.agents.configs.config:auto_check:115 - [ID 1] No model_name set, please specify model_name in the config.
+2025-12-28 14:42:36.805 | ERROR    | llm_pysc2.agents.configs.config:auto_check:119 - [ID 1] No api_key set, please specify your api_key in the config.

@@ -1,0 +1,5 @@
+models/alphastar_model.pth
+SC2Overlay.exe
+overlay_data.json
+config.json
+__pycache__/
